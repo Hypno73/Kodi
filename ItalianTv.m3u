@@ -1,13 +1,9 @@
 #EXTM3U
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
-#EXTINF:0,X-Factor 1
-http://beta.skystreaming.net/tv/27f7a53e70.m3u8?e=1443395634&st=uiGIaTXBaHdeHnvTGgrSeA
-#EXTINF:0,X-Factor 2
-http://www.nowvideo.li/video/5f00b27212296
-#EXTINF:0,X-Factor 3
-http://www.nowvideo.li/video/5e61dacac9c22
+#EXTINF:0,Sky Calcio HD
+http://beta.skystreaming.net/tv/27f7a53e70.m3u8?e=1443396123&st=nNKXrfN9Oq36ydhsrYRHUw
+#EXTINF:0,RAI 2 HD
+http://iptv-world.ddns.net:8000/live/Gabriele/Gabriele/1711.ts
+#EXTINF:0,RAI 3 HD
+http://iptv-world.ddns.net:8000/live/Gabriele/Gabriele/1712.ts
 
