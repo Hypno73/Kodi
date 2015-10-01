@@ -1,124 +1,181 @@
 #EXTM3U
 
-#EXTINF:-1, open test
-https://openload.co/f/WHzijAwyTKs
-#EXTINF:-1, nat geo
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/96.m3u8
-#EXTINF:-1, Hot Rod Garage
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/95.m3u8
-#EXTINF:-1,cartoon
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/94.m3u8
-#EXTINF:-1,Khan Academy
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/93.m3u8
-#EXTINF:-1,children
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/92.m3u8
-#EXTINF:-1,Howcast craft
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/91.m3u8
-#EXTINF:-1,CNet
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/90.m3u8
-#EXTINF:-1, Disney Channel
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/89.m3u8
-#EXTINF:-1, TED Talks
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/88.m3u8
-#EXTINF:-1, My Damn Channel
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/87.m3u8
-#EXTINF:-1, Comedy Central
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/86.m3u8
-#EXTINF:-1, Eurosport (Fr)
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/85.m3u8
-#EXTINF:-1,TNT
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/84.m3u8
-#EXTINF:-1, Conan
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/83.m3u8
-#EXTINF:-1, TBS
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/82.m3u8
-#EXTINF:-1,ABS-CBN
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/81.m3u8
-#EXTINF:-1, C SPAN
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/80.m3u8
-#EXTINF:-1, Bloomberg
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/79.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/78.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/77.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/76.m3u8
-#EXTINF:-1, FOX SPORTS 1
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/74.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/73.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/72.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/71.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/70.m3u8
-#EXTINF:-1,nas car
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
-#EXTINF:-1,MLS Now
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/68.m3u8
-#EXTINF:-1, golf
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/67.m3u8
-#EXTINF:-1, nas car loop
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/66.m3u8
-#EXTINF:-1, The CW Network
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/65.m3u8
-#EXTINF:-1, NBC Network
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/64.m3u8
-#EXTINF:-1, cbs loop
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/63.m3u8
-#EXTINF:-1, Bein Sports Xtra (mixed lang.)
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
-#EXTINF:-1, go pro loop
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/61.m3u8
-#EXTINF:-1, discovery
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/60.m3u8
-#EXTINF:-1, NPR
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/54.m3u8
-#EXTINF:-1, FOOD NETWORK
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/53.m3u8
-#EXTINF:-1, HGTV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/52.m3u8
-#EXTINF:-1, USA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/50.m3u8
-#EXTINF:-1, Epic Rap Battles of History
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/48.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/47.m3u8
-#EXTINF:-1, DISCOVERY NEWS
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/46.m3u8
-#EXTINF:-1,BW TV Sitcoms
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/45.m3u8
-#EXTINF:-1, Epic Meal Time
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/43.m3u8
-#EXTINF:-1, FOX BUSINESS
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/42.m3u8
-#EXTINF:-1, fox loop
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/41.m3u8
-#EXTINF:-1, MLB TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/40.m3u8
-#EXTINF:-1, FRANCE 24
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/39.m3u8
-#EXTINF:-1, CNN
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/38.m3u8
-#EXTINF:-1, MSNBC
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/37.m3u8
-#EXTINF:-1, NPR
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/36.m3u8
-#EXTINF:-1, FOX NEWS
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/35.m3u8
-#EXTINF:-1, discovery loop
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/33.m3u8
-#EXTINF:-1, usa
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/32.m3u8
-#EXTINF:-1, cnbc news
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/31.m3u8
-#EXTINF:-1, bbc news report
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/30.m3u8
-#EXTINF:-1, NFL
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/29.m3u8
-#EXTINF:-1, rhenium states
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/28.m3u8
+#EXTINF:0,IT: Premium Cinema HD
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/627.ts
+#EXTINF:0,IT: Premium Cinema 2 HD
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/609.ts
+#EXTINF:0,IT: Premium Cinema +24
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/612.ts
+#EXTINF:0,IT: Premium Crime
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/621.ts
+#EXTINF:0,IT: Premium Crime +24
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/611.ts
+#EXTINF:0,IT: Premium Action HD
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/626.ts
+#EXTINF:0,IT: Premium Comedy
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/620.ts
+#EXTINF:0,IT: Premium BBC
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/618.ts
+#EXTINF:0,IT: Premium Stories
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/625.ts
+#EXTINF:0,IT: Premium Joy
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/624.ts
+#EXTINF:0,IT: Premium Energy
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/623.ts
+#EXTINF:0,IT: Premium Emotion
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/622.ts
+#EXTINF:0,IT: Premium Studio Universal
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/619.ts
+#EXTINF:0,IT: Premium Disney Junior
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/617.ts
+#EXTINF:0,IT: Premium Disney Channel
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/616.ts
+#EXTINF:0,IT: Premium Discovery World
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/614.ts
+#EXTINF:0,IT: Premium Cartoon Network
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/613.ts
+#EXTINF:0,IT: Premium Sport
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/615.ts
+#EXTINF:0,IT: Premium EuroSport 1 HD
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/608.ts
+#EXTINF:0,IT: Premium EuroSport 2 HD
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/610.ts
+#EXTINF:0,IT: Premium Calcio HD
+http://ipsat.dvrdns.org:8000/live/jose7/gago7/607.ts
+#EXTINF:0,IT: Premium Calcio 1
+http://ipsat.dvrdns.org:8000/liv
+EXTINF:0,canal+ decaler
+http://88.198.154.58:8000/Produsat/produsat/18
+#EXTINF:0,canal+ sport
+http://88.198.154.58:8000/Produsat/produsat/19
+#EXTINF:0,canal+ familly
+http://88.198.154.58:8000/Produsat/produsat/20
+#EXTINF:0,canal+ emotion
+http://88.198.154.58:8000/Produsat/produsat/21
+#EXTINF:0,ocs choc
+http://88.198.154.58:8000/Produsat/produsat/22
+#EXTINF:0,cine1
+http://88.198.154.58:8000/Produsat/produsat/23
+#EXTINF:0,discovery sc
+http://88.198.154.58:8000/Produsat/produsat/24
+#EXTINF:0,teva
+http://88.198.154.58:8000/Produsat/produsat/25
+#EXTINF:0,serie club
+http://88.198.154.58:8000/Produsat/produsat/26
+#EXTINF:0,voyage
+http://88.198.154.58:8000/Produsat/produsat/27
+#EXTINF:0,discovery
+http://88.198.154.58:8000/Produsat/produsat/28
+#EXTINF:0,ushuaia tv
+http://88.198.154.58:8000/Produsat/produsat/29
+#EXTINF:0,planete+ thalassa
+http://88.198.154.58:8000/Produsat/produsat/30
+#EXTINF:0,tv5 monde
+http://88.198.154.58:8000/Produsat/produsat/31
+#EXTINF:0,cine cartoon
+http://88.198.154.58:8000/Produsat/produsat/32
+#EXTINF:0,rmc decouverte
+http://88.198.154.58:8000/Produsat/produsat/33
+#EXTINF:0,Pink Horror
+http://178.253.194.68:1935/liveloworigin/pinkhorror.stream/playlist.m3u8
+#EXTINF:0,Pink Pedia
+http://178.253.194.68:1935/liveloworigin/pinkpedia.stream/playlist.m3u8
+#EXTINF:0,Pink Comedy
+http://178.253.194.68:1935/liveloworigin/pinkcomedy.stream/playlist.m3u8
+#EXTINF:0,Pink Premium
+http://178.253.194.68:1935/liveloworigin/pinkpremium.stream/playlist.m3u8
+#EXTINF:0,Pink Reality
+http://178.253.194.68:1935/liveloworigin/pinkreality.stream/playlist.m3u8
+#EXTINF:0,Pink Film
+http://178.253.194.68:1935/liveloworigin/pinkfilm.stream/playlist.m3u8
+#EXTINF:0,Pink Classic
+http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
+#EXTINF:0,Pink Kids
+http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
+#EXTINF:0,Pink Movies
+http://109.206.96.129:1935/live/pinkmovies.stream/playlist.m3u8
+#EXTINF:0,Pink Action
+http://178.253.194.68:1935/liveloworigin/pinkaction.stream/playlist.m3u8
+#EXTINF:0,Pink 2
+http://178.253.194.68:1935/liveloworigin/pink2.stream/playlist.m3u8
+#EXTINF:0,Pink Family
+http://178.253.194.68:1935/liveloworigin/pinkfamily.stream/playlist.m3u8
+#EXTINF:0,Pink Fashion
+http://178.253.194.68:1935/liveloworigin/pinkfashion.stream/playlist.m3u8
+#EXTINF:0,Pink Music
+http://178.253.194.68:1935/liveloworigin/pinkmusic.stream/playlist.m3u8
+#EXTINF:0,Pink Music 2
+http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
+#EXTINF:0,Pink BH
+http://178.253.194.68:1935/liveloworigin/pinkbih.stream/playlist.m3u8
+#EXTINF:0,Pink Kids
+http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
+EXTINF:-1,FR: France 24 HD
+http://iptv15.zapto.org:8000/live/freefi/2015/694.ts
+#EXTINF:-1,FR: Disney XD
+http://iptv15.zapto.org:8000/live/freefi/2015/741.ts
+#EXTINF:-1,FR: Cine premier HD
+http://iptv15.zapto.org:8000/live/freefi/2015/705.ts
+#EXTINF:-1,FR: Cine frisson HD
+http://iptv15.zapto.org:8000/live/freefi/2015/707.ts
+#EXTINF:-1,FR: Canal HD
+http://iptv15.zapto.org:8000/live/freefi/2015/700.ts
+#EXTINF:-1,FR: 6TER
+http://iptv15.zapto.org:8000/live/freefi/2015/699.ts
+#EXTINF:-1,FR: Paris Premiere
+http://iptv15.zapto.org:8000/live/freefi/2015/697.ts
+#EXTINF:-1,FR: OM5 TV
+http://iptv15.zapto.org:8000/live/freefi/2015/686.ts
+#EXTINF:-1,FR: OCS Géants
+http://iptv15.zapto.org:8000/live/freefi/2015/704.ts
+#EXTINF:-1,FR: NRJ 12
+http://iptv15.zapto.org:8000/live/freefi/2015/737.ts
+#EXTINF:-1,FR: Ma Chaine Sport HD
+http://iptv15.zapto.org:8000/live/freefi/2015/720.ts
+#EXTINF:-1,FR: M6 HD
+http://iptv15.zapto.org:8000/live/freefi/2015/695.ts
+#EXTINF:-1,FR: FRANCE Ô
+http://iptv15.zapto.org:8000/live/freefi/2015/693.ts
+#EXTINF:-1,FR: FRANCE 5 HD
+http://iptv15.zapto.org:8000/live/freefi/2015/692.ts
+#EXTINF:-1,FR: France 4 HD
+http://iptv15.zapto.org:8000/live/freefi/2015/691.ts
+#EXTINF:-1,FR: France 3 HD
+http://iptv15.zapto.org:8000/live/freefi/2015/690.ts
+#EXTINF:-1,FR:TF1 HD
+http://iptv15.zapto.org:8000/live/freefi/2015/37.ts
+#EXTINF:-1,FR:RTS Deux
+http://iptv15.zapto.org:8000/live/freefi/2015/59.ts
+#EXTINF:-1,FR:LA CHAINE NORMANDIE HD
+http://iptv15.zapto.org:8000/live/freefi/2015/42.ts
+#EXTINF:-1,FR:EuroSport HD1
+http://iptv15.zapto.org:8000/live/freefi/2015/43.ts
+#EXTINF:-1,FR:Eurosport 2 HD
+http://iptv15.zapto.org:8000/live/freefi/2015/44.ts
+#EXTINF:-1,FR:Disney HD
+http://iptv15.zapto.org:8000/live/freefi/2015/45.ts
+#EXTINF:-1,FR:CINEFIL
+http://iptv15.zapto.org:8000/live/freefi/2015/48.ts
+#EXTINF:-1,FR:CINE EMOTION HD
+http://iptv15.zapto.org:8000/live/freefi/2015/50.ts
+#EXTINF:-1,FR:canal sport
+http://iptv15.zapto.org:8000/live/freefi/2015/69.ts
+http://iptv15.zapto.org:8000/live/freefi/2015/169.ts
+#EXTINF:-1,DE: Sky_Hits
+http://iptv15.zapto.org:8000/live/freefi/2015/179.ts
+#EXTINF:-1,DE: SKY_Comedy
+http://iptv15.zapto.org:8000/live/freefi/2015/178.ts
+#EXTINF:-1,DE: SkySport-HD2
+http://iptv15.zapto.org:8000/live/freefi/2015/206.ts
+#EXTINF:-1,DE: SkySport-HD1
+http://iptv15.zapto.org:8000/live/freefi/2015/205.ts
+#EXTINF:-1,DE: Sky-Emotion
+http://iptv15.zapto.org:8000/live/freefi/2015/188.ts
+#EXTINF:-1,DE: Sky-Cinema-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/189.ts
+#EXTINF:-1,DE: SKY-CINEMA-atlantic
+http://iptv15.zapto.org:8000/live/freefi/2015/170.ts
+#EXTINF:-1,DE: Sky-Cinema-24hd
+http://iptv15.zapto.org:8000/live/freefi/2015/171.ts
+#EXTINF:-1,DE: Sky-Cinema-1hd
+http://iptv15.zapto.org:8000/live/freefi/2015/172.ts
