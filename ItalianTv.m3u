@@ -1,27 +1,494 @@
 #EXTM3U
-#EXTINF:0,——SKY-ITALIA-SPORT-HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/1338.m3u8
-#EXTINF:0,IT SKY SPORT 24 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/278.m3u8
-#EXTINF:0,IT SKY SPORT 1 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/298.m3u8
-#EXTINF:0,IT SKY SPORT 2 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/299.m3u8
-#EXTINF:0,IT SKY SPORT 3 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/264.m3u8
-#EXTINF:0,IT SKY SPORTS F1 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/294.m3u8
-#EXTINF:0,IT FOX SPORTS 1 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/1312.m3u8
-#EXTINF:0,IT SKY FOX SPORTS 2 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/295.m3u8
-#EXTINF:0,IT SUPER TENNIS HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/1313.m3u8
-#EXTINF:0,IT SKY SPORT MOTO GP HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/284.m3u8
-#EXTINF:0,IT RAI SPORT 1
-http://tvi.ddns.me:8000/live/dhoha/benomrane/277.m3u8
-#EXTINF:0,IT EUROSPORT HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/300.m3u8
-#EXTINF:0,IT EUROSPORT 2
-http://tvi.ddns.me:8000/live/dhoha/benomrane/1311.m3u8
+#EXTINF:0,SKY CALCIO
+ http://195.154.226.186:1935/livep/live3/playlist.m3u8
+
+#EXTINF:0,SKY CALCIO
+rtmp://$OPT:rtmp-raw=rtmp://nl.iguide.to/iguide playpath=6js24ssyfcr0gff swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30214&autoplay=true token=#ed%h0#w18623jsda6523lDGDVe
+
+#EXTINF:0,sports
+rtmp://$OPT:rtmp-raw=rtmp://37.48.74.74:19350/live/ playpath=aYGZeh65imq swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=263&vw=650&vh=400
+
+#EXTINF:-1,Rai 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/217.ts
+#EXTINF:-1,Rai 2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/218.ts
+#EXTINF:-1,Rai 3 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/219.ts
+#EXTINF:-1,Rete 4 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/220.ts
+#EXTINF:-1,Canale 5 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/221.ts
+#EXTINF:-1,Italia 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/222.ts
+#EXTINF:-1,La7
+http://tvservice.webhop.me:80/live/giovanni/giovanni/223.ts
+#EXTINF:-1,MTV Italia
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1557.ts
+#EXTINF:-1,Deejay TV
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2523.ts
+#EXTINF:-1,RSI La1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/421.ts
+#EXTINF:-1,RSI La2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/420.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/225.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/226.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/227.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/228.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/229.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/230.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/231.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/232.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/234.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/235.ts
+#EXTINF:-1,Iris
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1481.ts
+#EXTINF:-1,Rai Movie
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1552.ts
+#EXTINF:-1,Sky Uno HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/237.ts
+#EXTINF:-1,Sky Atlantic HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/238.ts
+#EXTINF:-1,Fox HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/239.ts
+#EXTINF:-1,Fox Life HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/240.ts
+#EXTINF:-1,Fox Crime HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/241.ts
+#EXTINF:-1,Fox Comedy HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/242.ts
+#EXTINF:-1,Fox Animation HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/243.ts
+#EXTINF:-1,AXN HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/245.ts
+#EXTINF:-1,AXN Sci-Fi
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1707.ts
+#EXTINF:-1,Comedy Central
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2190.ts
+#EXTINF:-1,Lei
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2215.ts
+#EXTINF:-1,Lei +1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2590.ts
+#EXTINF:-1,CI Crime+Investigation HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/244.ts
+#EXTINF:-1,Cielo
+http://tvservice.webhop.me:80/live/giovanni/giovanni/246.ts
+#EXTINF:-1,Real Time
+http://tvservice.webhop.me:80/live/giovanni/giovanni/247.ts
+#EXTINF:-1,Real time +1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2591.ts
+#EXTINF:-1,Laeffe
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2644.ts
+#EXTINF:-1,Rai Premium
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1548.ts
+#EXTINF:-1,E! Enternament
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1630.ts
+#EXTINF:-1,Tv globo
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2508.ts
+#EXTINF:-1,Top Crime
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1473.ts
+#EXTINF:-1,Mediaset Extra
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1558.ts
+#EXTINF:-1,Mediaset Italia 2
+http://tvservice.webhop.me:80/live/giovanni/giovanni/912.ts
+#EXTINF:-1,La 5
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1392.ts
+#EXTINF:-1,La7d
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1561.ts
+#EXTINF:-1,Giallo
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2482.ts
+#EXTINF:-1,Teleticino
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1612.ts
+#EXTINF:-1,Rai 4
+http://tvservice.webhop.me:80/live/giovanni/giovanni/911.ts
+#EXTINF:-1,Rai 5
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1554.ts
+#EXTINF:-1,Tv 2000
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2049.ts
+#EXTINF:-1,Italia 7 gold
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2647.ts
+#EXTINF:-1,R3
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1950.ts
+#EXTINF:-1,Videolina
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1624.ts
+#EXTINF:-1,Canale 21
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2326.ts
+#EXTINF:-1,Canale 8
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2651.ts
+#EXTINF:-1,TV luna
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2324.ts
+#EXTINF:-1,Canale 10
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2325.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/250.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/251.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/252.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/253.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2073.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/254.ts
+#EXTINF:-1,Sky Moto GP HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/255.ts
+#EXTINF:-1,Eurosport HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2633.ts
+#EXTINF:-1,Eurosport 2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2634.ts
+#EXTINF:-1,Gazzetta tv
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2618.ts
+#EXTINF:-1,Sport Italia
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1547.ts
+#EXTINF:-1,Sport television
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2725.ts
+#EXTINF:-1,Rai Sport 1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1551.ts
+#EXTINF:-1,Rai Sport 2
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2048.ts
+#EXTINF:-1,Super Tennis HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/256.ts
+#EXTINF:-1,Milan channel
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1515.ts
+#EXTINF:-1,Juventus Channel
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1662.ts
+#EXTINF:-1,Inter Channel
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1917.ts
+#EXTINF:-1,Roma Channel
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1918.ts
+#EXTINF:-1,Fox Sports HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/413.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/258.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/259.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/260.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/261.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/262.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/263.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/264.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2739.ts
+#EXTINF:-1,Bein Sport 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2621.ts
+#EXTINF:-1,Bein sport 2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2622.ts
+#EXTINF:-1,Sky Arte HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1526.ts
+#EXTINF:-1,NationalGeo HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/267.ts
+#EXTINF:-1,NatGeo People HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/268.ts
+#EXTINF:-1,NatGeo Wild HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/394.ts
+#EXTINF:-1,Discovery Sci HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/357.ts
+#EXTINF:-1,Explora HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/284.ts
+#EXTINF:-1,Discovery Channel HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/269.ts
+#EXTINF:-1,Discovery Travel
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2277.ts
+#EXTINF:-1,Premium Discovery World
+http://tvservice.webhop.me:80/live/giovanni/giovanni/303.ts
+#EXTINF:-1,Premium BBC
+http://tvservice.webhop.me:80/live/giovanni/giovanni/302.ts
+#EXTINF:-1,History HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/272.ts
+#EXTINF:-1,Gambero Rosso HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1920.ts
+#EXTINF:-1,Focus
+http://tvservice.webhop.me:80/live/giovanni/giovanni/679.ts
+#EXTINF:-1,Animal Planet
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1490.ts
+#EXTINF:-1,Caccia e Pesca
+http://tvservice.webhop.me:80/live/giovanni/giovanni/273.ts
+#EXTINF:-1,Pesca e Caccia
+http://tvservice.webhop.me:80/live/giovanni/giovanni/863.ts
+#EXTINF:-1,Italian Fishing TV
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1995.ts
+#EXTINF:-1,Nuvolari
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2096.ts
+#EXTINF:-1,Marcopolo
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1559.ts
+#EXTINF:-1,Leonardo
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1560.ts
+#EXTINF:-1,Alice
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1569.ts
+#EXTINF:-1,Fine living
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1395.ts
+#EXTINF:-1,DMAX
+http://tvservice.webhop.me:80/live/giovanni/giovanni/271.ts
+#EXTINF:-1,m2o
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2517.ts
+#EXTINF:-1,Mtv Music
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1556.ts
+#EXTINF:-1,Formusic HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2518.ts
+#EXTINF:-1,Radio Tv Capital
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2656.ts
+#EXTINF:-1,Radio Italia tv
+http://tvservice.webhop.me:80/live/giovanni/giovanni/290.ts
+#EXTINF:-1,Dance 90
+http://tvservice.webhop.me:80/live/giovanni/giovanni/277.ts
+#EXTINF:-1,R.T.L 102.5
+http://tvservice.webhop.me:80/live/giovanni/giovanni/289.ts
+#EXTINF:-1,RDS
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1479.ts
+#EXTINF:-1,Disney XD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1566.ts
+#EXTINF:-1,Super
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1546.ts
+#EXTINF:-1,K2
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1563.ts
+#EXTINF:-1,Premium Disney Channel
+http://tvservice.webhop.me:80/live/giovanni/giovanni/285.ts
+#EXTINF:-1,Premium Disney Channel +1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/403.ts
+#EXTINF:-1,Premium Disney Junior
+http://tvservice.webhop.me:80/live/giovanni/giovanni/286.ts
+#EXTINF:-1,Premium Disney Junior +1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2635.ts
+#EXTINF:-1,Premium Cartoon Network
+http://tvservice.webhop.me:80/live/giovanni/giovanni/287.ts
+#EXTINF:-1,Rai yoyo
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1549.ts
+#EXTINF:-1,Rai Gulp
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1553.ts
+#EXTINF:-1,Rai Scuola
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1915.ts
+#EXTINF:-1,Boing
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1393.ts
+#EXTINF:-1,Cartoonito
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1474.ts
+#EXTINF:-1,Masha e Orso Channel 1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1658.ts
+#EXTINF:-1,Masha e Orso Channel 2
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1659.ts
+#EXTINF:-1,Masha e orso channel 3
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1697.ts
+#EXTINF:-1,Peppa Pig Channel 1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1631.ts
+#EXTINF:-1,Peppa Pig Channel 2
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1500.ts
+#EXTINF:-1,Sky TG 24
+http://tvservice.webhop.me:80/live/giovanni/giovanni/279.ts
+#EXTINF:-1,Tg Com 24
+http://tvservice.webhop.me:80/live/giovanni/giovanni/280.ts
+#EXTINF:-1,Rai News 24
+http://tvservice.webhop.me:80/live/giovanni/giovanni/281.ts
+#EXTINF:-1,Rai Senato
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1914.ts
+#EXTINF:-1,Premium Cinema HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/292.ts
+#EXTINF:-1,Premium Cinema +24
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2191.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2192.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2214.ts
+#EXTINF:-1,Premium Emotion
+http://tvservice.webhop.me:80/live/giovanni/giovanni/297.ts
+#EXTINF:-1,Premium Energy
+http://tvservice.webhop.me:80/live/giovanni/giovanni/298.ts
+#EXTINF:-1,Premium Comedy
+http://tvservice.webhop.me:80/live/giovanni/giovanni/295.ts
+#EXTINF:-1,Premium Studio Universal
+http://tvservice.webhop.me:80/live/giovanni/giovanni/301.ts
+#EXTINF:-1,Premium Action HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/294.ts
+#EXTINF:-1,Premium Action +24
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2193.ts
+#EXTINF:-1,Premium Crime HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2196.ts
+#EXTINF:-1,Premium Crime +24
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2194.ts
+#EXTINF:-1,Premium Joy
+http://tvservice.webhop.me:80/live/giovanni/giovanni/300.ts
+#EXTINF:-1,Premium Stories
+http://tvservice.webhop.me:80/live/giovanni/giovanni/299.ts
+#EXTINF:-1,Premium Extra 1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2771.ts
+#EXTINF:-1,Premium Extra 2
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2773.ts
+#EXTINF:-1,Premium Sport HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2528.ts
+#EXTINF:-1,Premium Calcio
+http://tvservice.webhop.me:80/live/giovanni/giovanni/349.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/346.ts
+#EXTINF:-1,Premium Calcio 2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/348.ts
+#EXTINF:-1,Premium Calcio 3
+http://tvservice.webhop.me:80/live/giovanni/giovanni/352.ts
+#EXTINF:-1,Premium Calcio 4
+http://tvservice.webhop.me:80/live/giovanni/giovanni/353.ts
+#EXTINF:-1,Premium Calcio 5
+http://tvservice.webhop.me:80/live/giovanni/giovanni/400.ts
+#EXTINF:-1,Premium Calcio 6
+http://tvservice.webhop.me:80/live/giovanni/giovanni/401.ts
+#EXTINF:-1,Premium Calcio 7
+http://tvservice.webhop.me:80/live/giovanni/giovanni/402.ts
+#EXTINF:-1,Eagle Cinema HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1495.ts
+#EXTINF:-1,Eagle Red Carpet HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1497.ts
+#EXTINF:-1,Eagle Serie TV HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1496.ts
+#EXTINF:-1,Eagle Red Kids HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1498.ts
+#EXTINF:-1,Sky Cinema De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2383.ts
+#EXTINF:-1,Sky Cinema +1 De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2384.ts
+#EXTINF:-1,Sky de Cinema Hits HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2362.ts
+#EXTINF:-1,Sky De Cinema +24 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1608.ts
+#EXTINF:-1,Sky Action De Hd
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2386.ts
+#EXTINF:-1,Sky Emotion De
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2381.ts
+#EXTINF:-1,Sky Comedy De
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2382.ts
+#EXTINF:-1,Sky de Cinema Action HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2363.ts
+#EXTINF:-1,Sky select 1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2657.ts
+#EXTINF:-1,Sky select 2
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2658.ts
+#EXTINF:-1,Sky select 3
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2659.ts
+#EXTINF:-1,Sky select 4
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2660.ts
+#EXTINF:-1,Sky select 5
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2661.ts
+#EXTINF:-1,Sky Select 6
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1507.ts
+#EXTINF:-1,Sky Select 7
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1508.ts
+#EXTINF:-1,Sky Select 8
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1509.ts
+#EXTINF:-1,Sky Select 9
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1595.ts
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1610.ts
+#EXTINF:-1,Sky De Sport 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1609.ts
+#EXTINF:-1,Sky De Sport 2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1611.ts
+#EXTINF:-1,Eurosport De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2391.ts
+#EXTINF:-1,Extream sports DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2687.ts
+#EXTINF:-1,Teleclub Sport 1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1596.ts
+#EXTINF:-1,Teleclub Sport 2
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1597.ts
+#EXTINF:-1,Teleclub Sport 3
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1598.ts
+#EXTINF:-1,Teleclub Cinema
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2515.ts
+#EXTINF:-1,Teleclub Star
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2516.ts
+#EXTINF:-1,Teleclub Crime
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2514.ts
+#EXTINF:-1,TNT Film  De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2375.ts
+#EXTINF:-1,TNT Serie De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2374.ts
+#EXTINF:-1,Fox De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2390.ts
+#EXTINF:-1,Sky Atlantic De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2385.ts
+#EXTINF:-1,Axn De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2394.ts
+#EXTINF:-1,Zdf De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2372.ts
+#EXTINF:-1,WDR De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2373.ts
+#EXTINF:-1,SYFY De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2376.ts
+#EXTINF:-1,Sky KRIMI De
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2379.ts
+#EXTINF:-1,Romance De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2387.ts
+#EXTINF:-1,NDR De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2388.ts
+#EXTINF:-1,MGM De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2389.ts
+#EXTINF:-1,Arte De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2395.ts
+#EXTINF:-1,Ard De
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2396.ts
+#EXTINF:-1,Vox
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1603.ts
+#EXTINF:-1,SFR 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1606.ts
+#EXTINF:-1,SFR 2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1607.ts
+#EXTINF:-1,Super Rtl
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1601.ts
+#EXTINF:-1,RTL
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1599.ts
+#EXTINF:-1,RTL 2
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1600.ts
+#EXTINF:-1,Pro 7 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1602.ts
+#EXTINF:-1,ORF 1 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1604.ts
+#EXTINF:-1,ORF 2 HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/1605.ts
+#EXTINF:-1,Disney cinemagic DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2509.ts
+#EXTINF:-1,Nationalgeo De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2377.ts
+#EXTINF:-1,History De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2380.ts
+#EXTINF:-1,Discovery Channel De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2392.ts
+#EXTINF:-1,Nationalgeo Wild De HD
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2378.ts
+#EXTINF:-1,Sky Nostalgie DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2600.ts
+#EXTINF:-1,Spiegel geschichte HD (DE)
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2602.ts
+#EXTINF:-1,Sixx
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2601.ts
+#EXTINF:-1,Sat 1
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2605.ts
+#EXTINF:-1,RTL Nitro DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2606.ts
+#EXTINF:-1,Euronews
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2607.ts
+#EXTINF:-1,Disney XD DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2608.ts
+#EXTINF:-1,Disney Channel DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2609.ts
+#EXTINF:-1,Cartoon Network DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2610.ts
+#EXTINF:-1,Boomerang DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2611.ts
+#EXTINF:-1,A&E DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2612.ts
+#EXTINF:-1,7 Maxx DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2613.ts
+#EXTINF:-1,3 Sat HD DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2614.ts
+#EXTINF:-1,13Th Streeet HD DE
+http://tvservice.webhop.me:80/live/giovanni/giovanni/2615.ts
