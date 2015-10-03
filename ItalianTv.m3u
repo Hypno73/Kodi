@@ -1,302 +1,120 @@
 #EXTM3U
-#EXTINF:-1,[COLOR green]Football & Sport Events Today - Giovedi 1 ottobre (Daily update by lucaucca)[/Color]
--
-#EXTINF:-1 group-title=" 17.45 rugby.world.cup GALLES - FIJI ",[COLOR green]17.45 rugby.world.cup GALLES - FIJI[/COLOR]
-http://list_made_by_lucaucca_at->http://ListaLuca_m3u_GROUPS.m3u
-#EXTINF:-1 group-title=" 17.45 rugby.world.cup GALLES - FIJI ",silk sport 2 ge
-http://188.93.94.133/silk_sport/index.m3u8
 
-#EXTINF:-1 group-title=" 19.00 e 21.00 EUROPA LEAGUE SIMULCAST ",[COLOR green]19.00 e 21.00 EUROPA LEAGUE SIMULCAST[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 19.00 e 21.00 EUROPA LEAGUE SIMULCAST ",silk sport 1 ge
-http://188.93.94.133/silk_football/index.m3u8
-
-#EXTINF:-1 group-title=" 19.00 eur.lea ROSENBORG - DNIPRO ",[COLOR green]19.00 eur.lea ROSENBORG - DNIPRO[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.00 eur.lea ROSENBORG - DNIPRO ",futboll 2 ukr ace
-acestream://da22ba278834db83c8ce367b5e3fc5b97ebcd39d
-#EXTINF:-1 group-title=" 19.00 eur.lea ROSENBORG - DNIPRO ",futboll 2 HD ukr ace
-acestream://570972d842056f7a676e3e8c41e36c14236c5bb3
-#EXTINF:-1 group-title=" 19.00 eur.lea ROSENBORG - DNIPRO ",ntv+basketball ru ace
-acestream://5f143a66be8e383684f6b6f22e180cedc605b7b2
-
-#EXTINF:-1 group-title=" 19.00 eur.lea BELENENSES - FIORENTINA ",[COLOR green]19.00 eur.lea BELENENSES - FIORENTINA[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 19.00 eur.lea BELENENSES - FIORENTINA ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 19.00 eur.lea BELENENSES - FIORENTINA ",sport tv 1 pt ace
-acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
-#EXTINF:-1 group-title=" 19.00 eur.lea BELENENSES - FIORENTINA ",c+sport pl ace
-acestream://63139e95f3c2caf9b8df9782a359ec9050711219
-#EXTINF:-1 group-title=" 19.00 eur.lea BELENENSES - FIORENTINA ",arenavision 1
-acestream://ddb663867ee6e6f37e9543e49030712e1821e690
-#EXTINF:-1 group-title=" 19.00 eur.lea BELENENSES - FIORENTINA ",arenavision 2
-acestream://18ab7b60b79faf3362620a9435ddcdcb4f8020e5
-
-#EXTINF:-1 group-title=" 19.00 eur.lea BASEL - LECH POZNAN ",[COLOR green]19.00 eur.lea BASEL - LECH POZNAN[/COLOR]
-http://list_made_by_lucaucca_at->http://ListaLuca_m3u_GROUPS.m3u
-#EXTINF:-1 group-title=" 19.00 eur.lea BASEL - LECH POZNAN ",rsi la 2 ch
-http://hlstv-g1.swisscom.com/iphone/smil:1007_iPhone.smil/playlist.m3u8?NHM=vyqqqqqtyzv&NHM6=y&N6=MLKP5E6&J=yvvwsyvsyvrwv&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=xyvyyxtqNOKryLvOzyxwsOsvOvMzqNMx&MSK=true
-#EXTINF:-1 group-title=" 19.00 eur.lea BASEL - LECH POZNAN ",rts2 ch
-http://hlstv-g1.swisscom.com/iphone/smil:1005_iPhone.smil/playlist.m3u8?NHM=vyqqqqqttrr&NHM6=y&N6=MLKP5E6&J=yvvwsyvuzuyxw&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-tyxLOPLLuuLvMPNwPvqsMwqrPLMvuKuu&MSK=true
-#EXTINF:-1 group-title=" 19.00 eur.lea BASEL - LECH POZNAN ",srf 2 ch
-http://hlstv-g1.swisscom.com/iphone/smil:1002_iPhone.smil/playlist.m3u8?NHM=vyqqqqqvtsv&NHM6=y&N6=MLKP5E6&J=yvvwsyvttusyz&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-tuqsuxLwKuNywOtyuOqqrMOsNKvxvrLq&MSK=true
-
-#EXTINF:-1 group-title=" 19.00 eur.lea GARABAGH - ANDERLECHT ",[COLOR green]19.00 eur.lea GARABAGH - ANDERLECHT[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.00 eur.lea GARABAGH - ANDERLECHT ",aztv az ace
-acestream://aea57234a267c387af799b26337a622653f5bb46
-#EXTINF:-1 group-title=" 19.00 eur.lea GARABAGH - ANDERLECHT ",ntv+tennis ru ace
-acestream://23b8da1fe50076a7685daa9df3a024be6831ee09
-
-#EXTINF:-1 group-title=" 19.00 eur.lea MONACO - TOTTENHAM HOTSPURS ",[COLOR green]19.00 eur.lea MONACO - TOTTENHAM HOTSPURS[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 19.00 eur.lea MONACO - TOTTENHAM HOTSPURS ",beIN FR 1 ace
-acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd
-#EXTINF:-1 group-title=" 19.00 eur.lea MONACO - TOTTENHAM HOTSPURS ",c+sport 2 pl ace
-acestream://0aba4407456cf7bc420e930ae7ba0697e53d35fe
-#EXTINF:-1 group-title=" 19.00 eur.lea MONACO - TOTTENHAM HOTSPURS ",ntv+futbol 2 ru ace
-acestream://7b2e17ae519f677c412501c50032b0cceb40916c
-#EXTINF:-1 group-title=" 19.00 eur.lea MONACO - TOTTENHAM HOTSPURS ",ntv+futbol 2 HD ru ace
-acestream://3461be1b574d6eb6f7bd8360cc7313a0ecb38a4d
-#EXTINF:-1 group-title=" 19.00 eur.lea MONACO - TOTTENHAM HOTSPURS ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 19.00 eur.lea MONACO - TOTTENHAM HOTSPURS ",sport tv 2 pt ace
-acestream://a3776be8c08f52b3366c83fff09609721e28cd69
-#EXTINF:-1 group-title=" 19.00 eur.lea MONACO - TOTTENHAM HOTSPURS ",silk sport 2 ge
-http://188.93.94.133/silk_sport/index.m3u8
-#EXTINF:-1 group-title=" 19.00 eur.lea MONACO - TOTTENHAM HOTSPURS ",arenavision 10
-acestream://484f2847fcc055116f8df0ce91f3291bfc2fc8e6
-
-#EXTINF:-1 group-title=" 19.00 eur.lea SCHALKE 04 - ASTERAS TRIPOLIS ",arenavision 5
-acestream://44bd912f22320ff39dae4de5aa6778d3c28461f0
-#EXTINF:-1 group-title=" 19.00 eur.lea SCHALKE 04 - ASTERAS TRIPOLIS ",arenavision 6
-acestream://a649e982c6b91bc783b3779ffd03ad6a3be7c696
-
-#EXTINF:-1 group-title=" 19.00 eur.lea AUGSBURG - PARTIZAN BELGRADE ",[COLOR green]19.00 eur.lea AUGSBURG - PARTIZAN BELGRADE[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.00 eur.lea AUGSBURG - PARTIZAN BELGRADE ",viasat sport baltic ace
-acestream://3bea2f854be3b3fc2f6192347c5161611c70fb5f
-
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",[COLOR green]19.00 eur.lea LAZIO - ST.ETIENNE[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",beIN FR 2 ace
-acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",bt sport 2 uk ace
-acestream://7e8a66f8acc92f39e52634761f391693a4134585
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",ntv+futbol 3 ru ace
-acestream://1f094152c13cc4e109facb5d2b75a324971f89a7
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",ntv+futbol 3 HD ru ace
-acestream://2c940cc45044aed0c12ea1338bb9e5da1b92868d
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",futboll 1 ukr ace
-acestream://74a10568c78b5b2845970b902b4d86eb88d83a67
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",futboll 1 HD ukr ace
-acestream://ad418d698e39062d4640914ff452ce62e763e10c
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",sport tv 3 pt ace
-acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",silk sport 4 ge
-http://188.93.94.133/silk_sport4/index.m3u8
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",arenavision 8
-acestream://5b05834daab7f3882645e3871b88eb6c0b74ca1c
-#EXTINF:-1 group-title=" 19.00 eur.lea LAZIO - ST.ETIENNE ",arenavision 9
-acestream://3e3f649ffd85942dbfe1d0523c58b510b26c8d09
-
-#EXTINF:-1 group-title=" 19.00 eur.lea AZ ALKMAAR - ATHLETIC BILBAO ",arena sport 3 sr ace
-acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9
-#EXTINF:-1 group-title=" 19.00 eur.lea AZ ALKMAAR - ATHLETIC BILBAO ",arenavision 3
-acestream://974a62f8f737d84adf1a78c2ea41f219858ad3ac
-#EXTINF:-1 group-title=" 19.00 eur.lea AZ ALKMAAR - ATHLETIC BILBAO ",arenavision 4
-acestream://9953ba235a8c972d0b162c6f3bddc92eaa9ee110
-
-#EXTINF:-1 group-title=" 19.00 eur.lea BESIKTAS - SPORTING LISBON ",[COLOR green]19.00 eur.lea BESIKTAS - SPORTING LISBON[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.00 eur.lea BESIKTAS - SPORTING LISBON ",nsport+ ace
-acestream://a1647d300e3e1de2844a8b7bfa33f32ed3d288c9
-#EXTINF:-1 group-title=" 19.00 eur.lea BESIKTAS - SPORTING LISBON ",ntv+futbol 1 ru ace
-acestream://f7a81d05e231b644efd49da4608891316d5694cb
-#EXTINF:-1 group-title=" 19.00 eur.lea BESIKTAS - SPORTING LISBON ",ntv+futbol 1 HD ru ace
-acestream://a519bd8801f207e956830801cf77255cc4221bd6
-#EXTINF:-1 group-title=" 19.00 eur.lea BESIKTAS - SPORTING LISBON ",trt1 tr
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-
-#EXTINF:-1 group-title=" 19.00 eur.lea SPARTA PRAGUE - APOEL NICOSIA ",[COLOR green]19.00 eur.lea SPARTA PRAGUE - APOEL NICOSIA[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 19.00 eur.lea SPARTA PRAGUE - APOEL NICOSIA ",sport tv 4 pt ace
-acestream://4f256982b213a8b3346b01683b82261db8dcd524
-
-#EXTINF:-1 group-title=" 19.00 eur.lea LOKOMOTIV MOSCOW - SKENDERBEU ",[COLOR green]19.00 eur.lea LOKOMOTIV MOSCOW - SKENDERBEU[/COLOR]
-http://list_made_by_lucaucca_at->http://ListaLuca_m3u_GROUPS.m3u
-#EXTINF:-1 group-title=" 19.00 eur.lea LOKOMOTIV MOSCOW - SKENDERBEU ",supersport 1 al
-http://80.80.160.201/http_livestr.m3u8?id=ssnews
-#EXTINF:-1 group-title=" 19.00 eur.lea LOKOMOTIV MOSCOW - SKENDERBEU ",supersport 1 al
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1 group-title=" 19.00 eur.lea LOKOMOTIV MOSCOW - SKENDERBEU ",arena sport 2 sr ace
-acestream://5aa17d1d960dd7cb38a0eebb8126671bfa86db21
-
-#EXTINF:-1 group-title=" 21.00 rugby.world.cup FRANCE - CANADA ",[COLOR green]21.00 rugby.world.cup FRANCE - CANADA[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 21.00 rugby.world.cup FRANCE - CANADA ",silk sport 2 ge
-http://188.93.94.133/silk_sport/index.m3u8
-
-#EXTINF:-1 group-title=" 21.05 eur.lea PAOK THESSALONIKI - BORUSSIA DORTMUND ",arena sport 3 sr ace
-acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9
-#EXTINF:-1 group-title=" 21.05 eur.lea PAOK THESSALONIKI - BORUSSIA DORTMUND ",hrt 2 hr
-http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-#EXTINF:-1 group-title=" 21.05 eur.lea PAOK THESSALONIKI - BORUSSIA DORTMUND ",ntv+futbol 3 ru ace
-acestream://1f094152c13cc4e109facb5d2b75a324971f89a7
-#EXTINF:-1 group-title=" 21.05 eur.lea PAOK THESSALONIKI - BORUSSIA DORTMUND ",ntv+futbol 3 HD ru ace
-acestream://2c940cc45044aed0c12ea1338bb9e5da1b92868d
-#EXTINF:-1 group-title=" 21.05 eur.lea PAOK THESSALONIKI - BORUSSIA DORTMUND ",sport 1 de ace
-acestream://3a619efa4e9efb342affe2042a80647497ef5dbd
-#EXTINF:-1 group-title=" 21.05 eur.lea PAOK THESSALONIKI - BORUSSIA DORTMUND ",sport tv 4 pt ace
-acestream://4f256982b213a8b3346b01683b82261db8dcd524
-#EXTINF:-1 group-title=" 21.05 eur.lea PAOK THESSALONIKI - BORUSSIA DORTMUND ",silk sport 4 ge
-http://188.93.94.133/silk_sport4/index.m3u8
-#EXTINF:-1 group-title=" 21.05 eur.lea PAOK THESSALONIKI - BORUSSIA DORTMUND ",arenavision 5
-acestream://44bd912f22320ff39dae4de5aa6778d3c28461f0
-
-#EXTINF:-1 group-title=" 21.05 eur.lea CELTIC - FENERBAHCE ",bt sport 2 uk ace
-acestream://7e8a66f8acc92f39e52634761f391693a4134585
-#EXTINF:-1 group-title=" 21.05 eur.lea CELTIC - FENERBAHCE ",futboll 1 ukr ace
-acestream://74a10568c78b5b2845970b902b4d86eb88d83a67
-#EXTINF:-1 group-title=" 21.05 eur.lea CELTIC - FENERBAHCE ",futboll 1 HD ukr ace
-acestream://ad418d698e39062d4640914ff452ce62e763e10c
-#EXTINF:-1 group-title=" 21.05 eur.lea CELTIC - FENERBAHCE ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 21.05 eur.lea CELTIC - FENERBAHCE ",sport tv 2 pt ace
-acestream://a3776be8c08f52b3366c83fff09609721e28cd69
-#EXTINF:-1 group-title=" 21.05 eur.lea CELTIC - FENERBAHCE ",arenavision 10
-acestream://484f2847fcc055116f8df0ce91f3291bfc2fc8e6
-
-#EXTINF:-1 group-title=" 21.05 eur.lea MOLDE - AJAX ",[COLOR green]21.05 eur.lea MOLDE - AJAX[/COLOR]
-http://list_made_by_lucaucca_at->http://ListaLuca_m3u_GROUPS.m3u
-#EXTINF:-1 group-title=" 21.05 eur.lea MOLDE - AJAX ",nsport+ ace
-acestream://a1647d300e3e1de2844a8b7bfa33f32ed3d288c9
-
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",[COLOR green]21.05 eur.lea LIVERPOOL - SION[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",c+sport 2 pl ace
-acestream://0aba4407456cf7bc420e930ae7ba0697e53d35fe
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",ntv+futbol 2 ru ace
-acestream://7b2e17ae519f677c412501c50032b0cceb40916c
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",rsi la 2 ch
-http://hlstv-g1.swisscom.com/iphone/smil:1007_iPhone.smil/playlist.m3u8?NHM=vyqqqqqtyzv&NHM6=y&N6=MLKP5E6&J=yvvwsyvsyvrwv&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=xyvyyxtqNOKryLvOzyxwsOsvOvMzqNMx&MSK=true
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",rts2 ch
-http://hlstv-g1.swisscom.com/iphone/smil:1005_iPhone.smil/playlist.m3u8?NHM=vyqqqqqttrr&NHM6=y&N6=MLKP5E6&J=yvvwsyvuzuyxw&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-tyxLOPLLuuLvMPNwPvqsMwqrPLMvuKuu&MSK=true
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",sport tv 3 pt ace
-acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",srf 2 ch
-http://hlstv-g1.swisscom.com/iphone/smil:1002_iPhone.smil/playlist.m3u8?NHM=vyqqqqqvtsv&NHM6=y&N6=MLKP5E6&J=yvvwsyvttusyz&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-tuqsuxLwKuNywOtyuOqqrMOsNKvxvrLq&MSK=true
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",viasat sport baltic ace
-acestream://3bea2f854be3b3fc2f6192347c5161611c70fb5f
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",arenavision 3
-acestream://974a62f8f737d84adf1a78c2ea41f219858ad3ac
-#EXTINF:-1 group-title=" 21.05 eur.lea LIVERPOOL - SION ",arenavision 4
-acestream://9953ba235a8c972d0b162c6f3bddc92eaa9ee110
-
-#EXTINF:-1 group-title=" 21.05 eur.lea CLUB BRUGGE - MIDTJYLLAND ",[COLOR green]21.05 eur.lea CLUB BRUGGE - MIDTJYLLAND[/COLOR]
-http://list_made_by_lucaucca_at->http://ListaLuca_m3u_GROUPS.m3u
-#EXTINF:-1 group-title=" 21.05 eur.lea CLUB BRUGGE - MIDTJYLLAND ",ntv+sport ru ace
-acestream://2c0efd30b841acd263c0539dd431e24170aa16cf
-
-#EXTINF:-1 group-title=" 21.05 eur.lea DINAMO MINSK - RAPID VIENNA ",[COLOR green]21.05 eur.lea DINAMO MINSK - RAPID VIENNA[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 21.05 eur.lea DINAMO MINSK - RAPID VIENNA ",ntv+tennis ru ace
-acestream://23b8da1fe50076a7685daa9df3a024be6831ee09
-
-#EXTINF:-1 group-title=" 21.05 eur.lea LEGIA WARSAW - NAPOLI ",[COLOR green]21.05 eur.lea LEGIA WARSAW - NAPOLI[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 21.05 eur.lea LEGIA WARSAW - NAPOLI ",c+sport pl ace
-acestream://63139e95f3c2caf9b8df9782a359ec9050711219
-#EXTINF:-1 group-title=" 21.05 eur.lea LEGIA WARSAW - NAPOLI ",ntv+basketball ru ace
-acestream://5f143a66be8e383684f6b6f22e180cedc605b7b2
-#EXTINF:-1 group-title=" 21.05 eur.lea LEGIA WARSAW - NAPOLI ",arenavision 8
-acestream://5b05834daab7f3882645e3871b88eb6c0b74ca1c
-#EXTINF:-1 group-title=" 21.05 eur.lea LEGIA WARSAW - NAPOLI ",arenavision 9
-acestream://3e3f649ffd85942dbfe1d0523c58b510b26c8d09
-
-#EXTINF:-1 group-title=" 21.05 eur.lea MARSEILLE - SLOVAN LIBEREC ",[COLOR green]21.05 eur.lea MARSEILLE - SLOVAN LIBEREC[/COLOR]
-http://list_made_by_lucaucca_at->http://ListaLuca_m3u_GROUPS.m3u
-#EXTINF:-1 group-title=" 21.05 eur.lea MARSEILLE - SLOVAN LIBEREC ",beIN FR 1 ace
-acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd
-#EXTINF:-1 group-title=" 21.05 eur.lea MARSEILLE - SLOVAN LIBEREC ",w9 fr
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-#EXTINF:-1 group-title=" 21.05 eur.lea MARSEILLE - SLOVAN LIBEREC ",arenavision 1
-acestream://ddb663867ee6e6f37e9543e49030712e1821e690
-#EXTINF:-1 group-title=" 21.05 eur.lea MARSEILLE - SLOVAN LIBEREC ",arenavision 2
-acestream://18ab7b60b79faf3362620a9435ddcdcb4f8020e5
-
-#EXTINF:-1 group-title=" 21.05 eur.lea VILLAREAL - VIKTORIA PLZEN ",arena sport 2 sr ace
-acestream://5aa17d1d960dd7cb38a0eebb8126671bfa86db21
-#EXTINF:-1 group-title=" 21.05 eur.lea VILLAREAL - VIKTORIA PLZEN ",ct sport cz ace
-acestream://6502893c51bcabc817fc6856a94988bd81a172b4
-#EXTINF:-1 group-title=" 21.05 eur.lea VILLAREAL - VIKTORIA PLZEN ",ct sport cz
-http://212.79.96.134:8014
-
-#EXTINF:-1 group-title=" 21.05 eur.lea SPORTING BRAGA - GRONINGEN ",[COLOR green]21.05 eur.lea SPORTING BRAGA - GRONINGEN[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 21.05 eur.lea SPORTING BRAGA - GRONINGEN ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 21.05 eur.lea SPORTING BRAGA - GRONINGEN ",sport tv 1 pt ace
-acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
-
-#EXTINF:-1 group-title=" 21.05 eur.lea KRASNODAR - QABALA ",[COLOR green]21.05 eur.lea KRASNODAR - QABALA[/COLOR]
-http://list_made_by_lucaucca_at->http://ListaLuca_m3u_GROUPS.m3u
-#EXTINF:-1 group-title=" 21.05 eur.lea KRASNODAR - QABALA ",ntv ru
-http://212.220.30.219/hls//CH_R03_NTV/variant.m3u8?version=2
-
-#EXTINF:-1 group-title=" 21.05 eur.lea RUBIN KAZAN - BORDEAUX ",[COLOR green]21.05 eur.lea RUBIN KAZAN - BORDEAUX[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 21.05 eur.lea RUBIN KAZAN - BORDEAUX ",beIN FR 2 ace
-acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995
-#EXTINF:-1 group-title=" 21.05 eur.lea RUBIN KAZAN - BORDEAUX ",silk sport 3 ge
-http://188.93.94.133/silk_sport2/index.m3u8
-
-#EXTINF:-1 group-title=" 2.00 bra.cup SANTOS FC - FIGUEIRENSE ",[COLOR green]2.00 bra.cup SANTOS FC - FIGUEIRENSE[/COLOR]
-http://weblinks.altervista.org/SPTV.htm
-#EXTINF:-1 group-title=" 2.00 bra.cup SANTOS FC - FIGUEIRENSE ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 2.00 bra.cup SANTOS FC - FIGUEIRENSE ",sport tv 2 pt ace
-acestream://a3776be8c08f52b3366c83fff09609721e28cd69
-#EXTINF:-1 group-title=" 2.00 bra.cup SANTOS FC - FIGUEIRENSE ",arena sport 3 sr ace
-acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9
-
-#EXTINF:-1 group-title=" 2.00 cop.sudam DEFENSOR SPORTING - LANUS ",[COLOR green]2.00 cop.sudam DEFENSOR SPORTING - LANUS[/COLOR]
-http://list_made_by_lucaucca_at->http://ListaLuca_m3u_GROUPS.m3u
-#EXTINF:-1 group-title=" 2.00 cop.sudam DEFENSOR SPORTING - LANUS ",sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 2.00 cop.sudam DEFENSOR SPORTING - LANUS ",sport tv 3 pt ace
-acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280
-#EXTINF:-1 group-title=" 2.00 cop.sudam DEFENSOR SPORTING - LANUS ",premier sports uk ace
-fb2080a96e762e926a33e61c70bd74edb2beabdf
-#EXTINF:-1 group-title=" 2.00 cop.sudam DEFENSOR SPORTING - LANUS ",arenavision 1
-acestream://ddb663867ee6e6f37e9543e49030712e1821e690
-#EXTINF:-1 group-title=" 2.00 cop.sudam DEFENSOR SPORTING - LANUS ",arenavision 2
-acestream://18ab7b60b79faf3362620a9435ddcdcb4f8020e5
-
-#EXTINF:-1,SKY Sports News
-http://tinyurl.com/nkqrz3k
-#EXTINF:-1,SKY Sports 1
-http://tinyurl.com/p589pje
-#EXTINF:-1,SKY Sports 2
-http://tinyurl.com/p6m5tpp
-#EXTINF:-1,SKY Sports 3
-http://tinyurl.com/qjec7ah
-#EXTINF:-1,SKY Sports 4
-http://tinyurl.com/p3uwoym
-#EXTINF:-1,SKY Sports 5
-http://tinyurl.com/p367odr
-#EXTINF:-1,SKY Sports F1
-http://tinyurl.com/oylh2fp
-#EXTINF:-1,SKY Sports News
-http://tinyurl.com/nkqrz3k
+#EXTINF:-1,TSN 1
+http://alturl.com/tivm8
+#EXTINF:-1,TSN 2
+http://alturl.com/p2qgp
+#EXTINF:-1,TSN 3
+http://alturl.com/c9zhp
+#EXTINF:-1,TSN 5
+http://alturl.com/9sqea
+#EXTINF:-1,SPORTSNET WORLD
+http://alturl.com/bfz48
+#EXTINF:-1,SPORTSNET ONTARIO
+http://alturl.com/73rdf
+#EXTINF:-1,SPORTSNET ONE
+http://alturl.com/7wnqs
+#EXTINF:-1,SPORTSNET 360
+http://alturl.com/bx7m3
+#EXTINF:-1,NHL Network USA
+http://alturl.com/s3df4
 #EXTINF:-1,BT Sport 1
 http://tinyurl.com/qcakdow
 #EXTINF:-1,BT Sport 2
 http://tinyurl.com/o4ylh6w
 #EXTINF:-1,BT Sport Europe
 http://tinyurl.com/nfqg7jv
+#EXTINF:-1,SPORTSNET WORLD 2
+rtmp://31.220.2.149:80/live playpath=world swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedu.php?live=world&vw=620&vh=490 token=%Zrey(nKa@#Z
+player=default
+#EXTINF:-1,SPORTSNET ONTARIO 2
+rtmp://31.220.2.149:80/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedu.php?live=world&vw=620&vh=490 token=%Zrey(nKa@#Z
+player=default
+#EXTINF:-1, SKY Sports F1
+http://alturl.com/vpmah
+#EXTINF:-1, SKY Sports 5
+http://alturl.com/zistr
+#EXTINF:-1, SKY Sports 4
+http://alturl.com/bpmt5
+#EXTINF:-1, SKY Sports 3
+http://alturl.com/potqg
+#EXTINF:-1, SKY Sports News
+http://alturl.com/yb4da
+#EXTINF:-1, Eurosport 1
+http://alturl.com/onahm
+#EXTINF:-1, Golf Channel
+http://alturl.com/id9ab
+#EXTINF:-1, Racing UK
+http://alturl.com/vb64q
+#EXTINF:-1, USA Network East
+http://alturl.com/63pr3
+#EXTINF:-1, The Movie Channel Xtra East
+http://alturl.com/ym7kq
+#EXTINF:-1, The Movie Channel East
+http://alturl.com/jfbar
+#EXTINF:-1, TCM US
+http://alturl.com/az5wm
+#EXTINF:-1, Starz West
+http://alturl.com/2z5o8
+#EXTINF:-1, Starz In Black East
+http://alturl.com/uviyb
+#EXTINF:-1, Starz Kids & Family East
+http://alturl.com/gzcdr
+#EXTINF:-1, SPORTSNET WORLD
+http://alturl.com/bfz48
+#EXTINF:-1, TSN 5
+http://alturl.com/9sqea
+#EXTINF:-1, TSN 3
+http://alturl.com/c9zhp
+#EXTINF:-1, TSN 2
+http://alturl.com/p2qgp
+#EXTINF:-1, TSN HD
+http://alturl.com/tivm8
+#EXTINF:-1, WWE NETWORK
+http://alturl.com/tugzy
+#EXTINF:-1, Yes Network
+http://alturl.com/7pxpb
+#EXTINF:-1, Bein Sport 4 HD MAX
+http://alturl.com/q7y8t
+#EXTINF:-1, Bein Sport 3 HD FR
+http://alturl.com/wrktf
+#EXTINF:-1, Bein Sport 2 HD FR
+http://alturl.com/2y8uk
+#EXTINF:-1, Bein Sport 1 HD FR
+http://alturl.com/2aafx
+#EXTINF:-1, BEIN SPORTS
+http://alturl.com/4dnzw
+#EXTINF:-1, BeinSports en Espnol
+http://alturl.com/wfgue
+#EXTINF:-1, Planeta Futbol
+http://alturl.com/c5gwj
+#EXTINF:-1, CTH X HD
+http://alturl.com/8kdz2
+#EXTINF:-1, SKY Sports 2
+http://alturl.com/sgnir
+#EXTINF:-1, SKY Sports 1
+http://alturl.com/e93kk
+#EXTINF:-1, BT Sport 2
+http://alturl.com/i9gja
+#EXTINF:-1, BT Sport 1
+http://alturl.com/pizzo
+#EXTINF:-1, Setanta Sports
+http://alturl.com/nrpx3
+#EXTINF:-1, CBS Sports Network
+http://alturl.com/yprwp
+#EXTINF:-1, ESPNews US
+http://alturl.com/t4kov
+#EXTINF:-1, ESPN 2 US
+http://alturl.com/qjzch
+#EXTINF:-1, ESPN US
+http://alturl.com/m5959
+#EXTINF:-1, ESPNU
+http://alturl.com/ard8v
+#EXTINF:-1, Fox Sports Florida
+http://alturl.com/tkgfc
+#EXTINF:-1, Fox Sports 2 US
+http://alturl.com/qafop
+#EXTINF:-1, Fox Sports 1 US
+http://alturl.com/k8ag6
+#EXTINF:-1, MLB Network
+http://alturl.com/xhhd7
