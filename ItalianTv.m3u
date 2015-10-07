@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:0,Rai 1 HD
@@ -820,3 +821,106 @@ http://bstream.planetstream.org:8000/live/massi/massi/2331.m3u8
 http://bstream.planetstream.org:8000/live/massi/massi/2379.m3u8
 #EXTINF:0,SCT 6
 http://bstream.planetstream.org:8000/live/massi/massi/2380.m3u8
+
+#EXTINF:-1,Rai 1 HD IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2834.m3u8
+#EXTINF:-1,IT-RAI 1
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2992.m3u8
+#EXTINF:-1,IT-RAI 2
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2993.m3u8
+#EXTINF:-1,Rai 3
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/397.m3u8
+#EXTINF:-1,RAI 3 HD  IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2217.m3u8
+#EXTINF:-1,Canale 5 IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2882.m3u8
+#EXTINF:-1,IT: La 7
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2866.m3u8
+#EXTINF:-1,IT-SKY RSi LA 1
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3016.m3u8
+#EXTINF:-1,RSI La 1 HD IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2823.m3u8
+#EXTINF:-1,IT-SKY RSi LA 2
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3015.m3u8
+#EXTINF:-1,RSI La 2 HD IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2822.m3u8
+#EXTINF:-1,=======CINEMA=============
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/405.m3u8
+#EXTINF:-1,IT-SKY CINEMA MAX  1
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2999.m3u8
+#EXTINF:-1,Premium Cinema2 +24 HD IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2878.m3u8
+#EXTINF:-1,Sky Sport F1 U.K HD
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2757.m3u8
+#EXTINF:-1,IT_SKY_CINEMA_CULT_HD
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2760.m3u8
+#EXTINF:-1,===INTRATTENIMENTO============
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/424.m3u8
+#EXTINF:-1,Sky Uno IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2785.m3u8
+#EXTINF:-1,Cielo IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2881.m3u8
+#EXTINF:-1,Sky Cielo IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2819.m3u8
+#EXTINF:-1,Fox Comedy HD IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2873.m3u8
+#EXTINF:-1,Ita  RAI 4
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3113.m3u8
+#EXTINF:-1,Rai4 IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2827.m3u8
+#EXTINF:-1,Rai 5 IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2831.m3u8
+#EXTINF:-1,=========SPORT================
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/440.m3u8
+#EXTINF:-1,SKY Sport IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2224.m3u8
+#EXTINF:-1,Ita  Sky Sport 1 HD
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3109.m3u8
+#EXTINF:-1,Sky Sport 2 HD IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2792.m3u8
+#EXTINF:-1,Ita  Sky Sport F1 HD
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3108.m3u8
+#EXTINF:-1,IT-SKY SPORT F1
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3039.m3u8
+#EXTINF:-1,U.K Sky Sport F1
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2789.m3u8
+#EXTINF:-1,EUROSPORT 2 - EUROSPORT 2
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2212.m3u8
+#EXTINF:-1,EUROSPORT 1 - EUROSPORT 1
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2211.m3u8
+#EXTINF:-1,Rai Sport 2 IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2828.m3u8
+#EXTINF:-1,Ita  Super Tennis HD
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3107.m3u8
+#EXTINF:-1,==========CULTURA============
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/463.m3u8
+#EXTINF:-1,Discovery Channel IT
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2877.m3u8
+#EXTINF:-1,Ita  Nat Geo People
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3120.m3u8
+#EXTINF:-1,==========BAMBINI=============
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/476.m3u8
+#EXTINF:-1,IT: Premium BBC Knowledge
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2859.m3u8
+#EXTINF:-1,IT: CINEMA HD - IT: PREMIUM CINEMA HD
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2964.m3u8
+#EXTINF:-1,Premium Cinema Emotion
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3013.m3u8
+#EXTINF:-1,IT: PREMIUM CINEMA - IT: PREMIUM CINEMA
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2965.m3u8
+#EXTINF:-1,IT_Premium_Cinema_Comedy
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2331.m3u8
+#EXTINF:-1,IT-SKY PREMIUM STUDIO UNIVERSAL
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3033.m3u8
+#EXTINF:-1,IT-SKY PREMIUM JOI
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3031.m3u8
+#EXTINF:-1,IT-SKY PREMIUM EMOTION
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3029.m3u8
+#EXTINF:-1,Ita  Premium Comedy
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3119.m3u8
+#EXTINF:-1,Ita  Premium Cinema 2 Plus 24 HD
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3122.m3u8
+#EXTINF:-1,IT-SKY PREMIUM CRIME
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3027.m3u8
+#EXTINF:-1,IT-SKY PREMIUM CALCIO 1
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3007.m3u8
