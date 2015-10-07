@@ -1,822 +1,822 @@
 #EXTM3U
 
 #EXTINF:0,Rai 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/125.ts
+http://bstream.planetstream.org:8000/live/massi/massi/125.m3u8
 #EXTINF:0,Rai 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/126.ts
+http://bstream.planetstream.org:8000/live/massi/massi/126.m3u8
 #EXTINF:0,Rai 3 HD
-http://bstream.planetstream.org:8000/live/massi/massi/127.ts
+http://bstream.planetstream.org:8000/live/massi/massi/127.m3u8
 #EXTINF:0,Rete 4 HD
-http://bstream.planetstream.org:8000/live/massi/massi/760.ts
+http://bstream.planetstream.org:8000/live/massi/massi/760.m3u8
 #EXTINF:0,Canale 5 HD
-http://bstream.planetstream.org:8000/live/massi/massi/15.ts
+http://bstream.planetstream.org:8000/live/massi/massi/15.m3u8
 #EXTINF:0,Italia 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/16.ts
+http://bstream.planetstream.org:8000/live/massi/massi/16.m3u8
 #EXTINF:0,Canale 5 Dsl Lente
-http://bstream.planetstream.org:8000/live/massi/massi/3052.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3052.m3u8
 #EXTINF:0,Mediaset Italia 2
-http://bstream.planetstream.org:8000/live/massi/massi/983.ts
+http://bstream.planetstream.org:8000/live/massi/massi/983.m3u8
 #EXTINF:0,Rai 4
-http://bstream.planetstream.org:8000/live/massi/massi/1472.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1472.m3u8
 #EXTINF:0,Rai Movie
-http://bstream.planetstream.org:8000/live/massi/massi/1471.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1471.m3u8
 #EXTINF:0,Rai Premium
-http://bstream.planetstream.org:8000/live/massi/massi/1505.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1505.m3u8
 #EXTINF:0,Rai News 24
-http://bstream.planetstream.org:8000/live/massi/massi/1477.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1477.m3u8
 #EXTINF:0,Rai Sport 1
-http://bstream.planetstream.org:8000/live/massi/massi/2327.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2327.m3u8
 #EXTINF:0,Rai Sport 2
-http://bstream.planetstream.org:8000/live/massi/massi/2328.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2328.m3u8
 #EXTINF:0,La 7
-http://bstream.planetstream.org:8000/live/massi/massi/1361.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1361.m3u8
 #EXTINF:0,La 5
-http://bstream.planetstream.org:8000/live/massi/massi/984.ts
+http://bstream.planetstream.org:8000/live/massi/massi/984.m3u8
 #EXTINF:0,Iris
-http://bstream.planetstream.org:8000/live/massi/massi/982.ts
+http://bstream.planetstream.org:8000/live/massi/massi/982.m3u8
 #EXTINF:0,Mediaset Extra
-http://bstream.planetstream.org:8000/live/massi/massi/1336.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1336.m3u8
 #EXTINF:0,Top Crime
-http://bstream.planetstream.org:8000/live/massi/massi/1398.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1398.m3u8
 #EXTINF:0,Giallo
-http://bstream.planetstream.org:8000/live/massi/massi/2982.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2982.m3u8
 #EXTINF:0,RSI LA 1
-http://bstream.planetstream.org:8000/live/massi/massi/1007.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1007.m3u8
 #EXTINF:0,RSI LA 2
-http://bstream.planetstream.org:8000/live/massi/massi/1008.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1008.m3u8
 #EXTINF:0,TGcom24
-http://bstream.planetstream.org:8000/live/massi/massi/1354.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1354.m3u8
 #EXTINF:0,Rai 1 SD
-http://bstream.planetstream.org:8000/live/massi/massi/2548.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2548.m3u8
 #EXTINF:0,Rai 2 SD
-http://bstream.planetstream.org:8000/live/massi/massi/2546.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2546.m3u8
 #EXTINF:0,Rai 3 SD
-http://bstream.planetstream.org:8000/live/massi/massi/2547.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2547.m3u8
 #EXTINF:0,#########VARI#########
-http://bstream.planetstream.org:8000/live/massi/massi/751.ts
+http://bstream.planetstream.org:8000/live/massi/massi/751.m3u8
 #EXTINF:0,Bstream Cinema 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1540.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1540.m3u8
 #EXTINF:0,Bstream Cinema 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1951.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1951.m3u8
 #EXTINF:0,Bstream Cinema 3 HD
-http://bstream.planetstream.org:8000/live/massi/massi/2424.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2424.m3u8
 #EXTINF:0,Bstream Cinema Cult 1
-http://bstream.planetstream.org:8000/live/massi/massi/1654.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1654.m3u8
 #EXTINF:0,Bstream Cinema Cult 2
-http://bstream.planetstream.org:8000/live/massi/massi/1763.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1763.m3u8
 #EXTINF:0,Bstream Serie Tv
-http://bstream.planetstream.org:8000/live/massi/massi/1623.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1623.m3u8
 #EXTINF:0,Cielo HD
-http://bstream.planetstream.org:8000/live/massi/massi/18.ts
+http://bstream.planetstream.org:8000/live/massi/massi/18.m3u8
 #EXTINF:0,Mtv
-http://bstream.planetstream.org:8000/live/massi/massi/1060.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1060.m3u8
 #EXTINF:0,DeejayTV
-http://bstream.planetstream.org:8000/live/massi/massi/2552.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2552.m3u8
 #EXTINF:0,Focus
-http://bstream.planetstream.org:8000/live/massi/massi/1356.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1356.m3u8
 #EXTINF:0,Videolina
-http://bstream.planetstream.org:8000/live/massi/massi/3205.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3205.m3u8
 #EXTINF:0,Gazzetta Tv
-http://bstream.planetstream.org:8000/live/massi/massi/2382.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2382.m3u8
 #EXTINF:0,Telecolor
-http://bstream.planetstream.org:8000/live/massi/massi/2554.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2554.m3u8
 #EXTINF:0,Antenna Sicilia
-http://bstream.planetstream.org:8000/live/massi/massi/2553.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2553.m3u8
 #EXTINF:0,Sicilia Sport 24
-http://bstream.planetstream.org:8000/live/massi/massi/2555.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2555.m3u8
 #EXTINF:0,RTP
-http://bstream.planetstream.org:8000/live/massi/massi/2557.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2557.m3u8
 #EXTINF:0,Tremedia
-http://bstream.planetstream.org:8000/live/massi/massi/2556.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2556.m3u8
 #EXTINF:0,————- Bambini ———-
-http://bstream.planetstream.org:8000/live/massi/massi/819.ts
+http://bstream.planetstream.org:8000/live/massi/massi/819.m3u8
 #EXTINF:0,Cartoon Network
-http://bstream.planetstream.org:8000/live/massi/massi/29.ts
+http://bstream.planetstream.org:8000/live/massi/massi/29.m3u8
 #EXTINF:0,Sky Disney XD HD
-http://bstream.planetstream.org:8000/live/massi/massi/829.ts
+http://bstream.planetstream.org:8000/live/massi/massi/829.m3u8
 #EXTINF:0,Disney Channel HD
-http://bstream.planetstream.org:8000/live/massi/massi/852.ts
+http://bstream.planetstream.org:8000/live/massi/massi/852.m3u8
 #EXTINF:0,NickJunior
-http://bstream.planetstream.org:8000/live/massi/massi/2716.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2716.m3u8
 #EXTINF:0,NickelOdeon
-http://bstream.planetstream.org:8000/live/massi/massi/2715.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2715.m3u8
 #EXTINF:0,Super!
-http://bstream.planetstream.org:8000/live/massi/massi/2330.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2330.m3u8
 #EXTINF:0,Rai Gulp
-http://bstream.planetstream.org:8000/live/massi/massi/2332.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2332.m3u8
 #EXTINF:0,Rai Yoyo
-http://bstream.planetstream.org:8000/live/massi/massi/2337.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2337.m3u8
 #EXTINF:0,DeaKids
-http://bstream.planetstream.org:8000/live/massi/massi/2334.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2334.m3u8
 #EXTINF:0,Disney Junior
-http://bstream.planetstream.org:8000/live/massi/massi/531.ts
+http://bstream.planetstream.org:8000/live/massi/massi/531.m3u8
 #EXTINF:0,Premium Disney Channel +1
-http://bstream.planetstream.org:8000/live/massi/massi/530.ts
+http://bstream.planetstream.org:8000/live/massi/massi/530.m3u8
 #EXTINF:0,Manga
-http://bstream.planetstream.org:8000/live/massi/massi/994.ts
+http://bstream.planetstream.org:8000/live/massi/massi/994.m3u8
 #EXTINF:0,Boomerang
-http://bstream.planetstream.org:8000/live/massi/massi/1003.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1003.m3u8
 #EXTINF:0,Boing
-http://bstream.planetstream.org:8000/live/massi/massi/865.ts
+http://bstream.planetstream.org:8000/live/massi/massi/865.m3u8
 #EXTINF:0,Fresbee
-http://bstream.planetstream.org:8000/live/massi/massi/1473.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1473.m3u8
 #EXTINF:0,K2
-http://bstream.planetstream.org:8000/live/massi/massi/1355.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1355.m3u8
 #EXTINF:0,Cartonito
-http://bstream.planetstream.org:8000/live/massi/massi/1393.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1393.m3u8
 #EXTINF:0,Barbie Channel
-http://bstream.planetstream.org:8000/live/massi/massi/1500.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1500.m3u8
 #EXTINF:0,Masha E Orso
-http://bstream.planetstream.org:8000/live/massi/massi/1499.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1499.m3u8
 #EXTINF:0,Tom & Jerry Channel
-http://bstream.planetstream.org:8000/live/massi/massi/1101.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1101.m3u8
 #EXTINF:0,###### MEDIASET PREMIUM ######
-http://bstream.planetstream.org:8000/live/massi/massi/19.ts
+http://bstream.planetstream.org:8000/live/massi/massi/19.m3u8
 #EXTINF:0,——–Premium Cinema——-
-http://bstream.planetstream.org:8000/live/massi/massi/752.ts
+http://bstream.planetstream.org:8000/live/massi/massi/752.m3u8
 #EXTINF:0,Premium Cinema HD
-http://bstream.planetstream.org:8000/live/massi/massi/20.ts
+http://bstream.planetstream.org:8000/live/massi/massi/20.m3u8
 #EXTINF:0,Premium Cinema +24
-http://bstream.planetstream.org:8000/live/massi/massi/981.ts
+http://bstream.planetstream.org:8000/live/massi/massi/981.m3u8
 #EXTINF:0,Premium Cinema 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/2226.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2226.m3u8
 #EXTINF:0,Premium Cinema 2 +24
-http://bstream.planetstream.org:8000/live/massi/massi/2225.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2225.m3u8
 #EXTINF:0,Premium Action HD
-http://bstream.planetstream.org:8000/live/massi/massi/2326.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2326.m3u8
 #EXTINF:0,Premium Action +24
-http://bstream.planetstream.org:8000/live/massi/massi/28.ts
+http://bstream.planetstream.org:8000/live/massi/massi/28.m3u8
 #EXTINF:0,Premium Crime HD
-http://bstream.planetstream.org:8000/live/massi/massi/2336.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2336.m3u8
 #EXTINF:0,Premium Crime +24
-http://bstream.planetstream.org:8000/live/massi/massi/22.ts
+http://bstream.planetstream.org:8000/live/massi/massi/22.m3u8
 #EXTINF:0,Premium Cinema Comedy
-http://bstream.planetstream.org:8000/live/massi/massi/32.ts
+http://bstream.planetstream.org:8000/live/massi/massi/32.m3u8
 #EXTINF:0,Premium Cinema Emotion
-http://bstream.planetstream.org:8000/live/massi/massi/23.ts
+http://bstream.planetstream.org:8000/live/massi/massi/23.m3u8
 #EXTINF:0,Premium Cinema Energy
-http://bstream.planetstream.org:8000/live/massi/massi/24.ts
+http://bstream.planetstream.org:8000/live/massi/massi/24.m3u8
 #EXTINF:0,Premium Studio Universal
-http://bstream.planetstream.org:8000/live/massi/massi/27.ts
+http://bstream.planetstream.org:8000/live/massi/massi/27.m3u8
 #EXTINF:0,——–Premium Intrettenimento—–
-http://bstream.planetstream.org:8000/live/massi/massi/753.ts
+http://bstream.planetstream.org:8000/live/massi/massi/753.m3u8
 #EXTINF:0,Premium Joy
-http://bstream.planetstream.org:8000/live/massi/massi/25.ts
+http://bstream.planetstream.org:8000/live/massi/massi/25.m3u8
 #EXTINF:0,Premium Stories
-http://bstream.planetstream.org:8000/live/massi/massi/26.ts
+http://bstream.planetstream.org:8000/live/massi/massi/26.m3u8
 #EXTINF:0,Premium Discovery
-http://bstream.planetstream.org:8000/live/massi/massi/34.ts
+http://bstream.planetstream.org:8000/live/massi/massi/34.m3u8
 #EXTINF:0,Premium BBC
-http://bstream.planetstream.org:8000/live/massi/massi/35.ts
+http://bstream.planetstream.org:8000/live/massi/massi/35.m3u8
 #EXTINF:0,Premium Extra 1
-http://bstream.planetstream.org:8000/live/massi/massi/3194.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3194.m3u8
 #EXTINF:0,Premium Extra 2
-http://bstream.planetstream.org:8000/live/massi/massi/3195.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3195.m3u8
 #EXTINF:0,——Premium Sport——-
-http://bstream.planetstream.org:8000/live/massi/massi/754.ts
+http://bstream.planetstream.org:8000/live/massi/massi/754.m3u8
 #EXTINF:0,Premium Sport HD
-http://bstream.planetstream.org:8000/live/massi/massi/2335.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2335.m3u8
 #EXTINF:0,Premium Sport Dsl Lente
-http://bstream.planetstream.org:8000/live/massi/massi/3053.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3053.m3u8
 #EXTINF:0,SportItalia
-http://bstream.planetstream.org:8000/live/massi/massi/1396.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1396.m3u8
 #EXTINF:0,Premium Calcio HD
-http://bstream.planetstream.org:8000/live/massi/massi/706.ts
+http://bstream.planetstream.org:8000/live/massi/massi/706.m3u8
 #EXTINF:0,Premium Calcio
-http://bstream.planetstream.org:8000/live/massi/massi/37.ts
+http://bstream.planetstream.org:8000/live/massi/massi/37.m3u8
 #EXTINF:0,Premium Calcio 1
-http://bstream.planetstream.org:8000/live/massi/massi/38.ts
+http://bstream.planetstream.org:8000/live/massi/massi/38.m3u8
 #EXTINF:0,Premium Calcio 2
-http://bstream.planetstream.org:8000/live/massi/massi/39.ts
+http://bstream.planetstream.org:8000/live/massi/massi/39.m3u8
 #EXTINF:0,Premium Calcio 3
-http://bstream.planetstream.org:8000/live/massi/massi/40.ts
+http://bstream.planetstream.org:8000/live/massi/massi/40.m3u8
 #EXTINF:0,Premium Calcio 4
-http://bstream.planetstream.org:8000/live/massi/massi/1402.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1402.m3u8
 #EXTINF:0,Premium Calcio 5
-http://bstream.planetstream.org:8000/live/massi/massi/1401.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1401.m3u8
 #EXTINF:0,Premium calcio 6
-http://bstream.planetstream.org:8000/live/massi/massi/1400.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1400.m3u8
 #EXTINF:0,Premium Calcio 7
-http://bstream.planetstream.org:8000/live/massi/massi/3243.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3243.m3u8
 #EXTINF:0,########### SKY ITALIA #########
-http://bstream.planetstream.org:8000/live/massi/massi/41.ts
+http://bstream.planetstream.org:8000/live/massi/massi/41.m3u8
 #EXTINF:0,———–CINEMA———–
-http://bstream.planetstream.org:8000/live/massi/massi/755.ts
+http://bstream.planetstream.org:8000/live/massi/massi/755.m3u8
 #EXTINF:0,Sky Cinema 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/773.ts
+http://bstream.planetstream.org:8000/live/massi/massi/773.m3u8
 #EXTINF:0,Sky Cinema +1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1390.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1390.m3u8
 #EXTINF:0,Sky Cinema +24 HD
-http://bstream.planetstream.org:8000/live/massi/massi/42.ts
+http://bstream.planetstream.org:8000/live/massi/massi/42.m3u8
 #EXTINF:0,Sky Cinema Hits HD
-http://bstream.planetstream.org:8000/live/massi/massi/513.ts
+http://bstream.planetstream.org:8000/live/massi/massi/513.m3u8
 #EXTINF:0,Sky Cinema Family HD
-http://bstream.planetstream.org:8000/live/massi/massi/771.ts
+http://bstream.planetstream.org:8000/live/massi/massi/771.m3u8
 #EXTINF:0,Sky Cinema Family +1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1388.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1388.m3u8
 #EXTINF:0,Sky Cinema Passion HD
-http://bstream.planetstream.org:8000/live/massi/massi/44.ts
+http://bstream.planetstream.org:8000/live/massi/massi/44.m3u8
 #EXTINF:0,Sky Cinema Comedy HD
-http://bstream.planetstream.org:8000/live/massi/massi/657.ts
+http://bstream.planetstream.org:8000/live/massi/massi/657.m3u8
 #EXTINF:0,Sky Cinema Max HD
-http://bstream.planetstream.org:8000/live/massi/massi/769.ts
+http://bstream.planetstream.org:8000/live/massi/massi/769.m3u8
 #EXTINF:0,Sky Cinema Max +1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1394.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1394.m3u8
 #EXTINF:0,Sky Cinema Cult HD
-http://bstream.planetstream.org:8000/live/massi/massi/678.ts
+http://bstream.planetstream.org:8000/live/massi/massi/678.m3u8
 #EXTINF:0,Sky Cinema Classic HD
-http://bstream.planetstream.org:8000/live/massi/massi/763.ts
+http://bstream.planetstream.org:8000/live/massi/massi/763.m3u8
 #EXTINF:0,Sky 3D
-http://bstream.planetstream.org:8000/live/massi/massi/957.ts
+http://bstream.planetstream.org:8000/live/massi/massi/957.m3u8
 #EXTINF:0,———Intrattenimento——–
-http://bstream.planetstream.org:8000/live/massi/massi/756.ts
+http://bstream.planetstream.org:8000/live/massi/massi/756.m3u8
 #EXTINF:0,Sky Uno HD
-http://bstream.planetstream.org:8000/live/massi/massi/640.ts
+http://bstream.planetstream.org:8000/live/massi/massi/640.m3u8
 #EXTINF:0,Sky Uno +1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1395.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1395.m3u8
 #EXTINF:0,Sky Atlantic HD
-http://bstream.planetstream.org:8000/live/massi/massi/783.ts
+http://bstream.planetstream.org:8000/live/massi/massi/783.m3u8
 #EXTINF:0,Sky Atlantic +1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1385.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1385.m3u8
 #EXTINF:0,Fox HD
-http://bstream.planetstream.org:8000/live/massi/massi/710.ts
+http://bstream.planetstream.org:8000/live/massi/massi/710.m3u8
 #EXTINF:0,Sky Fox +1
-http://bstream.planetstream.org:8000/live/massi/massi/1397.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1397.m3u8
 #EXTINF:0,Fox Life HD
-http://bstream.planetstream.org:8000/live/massi/massi/673.ts
+http://bstream.planetstream.org:8000/live/massi/massi/673.m3u8
 #EXTINF:0,Sky Fox Life +1
-http://bstream.planetstream.org:8000/live/massi/massi/1391.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1391.m3u8
 #EXTINF:0,Fox Crime HD
-http://bstream.planetstream.org:8000/live/massi/massi/670.ts
+http://bstream.planetstream.org:8000/live/massi/massi/670.m3u8
 #EXTINF:0,Sky Fox Crime +1
-http://bstream.planetstream.org:8000/live/massi/massi/1392.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1392.m3u8
 #EXTINF:0,Fox Comedy HD
-http://bstream.planetstream.org:8000/live/massi/massi/672.ts
+http://bstream.planetstream.org:8000/live/massi/massi/672.m3u8
 #EXTINF:0,Fox Animation HD
-http://bstream.planetstream.org:8000/live/massi/massi/671.ts
+http://bstream.planetstream.org:8000/live/massi/massi/671.m3u8
 #EXTINF:0,AXN HD
-http://bstream.planetstream.org:8000/live/massi/massi/636.ts
+http://bstream.planetstream.org:8000/live/massi/massi/636.m3u8
 #EXTINF:0,Sky AXN +1
-http://bstream.planetstream.org:8000/live/massi/massi/2374.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2374.m3u8
 #EXTINF:0,AXN Sci Fi
-http://bstream.planetstream.org:8000/live/massi/massi/976.ts
+http://bstream.planetstream.org:8000/live/massi/massi/976.m3u8
 #EXTINF:0,Comedy Central
-http://bstream.planetstream.org:8000/live/massi/massi/995.ts
+http://bstream.planetstream.org:8000/live/massi/massi/995.m3u8
 #EXTINF:0,Animal Planet
-http://bstream.planetstream.org:8000/live/massi/massi/996.ts
+http://bstream.planetstream.org:8000/live/massi/massi/996.m3u8
 #EXTINF:0,Sky Real Time HD
-http://bstream.planetstream.org:8000/live/massi/massi/864.ts
+http://bstream.planetstream.org:8000/live/massi/massi/864.m3u8
 #EXTINF:0,Sky GamberoRosso HD
-http://bstream.planetstream.org:8000/live/massi/massi/781.ts
+http://bstream.planetstream.org:8000/live/massi/massi/781.m3u8
 #EXTINF:0,LEI
-http://bstream.planetstream.org:8000/live/massi/massi/1017.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1017.m3u8
 #EXTINF:0,PokerIttalia 24
-http://bstream.planetstream.org:8000/live/massi/massi/1018.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1018.m3u8
 #EXTINF:0,SKY TG24 HD
-http://bstream.planetstream.org:8000/live/massi/massi/45.ts
+http://bstream.planetstream.org:8000/live/massi/massi/45.m3u8
 #EXTINF:0,———Cultura———
-http://bstream.planetstream.org:8000/live/massi/massi/759.ts
+http://bstream.planetstream.org:8000/live/massi/massi/759.m3u8
 #EXTINF:0,Sky discovery HD
-http://bstream.planetstream.org:8000/live/massi/massi/830.ts
+http://bstream.planetstream.org:8000/live/massi/massi/830.m3u8
 #EXTINF:0,Sky NationalGeo HD
-http://bstream.planetstream.org:8000/live/massi/massi/784.ts
+http://bstream.planetstream.org:8000/live/massi/massi/784.m3u8
 #EXTINF:0,Sky NatGeo People HD
-http://bstream.planetstream.org:8000/live/massi/massi/782.ts
+http://bstream.planetstream.org:8000/live/massi/massi/782.m3u8
 #EXTINF:0,Nat Geo Wild HD
-http://bstream.planetstream.org:8000/live/massi/massi/828.ts
+http://bstream.planetstream.org:8000/live/massi/massi/828.m3u8
 #EXTINF:0,Sky History HD
-http://bstream.planetstream.org:8000/live/massi/massi/676.ts
+http://bstream.planetstream.org:8000/live/massi/massi/676.m3u8
 #EXTINF:0,Sky Discovery science HD
-http://bstream.planetstream.org:8000/live/massi/massi/679.ts
+http://bstream.planetstream.org:8000/live/massi/massi/679.m3u8
 #EXTINF:0,CI Crime+Investigation HD
-http://bstream.planetstream.org:8000/live/massi/massi/680.ts
+http://bstream.planetstream.org:8000/live/massi/massi/680.m3u8
 #EXTINF:0,Sky Discovery Travel & Living HD
-http://bstream.planetstream.org:8000/live/massi/massi/478.ts
+http://bstream.planetstream.org:8000/live/massi/massi/478.m3u8
 #EXTINF:0,Sky Arte HD
-http://bstream.planetstream.org:8000/live/massi/massi/980.ts
+http://bstream.planetstream.org:8000/live/massi/massi/980.m3u8
 #EXTINF:0,Sky Dmax HD
-http://bstream.planetstream.org:8000/live/massi/massi/814.ts
+http://bstream.planetstream.org:8000/live/massi/massi/814.m3u8
 #EXTINF:0,Sky eXplora HD
-http://bstream.planetstream.org:8000/live/massi/massi/674.ts
+http://bstream.planetstream.org:8000/live/massi/massi/674.m3u8
 #EXTINF:0,Sky Pesca & Caccia
-http://bstream.planetstream.org:8000/live/massi/massi/677.ts
+http://bstream.planetstream.org:8000/live/massi/massi/677.m3u8
 #EXTINF:0,Caccia
-http://bstream.planetstream.org:8000/live/massi/massi/997.ts
+http://bstream.planetstream.org:8000/live/massi/massi/997.m3u8
 #EXTINF:0,————Sport————–
-http://bstream.planetstream.org:8000/live/massi/massi/757.ts
+http://bstream.planetstream.org:8000/live/massi/massi/757.m3u8
 #EXTINF:0,Sky Sport 24 HD
-http://bstream.planetstream.org:8000/live/massi/massi/124.ts
+http://bstream.planetstream.org:8000/live/massi/massi/124.m3u8
 #EXTINF:0,Sky Sport Plus HD
-http://bstream.planetstream.org:8000/live/massi/massi/777.ts
+http://bstream.planetstream.org:8000/live/massi/massi/777.m3u8
 #EXTINF:0,Sky Fox Sport HD
-http://bstream.planetstream.org:8000/live/massi/massi/410.ts
+http://bstream.planetstream.org:8000/live/massi/massi/410.m3u8
 #EXTINF:0,Sky Sport 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/129.ts
+http://bstream.planetstream.org:8000/live/massi/massi/129.m3u8
 #EXTINF:0,Sky Sport 1 Dsl Lente
-http://bstream.planetstream.org:8000/live/massi/massi/2777.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2777.m3u8
 #EXTINF:0,Sky Sport 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/165.ts
+http://bstream.planetstream.org:8000/live/massi/massi/165.m3u8
 #EXTINF:0,Sky Sport 3 HD
-http://bstream.planetstream.org:8000/live/massi/massi/628.ts
+http://bstream.planetstream.org:8000/live/massi/massi/628.m3u8
 #EXTINF:0,Sky Sport 3 Dsl Lente
-http://bstream.planetstream.org:8000/live/massi/massi/2978.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2978.m3u8
 #EXTINF:0,Sky Eurosport 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/894.ts
+http://bstream.planetstream.org:8000/live/massi/massi/894.m3u8
 #EXTINF:0,Sky Eurosport 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/895.ts
+http://bstream.planetstream.org:8000/live/massi/massi/895.m3u8
 #EXTINF:0,Sky Sport F1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/131.ts
+http://bstream.planetstream.org:8000/live/massi/massi/131.m3u8
 #EXTINF:0,Sky Forumula 1 Dsl Lente
-http://bstream.planetstream.org:8000/live/massi/massi/2891.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2891.m3u8
 #EXTINF:0,Sky Sport MotoGP HD
-http://bstream.planetstream.org:8000/live/massi/massi/538.ts
+http://bstream.planetstream.org:8000/live/massi/massi/538.m3u8
 #EXTINF:0,Sky Moto GP Dsl Lente
-http://bstream.planetstream.org:8000/live/massi/massi/2806.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2806.m3u8
 #EXTINF:0,Sky Supertennis HD
-http://bstream.planetstream.org:8000/live/massi/massi/956.ts
+http://bstream.planetstream.org:8000/live/massi/massi/956.m3u8
 #EXTINF:0,Sky SuperCalcio HD
-http://bstream.planetstream.org:8000/live/massi/massi/128.ts
+http://bstream.planetstream.org:8000/live/massi/massi/128.m3u8
 #EXTINF:0,Juve Channel
-http://bstream.planetstream.org:8000/live/massi/massi/989.ts
+http://bstream.planetstream.org:8000/live/massi/massi/989.m3u8
 #EXTINF:0,Inter Channel
-http://bstream.planetstream.org:8000/live/massi/massi/988.ts
+http://bstream.planetstream.org:8000/live/massi/massi/988.m3u8
 #EXTINF:0,Milan Channel
-http://bstream.planetstream.org:8000/live/massi/massi/990.ts
+http://bstream.planetstream.org:8000/live/massi/massi/990.m3u8
 #EXTINF:0,Roma Channel
-http://bstream.planetstream.org:8000/live/massi/massi/1089.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1089.m3u8
 #EXTINF:0,Lazio Channel
-http://bstream.planetstream.org:8000/live/massi/massi/1225.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1225.m3u8
 #EXTINF:0,Bike Channel
-http://bstream.planetstream.org:8000/live/massi/massi/1224.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1224.m3u8
 #EXTINF:0,————Calcio————
-http://bstream.planetstream.org:8000/live/massi/massi/758.ts
+http://bstream.planetstream.org:8000/live/massi/massi/758.m3u8
 #EXTINF:0,Sky Calcio 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/46.ts
+http://bstream.planetstream.org:8000/live/massi/massi/46.m3u8
 #EXTINF:0,Sky Calcio 1 Dsl Lente
-http://bstream.planetstream.org:8000/live/massi/massi/2778.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2778.m3u8
 #EXTINF:0,Sky Calcio 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/761.ts
+http://bstream.planetstream.org:8000/live/massi/massi/761.m3u8
 #EXTINF:0,Sky Calcio 2 Dsl Lente
-http://bstream.planetstream.org:8000/live/massi/massi/2779.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2779.m3u8
 #EXTINF:0,Sky Calcio 3 HD
-http://bstream.planetstream.org:8000/live/massi/massi/762.ts
+http://bstream.planetstream.org:8000/live/massi/massi/762.m3u8
 #EXTINF:0,Sky Calcio 3 Dsl Lente
-http://bstream.planetstream.org:8000/live/massi/massi/2780.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2780.m3u8
 #EXTINF:0,Sky Calcio 4 HD
-http://bstream.planetstream.org:8000/live/massi/massi/718.ts
+http://bstream.planetstream.org:8000/live/massi/massi/718.m3u8
 #EXTINF:0,Sky Calcio 5 HD
-http://bstream.planetstream.org:8000/live/massi/massi/50.ts
+http://bstream.planetstream.org:8000/live/massi/massi/50.m3u8
 #EXTINF:0,Sky Calcio 6 HD
-http://bstream.planetstream.org:8000/live/massi/massi/51.ts
+http://bstream.planetstream.org:8000/live/massi/massi/51.m3u8
 #EXTINF:0,Sky Calcio 7 HD
-http://bstream.planetstream.org:8000/live/massi/massi/52.ts
+http://bstream.planetstream.org:8000/live/massi/massi/52.m3u8
 #EXTINF:0,Sky Calcio 8 HD
-http://bstream.planetstream.org:8000/live/massi/massi/978.ts
+http://bstream.planetstream.org:8000/live/massi/massi/978.m3u8
 #EXTINF:0,Sky Calcio 9
-http://bstream.planetstream.org:8000/live/massi/massi/2981.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2981.m3u8
 #EXTINF:0,############ PRIMAFILA ###########
-http://bstream.planetstream.org:8000/live/massi/massi/56.ts
+http://bstream.planetstream.org:8000/live/massi/massi/56.m3u8
 #EXTINF:0,Primafila 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1437.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1437.m3u8
 #EXTINF:0,Primafila 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1438.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1438.m3u8
 #EXTINF:0,Primafila 3 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1439.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1439.m3u8
 #EXTINF:0,Primafila 4 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1440.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1440.m3u8
 #EXTINF:0,Primafila 5 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1441.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1441.m3u8
 #EXTINF:0,Primafila 6 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1442.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1442.m3u8
 #EXTINF:0,Primafila 7 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1443.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1443.m3u8
 #EXTINF:0,Primafila 8 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1444.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1444.m3u8
 #EXTINF:0,Primafila 9 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1445.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1445.m3u8
 #EXTINF:0,Primafila 10 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1446.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1446.m3u8
 #EXTINF:0,Primafila 11 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1447.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1447.m3u8
 #EXTINF:0,Primafila 12 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1453.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1453.m3u8
 #EXTINF:0,Primafila 13 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1448.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1448.m3u8
 #EXTINF:0,Primafila 14 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1449.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1449.m3u8
 #EXTINF:0,Primafila 15 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1450.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1450.m3u8
 #EXTINF:0,Primafila 16 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1454.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1454.m3u8
 #EXTINF:0,Primafila 17 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1451.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1451.m3u8
 #EXTINF:0,Primafila 18 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1452.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1452.m3u8
 #EXTINF:0,Primafila 19 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1436.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1436.m3u8
 #EXTINF:0,########### CANALI MUSICALI ##########
-http://bstream.planetstream.org:8000/live/massi/massi/75.ts
+http://bstream.planetstream.org:8000/live/massi/massi/75.m3u8
 #EXTINF:0,For Music
-http://bstream.planetstream.org:8000/live/massi/massi/76.ts
+http://bstream.planetstream.org:8000/live/massi/massi/76.m3u8
 #EXTINF:0,Radio Italia Tv
-http://bstream.planetstream.org:8000/live/massi/massi/79.ts
+http://bstream.planetstream.org:8000/live/massi/massi/79.m3u8
 #EXTINF:0,Montecarlo Music
-http://bstream.planetstream.org:8000/live/massi/massi/77.ts
+http://bstream.planetstream.org:8000/live/massi/massi/77.m3u8
 #EXTINF:0,Radio 105 TV
-http://bstream.planetstream.org:8000/live/massi/massi/78.ts
+http://bstream.planetstream.org:8000/live/massi/massi/78.m3u8
 #EXTINF:0,###### DEUTSCHE #######
-http://bstream.planetstream.org:8000/live/massi/massi/741.ts
+http://bstream.planetstream.org:8000/live/massi/massi/741.m3u8
 #EXTINF:0,Zdf HD
-http://bstream.planetstream.org:8000/live/massi/massi/2992.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2992.m3u8
 #EXTINF:0,Zdf info HD
-http://bstream.planetstream.org:8000/live/massi/massi/2991.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2991.m3u8
 #EXTINF:0,TNT Serie HD
-http://bstream.planetstream.org:8000/live/massi/massi/2995.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2995.m3u8
 #EXTINF:0,Wdr HD
-http://bstream.planetstream.org:8000/live/massi/massi/2993.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2993.m3u8
 #EXTINF:0,Vox HD
-http://bstream.planetstream.org:8000/live/massi/massi/2994.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2994.m3u8
 #EXTINF:0,Ard HD
-http://bstream.planetstream.org:8000/live/massi/massi/3049.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3049.m3u8
 #EXTINF:0,Rtl HD
-http://bstream.planetstream.org:8000/live/massi/massi/3028.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3028.m3u8
 #EXTINF:0,Rtl 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3029.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3029.m3u8
 #EXTINF:0,Rtl Nitro
-http://bstream.planetstream.org:8000/live/massi/massi/3027.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3027.m3u8
 #EXTINF:0,Super Rtl
-http://bstream.planetstream.org:8000/live/massi/massi/2998.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2998.m3u8
 #EXTINF:0,Pro 7 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3032.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3032.m3u8
 #EXTINF:0,Pro 7 Maxx
-http://bstream.planetstream.org:8000/live/massi/massi/3031.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3031.m3u8
 #EXTINF:0,13 Street HD
-http://bstream.planetstream.org:8000/live/massi/massi/3051.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3051.m3u8
 #EXTINF:0,3Sat HD
-http://bstream.planetstream.org:8000/live/massi/massi/3050.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3050.m3u8
 #EXTINF:0,BR HD
-http://bstream.planetstream.org:8000/live/massi/massi/3047.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3047.m3u8
 #EXTINF:0,EnsPlus HD
-http://bstream.planetstream.org:8000/live/massi/massi/3045.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3045.m3u8
 #EXTINF:0,DMAX DE
-http://bstream.planetstream.org:8000/live/massi/massi/3046.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3046.m3u8
 #EXTINF:0,Eurosport DE
-http://bstream.planetstream.org:8000/live/massi/massi/3044.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3044.m3u8
 #EXTINF:0,Fox HD DE
-http://bstream.planetstream.org:8000/live/massi/massi/3043.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3043.m3u8
 #EXTINF:0,HR HD
-http://bstream.planetstream.org:8000/live/massi/massi/3041.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3041.m3u8
 #EXTINF:0,Kabel 1
-http://bstream.planetstream.org:8000/live/massi/massi/3040.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3040.m3u8
 #EXTINF:0,Kino Welt TV
-http://bstream.planetstream.org:8000/live/massi/massi/3039.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3039.m3u8
 #EXTINF:0,MDR HD
-http://bstream.planetstream.org:8000/live/massi/massi/3038.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3038.m3u8
 #EXTINF:0,MGM HD
-http://bstream.planetstream.org:8000/live/massi/massi/3037.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3037.m3u8
 #EXTINF:0,N-TV HD
-http://bstream.planetstream.org:8000/live/massi/massi/3036.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3036.m3u8
 #EXTINF:0,NDR HD
-http://bstream.planetstream.org:8000/live/massi/massi/3035.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3035.m3u8
 #EXTINF:0,Phoenix HD
-http://bstream.planetstream.org:8000/live/massi/massi/3033.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3033.m3u8
 #EXTINF:0,RBB HD
-http://bstream.planetstream.org:8000/live/massi/massi/3030.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3030.m3u8
 #EXTINF:0,Sixx
-http://bstream.planetstream.org:8000/live/massi/massi/3024.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3024.m3u8
 #EXTINF:0,########### SKY DE ##########
-http://bstream.planetstream.org:8000/live/massi/massi/2693.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2693.m3u8
 #EXTINF:0,Sky DE Cinema HD
-http://bstream.planetstream.org:8000/live/massi/massi/3013.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3013.m3u8
 #EXTINF:0,Sky DE Cinema 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3015.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3015.m3u8
 #EXTINF:0,Sky DE Cinema 24 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3014.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3014.m3u8
 #EXTINF:0,Sky DE Hits HD
-http://bstream.planetstream.org:8000/live/massi/massi/3009.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3009.m3u8
 #EXTINF:0,Sky DE Emotion
-http://bstream.planetstream.org:8000/live/massi/massi/3010.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3010.m3u8
 #EXTINF:0,Sky DE Action HD
-http://bstream.planetstream.org:8000/live/massi/massi/3022.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3022.m3u8
 #EXTINF:0,Sky DE Comedy
-http://bstream.planetstream.org:8000/live/massi/massi/3012.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3012.m3u8
 #EXTINF:0,Sky Krimi
-http://bstream.planetstream.org:8000/live/massi/massi/3004.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3004.m3u8
 #EXTINF:0,Sky SyFy HD
-http://bstream.planetstream.org:8000/live/massi/massi/3003.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3003.m3u8
 #EXTINF:0,Sky 3D DE
-http://bstream.planetstream.org:8000/live/massi/massi/3023.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3023.m3u8
 #EXTINF:0,Sky DE Atlantic HD
-http://bstream.planetstream.org:8000/live/massi/massi/3021.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3021.m3u8
 #EXTINF:0,History Channel DE
-http://bstream.planetstream.org:8000/live/massi/massi/3042.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3042.m3u8
 #EXTINF:0,Sky DE Nat Geo HD
-http://bstream.planetstream.org:8000/live/massi/massi/3008.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3008.m3u8
 #EXTINF:0,Sky DE NatGeo Wild HD
-http://bstream.planetstream.org:8000/live/massi/massi/3007.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3007.m3u8
 #EXTINF:0,Sky DE Discovery Channel HD
-http://bstream.planetstream.org:8000/live/massi/massi/3011.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3011.m3u8
 #EXTINF:0,Sport 1 DE
-http://bstream.planetstream.org:8000/live/massi/massi/3002.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3002.m3u8
 #EXTINF:0,Sky DE Sport 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3006.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3006.m3u8
 #EXTINF:0,Sky DE Sport 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3005.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3005.m3u8
 #EXTINF:0,Sky DE Bundesliga 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3020.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3020.m3u8
 #EXTINF:0,Sky DE Bundesliga 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3019.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3019.m3u8
 #EXTINF:0,Sky DE Bundesliga 3 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3018.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3018.m3u8
 #EXTINF:0,Sky DE Bundesliga 4 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3017.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3017.m3u8
 #EXTINF:0,Sky DE Bundesliga 5 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3016.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3016.m3u8
 #EXTINF:0,Sky Select 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1482.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1482.m3u8
 #EXTINF:0,Sky Select 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1483.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1483.m3u8
 #EXTINF:0,Sky Select 3 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1484.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1484.m3u8
 #EXTINF:0,Sky Select 4 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1485.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1485.m3u8
 #EXTINF:0,Sky Select 5 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1486.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1486.m3u8
 #EXTINF:0,Sky Select 6 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1487.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1487.m3u8
 #EXTINF:0,Sky Select 7 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1488.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1488.m3u8
 #EXTINF:0,Sky Select 8 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1489.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1489.m3u8
 #EXTINF:0,Sky Select 9 HD
-http://bstream.planetstream.org:8000/live/massi/massi/1490.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1490.m3u8
 #EXTINF:0,CH: ######### Svizzeri ##########
-http://bstream.planetstream.org:8000/live/massi/massi/2681.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2681.m3u8
 #EXTINF:0,Tele Zьrich HD
-http://bstream.planetstream.org:8000/live/massi/massi/2996.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2996.m3u8
 #EXTINF:0,RTS 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3026.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3026.m3u8
 #EXTINF:0,RTS 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/3025.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3025.m3u8
 #EXTINF:0,SRF HD 1
-http://bstream.planetstream.org:8000/live/massi/massi/3001.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3001.m3u8
 #EXTINF:0,SRF HD 2
-http://bstream.planetstream.org:8000/live/massi/massi/3000.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3000.m3u8
 #EXTINF:0,Nickeloadeon CH
-http://bstream.planetstream.org:8000/live/massi/massi/3034.ts
+http://bstream.planetstream.org:8000/live/massi/massi/3034.m3u8
 #EXTINF:0,SRF Info
-http://bstream.planetstream.org:8000/live/massi/massi/2999.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2999.m3u8
 #EXTINF:0,SWR HD
-http://bstream.planetstream.org:8000/live/massi/massi/2997.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2997.m3u8
 #EXTINF:0,############# SPORT ##########
-http://bstream.planetstream.org:8000/live/massi/massi/2568.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2568.m3u8
 #EXTINF:0,Bein Sport 1
-http://bstream.planetstream.org:8000/live/massi/massi/2567.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2567.m3u8
 #EXTINF:0,Bein Sport 2
-http://bstream.planetstream.org:8000/live/massi/massi/2565.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2565.m3u8
 #EXTINF:0,Bein Sport 3
-http://bstream.planetstream.org:8000/live/massi/massi/2564.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2564.m3u8
 #EXTINF:0,Bein Sport 4
-http://bstream.planetstream.org:8000/live/massi/massi/2563.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2563.m3u8
 #EXTINF:0,Bein Sport 5
-http://bstream.planetstream.org:8000/live/massi/massi/2562.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2562.m3u8
 #EXTINF:0,Bein Sport 6
-http://bstream.planetstream.org:8000/live/massi/massi/2561.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2561.m3u8
 #EXTINF:0,Bein Sport 7
-http://bstream.planetstream.org:8000/live/massi/massi/2560.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2560.m3u8
 #EXTINF:0,Bein Sport 8
-http://bstream.planetstream.org:8000/live/massi/massi/2559.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2559.m3u8
 #EXTINF:0,Bein Sport 9
-http://bstream.planetstream.org:8000/live/massi/massi/2558.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2558.m3u8
 #EXTINF:0,Bein Sport 10
-http://bstream.planetstream.org:8000/live/massi/massi/2566.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2566.m3u8
 #EXTINF:0,US – Sport Time 1
-http://bstream.planetstream.org:8000/live/massi/massi/2700.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2700.m3u8
 #EXTINF:0,US – Sport Time 2
-http://bstream.planetstream.org:8000/live/massi/massi/2699.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2699.m3u8
 #EXTINF:0,US – Sport Time 3
-http://bstream.planetstream.org:8000/live/massi/massi/2698.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2698.m3u8
 #EXTINF:0,US – Sport Time 4
-http://bstream.planetstream.org:8000/live/massi/massi/2697.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2697.m3u8
 #EXTINF:0,US – Sport Time 5
-http://bstream.planetstream.org:8000/live/massi/massi/2696.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2696.m3u8
 #EXTINF:0,US – Sport Time 6
-http://bstream.planetstream.org:8000/live/massi/massi/2695.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2695.m3u8
 #EXTINF:0,US – Sport Time 7
-http://bstream.planetstream.org:8000/live/massi/massi/2694.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2694.m3u8
 #EXTINF:0,POR – Sport Tv 1
-http://bstream.planetstream.org:8000/live/massi/massi/2707.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2707.m3u8
 #EXTINF:0,POR – Sport Tv 2
-http://bstream.planetstream.org:8000/live/massi/massi/2706.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2706.m3u8
 #EXTINF:0,POR – Sport Tv 3
-http://bstream.planetstream.org:8000/live/massi/massi/2705.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2705.m3u8
 #EXTINF:0,POR – Sport Tv 4
-http://bstream.planetstream.org:8000/live/massi/massi/2704.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2704.m3u8
 #EXTINF:0,POR – Sport Tv 5
-http://bstream.planetstream.org:8000/live/massi/massi/2703.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2703.m3u8
 #EXTINF:0,ALB – Super Sports 1
-http://bstream.planetstream.org:8000/live/massi/massi/2714.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2714.m3u8
 #EXTINF:0,ALB – Super Sports 2
-http://bstream.planetstream.org:8000/live/massi/massi/2713.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2713.m3u8
 #EXTINF:0,ALB – Super Sports 3
-http://bstream.planetstream.org:8000/live/massi/massi/2712.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2712.m3u8
 #EXTINF:0,ALB – Super Sports 4
-http://bstream.planetstream.org:8000/live/massi/massi/2711.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2711.m3u8
 #EXTINF:0,—————-Croati———————–
-http://bstream.planetstream.org:8000/live/massi/massi/1615.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1615.m3u8
 #EXTINF:0,Arena Sports 1
-http://bstream.planetstream.org:8000/live/massi/massi/1616.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1616.m3u8
 #EXTINF:0,Arena Sports 2
-http://bstream.planetstream.org:8000/live/massi/massi/1617.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1617.m3u8
 #EXTINF:0,Arena Sports 3
-http://bstream.planetstream.org:8000/live/massi/massi/1618.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1618.m3u8
 #EXTINF:0,Arena Sports 4
-http://bstream.planetstream.org:8000/live/massi/massi/1619.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1619.m3u8
 #EXTINF:0,Sport Klub 1
-http://bstream.planetstream.org:8000/live/massi/massi/1620.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1620.m3u8
 #EXTINF:0,Sport Klub 2
-http://bstream.planetstream.org:8000/live/massi/massi/1621.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1621.m3u8
 #EXTINF:0,Sport Klub 3
-http://bstream.planetstream.org:8000/live/massi/massi/1622.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1622.m3u8
 #EXTINF:0,——————–INGLESI——————–
-http://bstream.planetstream.org:8000/live/massi/massi/1548.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1548.m3u8
 #EXTINF:0,Sky Action UK
-http://bstream.planetstream.org:8000/live/massi/massi/1553.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1553.m3u8
 #EXTINF:0,Sky Drama UK
-http://bstream.planetstream.org:8000/live/massi/massi/1552.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1552.m3u8
 #EXTINF:0,Sky Family UK
-http://bstream.planetstream.org:8000/live/massi/massi/1551.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1551.m3u8
 #EXTINF:0,Sky Movies Premiere UK
-http://bstream.planetstream.org:8000/live/massi/massi/1549.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1549.m3u8
 #EXTINF:0,Sky Thriller UK
-http://bstream.planetstream.org:8000/live/massi/massi/1555.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1555.m3u8
 #EXTINF:0,Sky Fox Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1560.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1560.m3u8
 #EXTINF:0,Sky Living UK
-http://bstream.planetstream.org:8000/live/massi/massi/1550.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1550.m3u8
 #EXTINF:0,Sky One Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1556.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1556.m3u8
 #EXTINF:0,Sky Two Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1557.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1557.m3u8
 #EXTINF:0,Sky Atlantic Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1559.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1559.m3u8
 #EXTINF:0,Sky SciFi UK
-http://bstream.planetstream.org:8000/live/massi/massi/1554.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1554.m3u8
 #EXTINF:0,Sky Comedy Central UK
-http://bstream.planetstream.org:8000/live/massi/massi/1561.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1561.m3u8
 #EXTINF:0,Cartoon Network Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1564.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1564.m3u8
 #EXTINF:0,Disney XD Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1566.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1566.m3u8
 #EXTINF:0,Disney Movies Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1565.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1565.m3u8
 #EXTINF:0,Disney Junior Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1569.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1569.m3u8
 #EXTINF:0,Disney Channel Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1570.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1570.m3u8
 #EXTINF:0,UK – Baby Tv
-http://bstream.planetstream.org:8000/live/massi/massi/2701.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2701.m3u8
 #EXTINF:0,Nickelodeon Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1567.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1567.m3u8
 #EXTINF:0,Nickelodeon Jr Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1568.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1568.m3u8
 #EXTINF:0,UK – Alibi
-http://bstream.planetstream.org:8000/live/massi/massi/2702.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2702.m3u8
 #EXTINF:0,Nat Geo Wild Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1575.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1575.m3u8
 #EXTINF:0,History Channel Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1574.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1574.m3u8
 #EXTINF:0,Food Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1588.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1588.m3u8
 #EXTINF:0,ESPN Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1589.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1589.m3u8
 #EXTINF:0,Discovery Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1572.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1572.m3u8
 #EXTINF:0,Discovery Turbo Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1573.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1573.m3u8
 #EXTINF:0,Discovery Science Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1576.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1576.m3u8
 #EXTINF:0,Discovery ID Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1577.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1577.m3u8
 #EXTINF:0,Discovery Home & Heath Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1578.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1578.m3u8
 #EXTINF:0,Discovery History Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1579.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1579.m3u8
 #EXTINF:0,CI Crime Investigation Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1580.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1580.m3u8
 #EXTINF:0,Animal Planet Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1571.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1571.m3u8
 #EXTINF:0,Sky News Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1558.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1558.m3u8
 #EXTINF:0,Sky Sports 1 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1593.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1593.m3u8
 #EXTINF:0,Sky Sports 2 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1594.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1594.m3u8
 #EXTINF:0,Sky Sports 3 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1595.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1595.m3u8
 #EXTINF:0,Sky Sports 4 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1596.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1596.m3u8
 #EXTINF:0,Sky Sports 5 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1597.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1597.m3u8
 #EXTINF:0,Sky Sports F1 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1600.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1600.m3u8
 #EXTINF:0,Sky Sports News Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1601.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1601.m3u8
 #EXTINF:0,EuroSport 1 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1598.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1598.m3u8
 #EXTINF:0,EuroSport 2 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1599.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1599.m3u8
 #EXTINF:0,MUTV UK
-http://bstream.planetstream.org:8000/live/massi/massi/2708.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2708.m3u8
 #EXTINF:0,Chelsea TV
-http://bstream.planetstream.org:8000/live/massi/massi/2710.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2710.m3u8
 #EXTINF:0,Racing Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1590.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1590.m3u8
 #EXTINF:0,At The Races
-http://bstream.planetstream.org:8000/live/massi/massi/1585.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1585.m3u8
 #EXTINF:0,Premier Sports Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1591.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1591.m3u8
 #EXTINF:0,Setanta Sports Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1592.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1592.m3u8
 #EXTINF:0,Channel 4 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1581.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1581.m3u8
 #EXTINF:0,Channel 5 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1582.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1582.m3u8
 #EXTINF:0,BT Sports 1 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1583.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1583.m3u8
 #EXTINF:0,BT Sports 2 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1584.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1584.m3u8
 #EXTINF:0,RTE Two Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1587.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1587.m3u8
 #EXTINF:0,RTE One Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1586.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1586.m3u8
 #EXTINF:0,TLC Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1614.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1614.m3u8
 #EXTINF:0,VH1 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1613.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1613.m3u8
 #EXTINF:0,ITV 1 (SV)
-http://bstream.planetstream.org:8000/live/massi/massi/1602.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1602.m3u8
 #EXTINF:0,ITV 2
-http://bstream.planetstream.org:8000/live/massi/massi/1603.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1603.m3u8
 #EXTINF:0,ITV 3
-http://bstream.planetstream.org:8000/live/massi/massi/1604.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1604.m3u8
 #EXTINF:0,ITV 4
-http://bstream.planetstream.org:8000/live/massi/massi/1605.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1605.m3u8
 #EXTINF:0,BBC Entertainment Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1612.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1612.m3u8
 #EXTINF:0,BBC News Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1611.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1611.m3u8
 #EXTINF:0,BBC NI (SV)
-http://bstream.planetstream.org:8000/live/massi/massi/1610.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1610.m3u8
 #EXTINF:0,BBC One (NB)
-http://bstream.planetstream.org:8000/live/massi/massi/1606.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1606.m3u8
 #EXTINF:0,BBC Two (SV)
-http://bstream.planetstream.org:8000/live/massi/massi/1607.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1607.m3u8
 #EXTINF:0,BBC Three
-http://bstream.planetstream.org:8000/live/massi/massi/1608.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1608.m3u8
 #EXTINF:0,BBC Four
-http://bstream.planetstream.org:8000/live/massi/massi/1609.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1609.m3u8
 #EXTINF:0,CNN UK
-http://bstream.planetstream.org:8000/live/massi/massi/2709.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2709.m3u8
 #EXTINF:0,####VM 18 Attenzione no Parental Control###
-http://bstream.planetstream.org:8000/live/massi/massi/643.ts
+http://bstream.planetstream.org:8000/live/massi/massi/643.m3u8
 #EXTINF:0,###Non Vuoi VM 18 Richiedi La Rimozione XXX###
-http://bstream.planetstream.org:8000/live/massi/massi/644.ts
+http://bstream.planetstream.org:8000/live/massi/massi/644.m3u8
 #EXTINF:0,XXX 1
-http://bstream.planetstream.org:8000/live/massi/massi/897.ts
+http://bstream.planetstream.org:8000/live/massi/massi/897.m3u8
 #EXTINF:0,XXX 2
-http://bstream.planetstream.org:8000/live/massi/massi/898.ts
+http://bstream.planetstream.org:8000/live/massi/massi/898.m3u8
 #EXTINF:0,XXX 3
-http://bstream.planetstream.org:8000/live/massi/massi/899.ts
+http://bstream.planetstream.org:8000/live/massi/massi/899.m3u8
 #EXTINF:0,XXX 4
-http://bstream.planetstream.org:8000/live/massi/massi/906.ts
+http://bstream.planetstream.org:8000/live/massi/massi/906.m3u8
 #EXTINF:0,XXX 5
-http://bstream.planetstream.org:8000/live/massi/massi/907.ts
+http://bstream.planetstream.org:8000/live/massi/massi/907.m3u8
 #EXTINF:0,XXX 6
-http://bstream.planetstream.org:8000/live/massi/massi/904.ts
+http://bstream.planetstream.org:8000/live/massi/massi/904.m3u8
 #EXTINF:0,XXX 7
-http://bstream.planetstream.org:8000/live/massi/massi/908.ts
+http://bstream.planetstream.org:8000/live/massi/massi/908.m3u8
 #EXTINF:0,XXX 8
-http://bstream.planetstream.org:8000/live/massi/massi/911.ts
+http://bstream.planetstream.org:8000/live/massi/massi/911.m3u8
 #EXTINF:0,XXX 9
-http://bstream.planetstream.org:8000/live/massi/massi/915.ts
+http://bstream.planetstream.org:8000/live/massi/massi/915.m3u8
 #EXTINF:0,XXX 10
-http://bstream.planetstream.org:8000/live/massi/massi/922.ts
+http://bstream.planetstream.org:8000/live/massi/massi/922.m3u8
 #EXTINF:0,XXX 11
-http://bstream.planetstream.org:8000/live/massi/massi/1051.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1051.m3u8
 #EXTINF:0,XXX 12
-http://bstream.planetstream.org:8000/live/massi/massi/1052.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1052.m3u8
 #EXTINF:0,XXX 13
-http://bstream.planetstream.org:8000/live/massi/massi/1053.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1053.m3u8
 #EXTINF:0,XXX 14
-http://bstream.planetstream.org:8000/live/massi/massi/1054.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1054.m3u8
 #EXTINF:0,XXX 15
-http://bstream.planetstream.org:8000/live/massi/massi/1055.ts
+http://bstream.planetstream.org:8000/live/massi/massi/1055.m3u8
 #EXTINF:0,REDLIGHT
-http://bstream.planetstream.org:8000/live/massi/massi/2381.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2381.m3u8
 #EXTINF:0,Sct HQ
-http://bstream.planetstream.org:8000/live/massi/massi/2331.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2331.m3u8
 #EXTINF:0,SCT 7
-http://bstream.planetstream.org:8000/live/massi/massi/2379.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2379.m3u8
 #EXTINF:0,SCT 6
-http://bstream.planetstream.org:8000/live/massi/massi/2380.ts
+http://bstream.planetstream.org:8000/live/massi/massi/2380.m3u8
