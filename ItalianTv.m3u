@@ -779,48 +779,7 @@ http://bstream.planetstream.org:8000/live/massi/massi/1608.m3u8
 http://bstream.planetstream.org:8000/live/massi/massi/1609.m3u8
 #EXTINF:0,CNN UK
 http://bstream.planetstream.org:8000/live/massi/massi/2709.m3u8
-#EXTINF:0,####VM 18 Attenzione no Parental Control###
-http://bstream.planetstream.org:8000/live/massi/massi/643.m3u8
-#EXTINF:0,###Non Vuoi VM 18 Richiedi La Rimozione XXX###
-http://bstream.planetstream.org:8000/live/massi/massi/644.m3u8
-#EXTINF:0,XXX 1
-http://bstream.planetstream.org:8000/live/massi/massi/897.m3u8
-#EXTINF:0,XXX 2
-http://bstream.planetstream.org:8000/live/massi/massi/898.m3u8
-#EXTINF:0,XXX 3
-http://bstream.planetstream.org:8000/live/massi/massi/899.m3u8
-#EXTINF:0,XXX 4
-http://bstream.planetstream.org:8000/live/massi/massi/906.m3u8
-#EXTINF:0,XXX 5
-http://bstream.planetstream.org:8000/live/massi/massi/907.m3u8
-#EXTINF:0,XXX 6
-http://bstream.planetstream.org:8000/live/massi/massi/904.m3u8
-#EXTINF:0,XXX 7
-http://bstream.planetstream.org:8000/live/massi/massi/908.m3u8
-#EXTINF:0,XXX 8
-http://bstream.planetstream.org:8000/live/massi/massi/911.m3u8
-#EXTINF:0,XXX 9
-http://bstream.planetstream.org:8000/live/massi/massi/915.m3u8
-#EXTINF:0,XXX 10
-http://bstream.planetstream.org:8000/live/massi/massi/922.m3u8
-#EXTINF:0,XXX 11
-http://bstream.planetstream.org:8000/live/massi/massi/1051.m3u8
-#EXTINF:0,XXX 12
-http://bstream.planetstream.org:8000/live/massi/massi/1052.m3u8
-#EXTINF:0,XXX 13
-http://bstream.planetstream.org:8000/live/massi/massi/1053.m3u8
-#EXTINF:0,XXX 14
-http://bstream.planetstream.org:8000/live/massi/massi/1054.m3u8
-#EXTINF:0,XXX 15
-http://bstream.planetstream.org:8000/live/massi/massi/1055.m3u8
-#EXTINF:0,REDLIGHT
-http://bstream.planetstream.org:8000/live/massi/massi/2381.m3u8
-#EXTINF:0,Sct HQ
-http://bstream.planetstream.org:8000/live/massi/massi/2331.m3u8
-#EXTINF:0,SCT 7
-http://bstream.planetstream.org:8000/live/massi/massi/2379.m3u8
-#EXTINF:0,SCT 6
-http://bstream.planetstream.org:8000/live/massi/massi/2380.m3u8
+
 
 #EXTINF:-1,Rai 1 HD IT
 http://enzoiptv.dyndns.org:8000/live/romolo/romolo/2834.m3u8
@@ -924,3 +883,301 @@ http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3122.m3u8
 http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3027.m3u8
 #EXTINF:-1,IT-SKY PREMIUM CALCIO 1
 http://enzoiptv.dyndns.org:8000/live/romolo/romolo/3007.m3u8
+#EXTINF:-1,==========Italia test============
+http://enzoiptv.dyndns.org:8000/live/romolo/romolo/440.m3u8
+#EXTINF:0,Cinema 1 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/163.m3u8
+#EXTINF:0,Cinema +1 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/419.m3u8
+#EXTINF:0,Cinema +24 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/164.m3u8
+#EXTINF:0,Cinema Hits HD
+http://151.80.19.93:8000/live/Valentino/Valentino/165.m3u8
+#EXTINF:0,Cinema Family HD
+http://151.80.19.93:8000/live/Valentino/Valentino/166.m3u8
+#EXTINF:0,Cinema Family +1 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1206.m3u8
+#EXTINF:0,Cinema Passion HD
+http://151.80.19.93:8000/live/Valentino/Valentino/167.m3u8
+#EXTINF:0,Cinema Max HD
+http://151.80.19.93:8000/live/Valentino/Valentino/169.m3u8
+#EXTINF:0,Cinema Max +1 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/437.m3u8
+#EXTINF:0,Cinema Comedy HD
+http://151.80.19.93:8000/live/Valentino/Valentino/168.m3u8
+#EXTINF:0,Cinema Classic HD
+http://151.80.19.93:8000/live/Valentino/Valentino/171.m3u8
+#EXTINF:0,Cinema Cult HD
+http://151.80.19.93:8000/live/Valentino/Valentino/170.m3u8
+#EXTINF:0,Sky 3D
+http://151.80.19.93:8000/live/Valentino/Valentino/172.m3u8
+#EXTINF:0,———- Intrattenimento ———-
+http://151.80.19.93:8000/live/Valentino/Valentino/136.m3u8
+#EXTINF:0,Sky Uno HD
+http://151.80.19.93:8000/live/Valentino/Valentino/173.m3u8
+#EXTINF:0,Sky Uno +1 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/440.m3u8
+#EXTINF:0,Sky Atlantic HD
+http://151.80.19.93:8000/live/Valentino/Valentino/174.m3u8
+#EXTINF:0,Sky Atlantic +1 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/466.m3u8
+#EXTINF:0,Fox HD
+http://151.80.19.93:8000/live/Valentino/Valentino/175.m3u8
+#EXTINF:0,Fox +1
+http://151.80.19.93:8000/live/Valentino/Valentino/665.m3u8
+#EXTINF:0,Fox Life HD
+http://151.80.19.93:8000/live/Valentino/Valentino/176.m3u8
+#EXTINF:0,Fox life +1
+http://151.80.19.93:8000/live/Valentino/Valentino/666.m3u8
+#EXTINF:0,Fox Comedy HD
+http://151.80.19.93:8000/live/Valentino/Valentino/178.m3u8
+#EXTINF:0,Fox Crime HD
+http://151.80.19.93:8000/live/Valentino/Valentino/177.m3u8
+#EXTINF:0,Fox Crime +1
+http://151.80.19.93:8000/live/Valentino/Valentino/667.m3u8
+#EXTINF:0,Fox Animation HD
+http://151.80.19.93:8000/live/Valentino/Valentino/179.m3u8
+#EXTINF:0,AXN HD
+http://151.80.19.93:8000/live/Valentino/Valentino/180.m3u8
+#EXTINF:0,AXN +1
+http://151.80.19.93:8000/live/Valentino/Valentino/1279.m3u8
+#EXTINF:0,AXN Sci-FI
+http://151.80.19.93:8000/live/Valentino/Valentino/181.m3u8
+#EXTINF:0,Comedy Central
+http://151.80.19.93:8000/live/Valentino/Valentino/185.m3u8
+#EXTINF:0,Cielo HD
+http://151.80.19.93:8000/live/Valentino/Valentino/286.m3u8
+#EXTINF:0,Lei
+http://151.80.19.93:8000/live/Valentino/Valentino/668.m3u8
+#EXTINF:0,Real Time HD
+http://151.80.19.93:8000/live/Valentino/Valentino/188.m3u8
+#EXTINF:0,———- Sport ———-
+http://151.80.19.93:8000/live/Valentino/Valentino/137.m3u8
+#EXTINF:0,Sky Sport 24 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/189.m3u8
+#EXTINF:0,Sky Sport 1 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/190.m3u8
+#EXTINF:0,Sky Sport 2 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/191.m3u8
+#EXTINF:0,Sky Sport 3 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/192.m3u8
+#EXTINF:0,Sky Sport Plus HD
+http://151.80.19.93:8000/live/Valentino/Valentino/193.m3u8
+#EXTINF:0,EuroSport HD
+http://151.80.19.93:8000/live/Valentino/Valentino/195.m3u8
+#EXTINF:0,EuroSport 2 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/197.m3u8
+#EXTINF:0,Bike Channel
+http://151.80.19.93:8000/live/Valentino/Valentino/1234.m3u8
+#EXTINF:0,Poker Italia 24
+http://151.80.19.93:8000/live/Valentino/Valentino/200.m3u8
+#EXTINF:0,Super Tennis HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1788.m3u8
+#EXTINF:0,Sky Sport F1 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/222.m3u8
+#EXTINF:0,Sky Sport MotoGP HD
+http://151.80.19.93:8000/live/Valentino/Valentino/223.m3u8
+#EXTINF:0,———- Calcio ———-
+http://151.80.19.93:8000/live/Valentino/Valentino/138.m3u8
+#EXTINF:0,Fox Sport HD
+http://151.80.19.93:8000/live/Valentino/Valentino/206.m3u8
+#EXTINF:0,Sky Supercalcio HD
+http://151.80.19.93:8000/live/Valentino/Valentino/664.m3u8
+#EXTINF:0,Sky Calcio 1 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/209.m3u8
+#EXTINF:0,Sky Calcio 2 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/210.m3u8
+#EXTINF:0,Sky Calcio 3 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/211.m3u8
+#EXTINF:0,Sky Calcio 4 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/212.m3u8
+#EXTINF:0,Sky Calcio 5 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/213.m3u8
+#EXTINF:0,Sky Calcio 6 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1207.m3u8
+#EXTINF:0,Sky Calcio 7 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1208.m3u8
+#EXTINF:0,Sky Calcio 8 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1280.m3u8
+#EXTINF:0,Milan Channel
+http://151.80.19.93:8000/live/Valentino/Valentino/1181.m3u8
+#EXTINF:0,Inter Channel
+http://151.80.19.93:8000/live/Valentino/Valentino/202.m3u8
+#EXTINF:0,Juventus Channel
+http://151.80.19.93:8000/live/Valentino/Valentino/203.m3u8
+#EXTINF:0,Lazio Channel
+http://151.80.19.93:8000/live/Valentino/Valentino/1255.m3u8
+#EXTINF:0,Roma Channel
+http://151.80.19.93:8000/live/Valentino/Valentino/1351.m3u8
+#EXTINF:0,———- Cultura ———-
+http://151.80.19.93:8000/live/Valentino/Valentino/139.m3u8
+#EXTINF:0,eXplora HD
+http://151.80.19.93:8000/live/Valentino/Valentino/224.m3u8
+#EXTINF:0,NationalGeo HD
+http://151.80.19.93:8000/live/Valentino/Valentino/225.m3u8
+#EXTINF:0,Discovery HD
+http://151.80.19.93:8000/live/Valentino/Valentino/228.m3u8
+#EXTINF:0,Discovery Sci HD
+http://151.80.19.93:8000/live/Valentino/Valentino/229.m3u8
+#EXTINF:0,Discovery T&L HD
+http://151.80.19.93:8000/live/Valentino/Valentino/230.m3u8
+#EXTINF:0,CI Crime+Inv. HD
+http://151.80.19.93:8000/live/Valentino/Valentino/231.m3u8
+#EXTINF:0,NatGeo People HD
+http://151.80.19.93:8000/live/Valentino/Valentino/226.m3u8
+#EXTINF:0,NatGeo Wild HD
+http://151.80.19.93:8000/live/Valentino/Valentino/227.m3u8
+#EXTINF:0,Focus
+http://151.80.19.93:8000/live/Valentino/Valentino/1261.m3u8
+#EXTINF:0,DMAX HD
+http://151.80.19.93:8000/live/Valentino/Valentino/233.m3u8
+#EXTINF:0,Animal Planet
+http://151.80.19.93:8000/live/Valentino/Valentino/234.m3u8
+#EXTINF:0,History HD
+http://151.80.19.93:8000/live/Valentino/Valentino/235.m3u8
+#EXTINF:0,Sky Arte HD
+http://151.80.19.93:8000/live/Valentino/Valentino/236.m3u8
+#EXTINF:0,Gambero Rosso HD
+http://151.80.19.93:8000/live/Valentino/Valentino/237.m3u8
+#EXTINF:0,Caccia e Pesca
+http://151.80.19.93:8000/live/Valentino/Valentino/240.m3u8
+#EXTINF:0,Pesca e Caccia
+http://151.80.19.93:8000/live/Valentino/Valentino/241.m3u8
+#EXTINF:0,———- Bambini ———-
+http://151.80.19.93:8000/live/Valentino/Valentino/147.m3u8
+#EXTINF:0,Disney Channel HD
+http://151.80.19.93:8000/live/Valentino/Valentino/254.m3u8
+#EXTINF:0,Disney Channel+1
+http://151.80.19.93:8000/live/Valentino/Valentino/1263.m3u8
+#EXTINF:0,Disney XD
+http://151.80.19.93:8000/live/Valentino/Valentino/255.m3u8
+#EXTINF:0,Boomerang
+http://151.80.19.93:8000/live/Valentino/Valentino/259.m3u8
+#EXTINF:0,MANGA
+http://151.80.19.93:8000/live/Valentino/Valentino/266.m3u8
+#EXTINF:0,Nickelodeon
+http://151.80.19.93:8000/live/Valentino/Valentino/260.m3u8
+#EXTINF:0,K2
+http://151.80.19.93:8000/live/Valentino/Valentino/1281.m3u8
+#EXTINF:0,Disney-Junior
+http://151.80.19.93:8000/live/Valentino/Valentino/307.m3u8
+#EXTINF:0,Cartoon-Network
+http://151.80.19.93:8000/live/Valentino/Valentino/308.m3u8
+#EXTINF:0,Super
+http://151.80.19.93:8000/live/Valentino/Valentino/1775.m3u8
+#EXTINF:0,Nick Junior
+http://151.80.19.93:8000/live/Valentino/Valentino/1774.m3u8
+#EXTINF:0,Cartonito
+http://151.80.19.93:8000/live/Valentino/Valentino/1786.m3u8
+#EXTINF:0,Boing
+http://151.80.19.93:8000/live/Valentino/Valentino/1787.m3u8
+#EXTINF:0,Rai Gulp
+http://151.80.19.93:8000/live/Valentino/Valentino/1754.m3u8
+#EXTINF:0,Dea kids
+http://151.80.19.93:8000/live/Valentino/Valentino/2189.m3u8
+#EXTINF:0,Baby TV
+http://151.80.19.93:8000/live/Valentino/Valentino/2191.m3u8
+#EXTINF:0,———- Notizie ———-
+http://151.80.19.93:8000/live/Valentino/Valentino/142.m3u8
+#EXTINF:0,Sky TG 24 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/270.m3u8
+#EXTINF:0,TGCom24
+http://151.80.19.93:8000/live/Valentino/Valentino/1897.m3u8
+#EXTINF:0,Rai News 24
+http://151.80.19.93:8000/live/Valentino/Valentino/1756.m3u8
+#EXTINF:0,———- Rai – Mediaset ———-
+http://151.80.19.93:8000/live/Valentino/Valentino/2.m3u8
+#EXTINF:0,Rai 1
+http://151.80.19.93:8000/live/Valentino/Valentino/153.m3u8
+#EXTINF:0,Rai 2
+http://151.80.19.93:8000/live/Valentino/Valentino/154.m3u8
+#EXTINF:0,Rai 3
+http://151.80.19.93:8000/live/Valentino/Valentino/155.m3u8
+#EXTINF:0,Rete 4
+http://151.80.19.93:8000/live/Valentino/Valentino/156.m3u8
+#EXTINF:0,Canale 5
+http://151.80.19.93:8000/live/Valentino/Valentino/157.m3u8
+#EXTINF:0,Italia 1
+http://151.80.19.93:8000/live/Valentino/Valentino/158.m3u8
+#EXTINF:0,La 7
+http://151.80.19.93:8000/live/Valentino/Valentino/1256.m3u8
+#EXTINF:0,MTV
+http://151.80.19.93:8000/live/Valentino/Valentino/2102.m3u8
+#EXTINF:0,Deejay TV
+http://151.80.19.93:8000/live/Valentino/Valentino/2130.m3u8
+#EXTINF:0,Rsi LA1 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1176.m3u8
+#EXTINF:0,Rsi LA2 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1175.m3u8
+#EXTINF:0,Premium Cinema HD
+http://151.80.19.93:8000/live/Valentino/Valentino/276.m3u8
+#EXTINF:0,Premium Cinema +24
+http://151.80.19.93:8000/live/Valentino/Valentino/1262.m3u8
+#EXTINF:0,Premium Cinema 2 HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1612.m3u8
+#EXTINF:0,Premium Cinema 2 +24
+http://151.80.19.93:8000/live/Valentino/Valentino/1613.m3u8
+#EXTINF:0,Premium Action HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1614.m3u8
+#EXTINF:0,Premium Action +24
+http://151.80.19.93:8000/live/Valentino/Valentino/285.m3u8
+#EXTINF:0,Premium Crime HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1615.m3u8
+#EXTINF:0,Premium Crime +24
+http://151.80.19.93:8000/live/Valentino/Valentino/284.m3u8
+#EXTINF:0,Premium Energy
+http://151.80.19.93:8000/live/Valentino/Valentino/279.m3u8
+#EXTINF:0,Premium Emotion
+http://151.80.19.93:8000/live/Valentino/Valentino/278.m3u8
+#EXTINF:0,Premium Comedy
+http://151.80.19.93:8000/live/Valentino/Valentino/280.m3u8
+#EXTINF:0,Studio Universal
+http://151.80.19.93:8000/live/Valentino/Valentino/281.m3u8
+#EXTINF:0,Premium Joi
+http://151.80.19.93:8000/live/Valentino/Valentino/282.m3u8
+#EXTINF:0,Premium Stories
+http://151.80.19.93:8000/live/Valentino/Valentino/283.m3u8
+#EXTINF:0,Discovery World
+http://151.80.19.93:8000/live/Valentino/Valentino/303.m3u8
+#EXTINF:0,BBC Knowledge
+http://151.80.19.93:8000/live/Valentino/Valentino/304.m3u8
+#EXTINF:0,Premium Extra 1
+http://151.80.19.93:8000/live/Valentino/Valentino/2216.m3u8
+#EXTINF:0,Premium Extra 2
+http://151.80.19.93:8000/live/Valentino/Valentino/2217.m3u8
+#EXTINF:0,Premium Sport HD
+http://151.80.19.93:8000/live/Valentino/Valentino/1617.m3u8
+#EXTINF:0,Premium Calcio HD
+http://151.80.19.93:8000/live/Valentino/Valentino/288.m3u8
+#EXTINF:0,Premium Calcio
+http://151.80.19.93:8000/live/Valentino/Valentino/289.m3u8
+#EXTINF:0,Premium Calcio 1
+http://151.80.19.93:8000/live/Valentino/Valentino/1264.m3u8
+#EXTINF:0,Premium Calcio 2
+http://151.80.19.93:8000/live/Valentino/Valentino/291.m3u8
+#EXTINF:0,Premium Calcio 3
+http://151.80.19.93:8000/live/Valentino/Valentino/292.m3u8
+#EXTINF:0,Premium Calcio 4
+http://151.80.19.93:8000/live/Valentino/Valentino/293.m3u8
+#EXTINF:0,Premium Calcio 5
+http://151.80.19.93:8000/live/Valentino/Valentino/663.m3u8
+#EXTINF:0,Premium Calcio 6
+http://151.80.19.93:8000/live/Valentino/Valentino/1265.m3u8
+#EXTINF:0,Rai Sport 1
+http://151.80.19.93:8000/live/Valentino/Valentino/1791.m3u8
+#EXTINF:0,Rai Sport 2
+http://151.80.19.93:8000/live/Valentino/Valentino/1792.m3u8
+#EXTINF:0,Sportitalia
+http://151.80.19.93:8000/live/Valentino/Valentino/1270.m3u8
+#EXTINF:0,Gazzetta tv
+http://151.80.19.93:8000/live/Valentino/Valentino/1641.m3u8
+#EXTINF:0,Videolina
+http://151.80.19.93:8000/live/Valentino/Valentino/1326.m3u8
+#EXTINF:0,Rai Premium
+http://151.80.19.93:8000/live/Valentino/Valentino/2190.m3u8
+#EXTINF:0,Rai Movie
+http://151.80.19.93:8000/live/Valentino/Valentino/2192.m3u8
+#EXTINF:0,Iris
+http://151.80.19.93:8000/live/Valentino/Valentino/1887.m3u8
+#EXTINF:0,La 5
+http://151.80.19.93:8000/live/Valentino/Valentino/1898.m3u8
