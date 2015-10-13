@@ -1572,3 +1572,22 @@ rtmp://31.220.2.149:80/live playpath=world swfUrl=http://p.jwpcdn.com/6/12/jwpla
  
 #EXTINF:-1 group-title="HD SPORTS", SPORTSNET ONTARIO
 rtmp://31.220.2.149:80/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedo.php?live=tsn1x
+
+EXTINF:0,PREMIUM CRIME HD
+ http://46.105.111.148:8000/live/stella/stella/32.m3u8
+ #EXTINF:0,PREMIUM CRIME+24
+ http://46.105.111.148:8000/live/stella/stella/33.m3u8
+ #EXTINF:0,PREMIUM STUDIO UNIVERSAL
+ http://46.105.111.148:8000/live/stella/stella/34.m3u8
+ #EXTINF:0,PREMIUM STORIES
+ http://46.105.111.148:8000/live/stella/stella/38.m3u8
+ #EXTINF:0,PREMIUM CINEMA EMOTION
+ http://46.105.111.148:8000/live/stella/stella/37.m3u8
+ #EXTINF:0,PREMIUM CINEMA COMEDY
+ http://46.105.111.148:8000/live/stella/stella/41.m3u8
+ #EXTINF:0,PREMIUM CINEMA ENERGY
+ http://46.105.111.148:8000/live/stella/stella/36.m3u8
+ #EXTINF:0,PREMIUM ACTION HD
+ http://46.105.111.148:8000/live/stella/stella/39.m3u8
+ #EXTINF:0,PREMIUM ACTION +24
+ http://46.105.111.148:8000/live/stella/stella/40.m3u8
