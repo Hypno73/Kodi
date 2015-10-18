@@ -1,2712 +1,554 @@
-
 #EXTM3U
-
-#EXTINF:0,——————–INGLESI——————–
-http://bstream.planetstream.org:8000/live/massi/massi/1548.m3u8
-#EXTINF:0,Sky Action UK
-http://bstream.planetstream.org:8000/live/massi/massi/1553.m3u8
-#EXTINF:0,Sky Drama UK
-http://bstream.planetstream.org:8000/live/massi/massi/1552.m3u8
-#EXTINF:0,Sky Family UK
-http://bstream.planetstream.org:8000/live/massi/massi/1551.m3u8
-#EXTINF:0,Sky Movies Premiere UK
-http://bstream.planetstream.org:8000/live/massi/massi/1549.m3u8
-#EXTINF:0,Sky Thriller UK
-http://bstream.planetstream.org:8000/live/massi/massi/1555.m3u8
-#EXTINF:0,Sky Fox Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1560.m3u8
-#EXTINF:0,Sky Living UK
-http://bstream.planetstream.org:8000/live/massi/massi/1550.m3u8
-#EXTINF:0,Sky One Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1556.m3u8
-#EXTINF:0,Sky Two Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1557.m3u8
-#EXTINF:0,Sky Atlantic Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1559.m3u8
-#EXTINF:0,Sky SciFi UK
-http://bstream.planetstream.org:8000/live/massi/massi/1554.m3u8
-#EXTINF:0,Sky Comedy Central UK
-http://bstream.planetstream.org:8000/live/massi/massi/1561.m3u8
-#EXTINF:0,Cartoon Network Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1564.m3u8
-#EXTINF:0,Disney XD Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1566.m3u8
-#EXTINF:0,Disney Movies Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1565.m3u8
-#EXTINF:0,Disney Junior Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1569.m3u8
-#EXTINF:0,Disney Channel Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1570.m3u8
-#EXTINF:0,UK – Baby Tv
-http://bstream.planetstream.org:8000/live/massi/massi/2701.m3u8
-#EXTINF:0,Nickelodeon Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1567.m3u8
-#EXTINF:0,Nickelodeon Jr Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1568.m3u8
-#EXTINF:0,UK – Alibi
-http://bstream.planetstream.org:8000/live/massi/massi/2702.m3u8
-#EXTINF:0,Nat Geo Wild Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1575.m3u8
-#EXTINF:0,History Channel Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1574.m3u8
-#EXTINF:0,Food Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1588.m3u8
-#EXTINF:0,ESPN Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1589.m3u8
-#EXTINF:0,Discovery Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1572.m3u8
-#EXTINF:0,Discovery Turbo Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1573.m3u8
-#EXTINF:0,Discovery Science Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1576.m3u8
-#EXTINF:0,Discovery ID Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1577.m3u8
-#EXTINF:0,Discovery Home & Heath Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1578.m3u8
-#EXTINF:0,Discovery History Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1579.m3u8
-#EXTINF:0,CI Crime Investigation Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1580.m3u8
-#EXTINF:0,Animal Planet Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1571.m3u8
-#EXTINF:0,Sky News Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1558.m3u8
-#EXTINF:0,Sky Sports 1 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1593.m3u8
-#EXTINF:0,Sky Sports 2 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1594.m3u8
-#EXTINF:0,Sky Sports 3 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1595.m3u8
-#EXTINF:0,Sky Sports 4 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1596.m3u8
-#EXTINF:0,Sky Sports 5 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1597.m3u8
-#EXTINF:0,Sky Sports F1 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1600.m3u8
-#EXTINF:0,Sky Sports News Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1601.m3u8
-#EXTINF:0,EuroSport 1 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1598.m3u8
-#EXTINF:0,EuroSport 2 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1599.m3u8
-#EXTINF:0,MUTV UK
-http://bstream.planetstream.org:8000/live/massi/massi/2708.m3u8
-#EXTINF:0,Chelsea TV
-http://bstream.planetstream.org:8000/live/massi/massi/2710.m3u8
-#EXTINF:0,Racing Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1590.m3u8
-#EXTINF:0,At The Races
-http://bstream.planetstream.org:8000/live/massi/massi/1585.m3u8
-#EXTINF:0,Premier Sports Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1591.m3u8
-#EXTINF:0,Setanta Sports Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1592.m3u8
-#EXTINF:0,Channel 4 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1581.m3u8
-#EXTINF:0,Channel 5 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1582.m3u8
-#EXTINF:0,BT Sports 1 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1583.m3u8
-#EXTINF:0,BT Sports 2 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1584.m3u8
-#EXTINF:0,RTE Two Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1587.m3u8
-#EXTINF:0,RTE One Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1586.m3u8
-#EXTINF:0,TLC Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1614.m3u8
-#EXTINF:0,VH1 Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1613.m3u8
-#EXTINF:0,ITV 1 (SV)
-http://bstream.planetstream.org:8000/live/massi/massi/1602.m3u8
-#EXTINF:0,ITV 2
-http://bstream.planetstream.org:8000/live/massi/massi/1603.m3u8
-#EXTINF:0,ITV 3
-http://bstream.planetstream.org:8000/live/massi/massi/1604.m3u8
-#EXTINF:0,ITV 4
-http://bstream.planetstream.org:8000/live/massi/massi/1605.m3u8
-#EXTINF:0,BBC Entertainment Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1612.m3u8
-#EXTINF:0,BBC News Uk
-http://bstream.planetstream.org:8000/live/massi/massi/1611.m3u8
-#EXTINF:0,BBC NI (SV)
-http://bstream.planetstream.org:8000/live/massi/massi/1610.m3u8
-#EXTINF:0,BBC One (NB)
-http://bstream.planetstream.org:8000/live/massi/massi/1606.m3u8
-#EXTINF:0,BBC Two (SV)
-http://bstream.planetstream.org:8000/live/massi/massi/1607.m3u8
-#EXTINF:0,BBC Three
-http://bstream.planetstream.org:8000/live/massi/massi/1608.m3u8
-#EXTINF:0,BBC Four
-http://bstream.planetstream.org:8000/live/massi/massi/1609.m3u8
-#EXTINF:0,CNN UK
-http://bstream.planetstream.org:8000/live/massi/massi/2709.m3u8
-
-#EXTINF:-1,Premium Extra 1
-http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH08HA)/Stream(04)/index.m3u8
- 
-#EXTINF:-1,[COLOR blue]Grande Fratello 14[/COLOR] [COLOR red]LIVE[/COLOR]
-http://se-rm3-19.se.hlslive.msf.ticdn.it/hls/CH17/live.m3u8
-
-
-#EXTINF:0,———–UK————-
-http://finalmente.hopto.org:8000/live/croci/croci/1376.m3u8
-#EXTINF:0,UK: Sky Sports News HD
-http://finalmente.hopto.org:8000/live/croci/croci/1248.m3u8
-#EXTINF:0,UK: Sky Uk BT Sport 1
-http://finalmente.hopto.org:8000/live/croci/croci/1247.m3u8
-#EXTINF:0,UK: Sky Uk BT Sport 2
-http://finalmente.hopto.org:8000/live/croci/croci/1246.m3u8
-#EXTINF:0,UK: Sky Uk Sport 1 HD
-http://finalmente.hopto.org:8000/live/croci/croci/1245.m3u8
-#EXTINF:0,UK: Sky Uk Sport 2 HD
-http://finalmente.hopto.org:8000/live/croci/croci/1244.m3u8
-#EXTINF:0,UK: Sky Uk Sport 3 HD
-http://finalmente.hopto.org:8000/live/croci/croci/1243.m3u8
-#EXTINF:0,UK: Sky Uk Sport 4 HD
-http://finalmente.hopto.org:8000/live/croci/croci/1242.m3u8
-#EXTINF:0,UK: Sky Uk Sport 5 HD
-http://finalmente.hopto.org:8000/live/croci/croci/1241.m3u8
-#EXTINF:0,UK: Sky Uk Sport F1
-http://finalmente.hopto.org:8000/live/croci/croci/1240.m3u8
-
-#EXTINF:0,SPORTSNET WORLD
-rtmp://31.220.2.149:80/live playpath=world swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.yotv.co/embed.php?live=world
- 
-#EXTINF:0,SPORTSNET ONTARIO
-rtmp://31.220.2.149:80/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedo.php?live=tsn1x
-
-#EXTM3U
-#EXTINF:0,SKY CINEMA 1 HD
-http://46.105.111.148:8000/live/stella/stella/14.m3u8
-#EXTINF:0,SKY CINEMA +1 HD
-http://46.105.111.148:8000/live/stella/stella/15.m3u8
-#EXTINF:0,SKY CINEMA +24 HD
-http://46.105.111.148:8000/live/stella/stella/16.m3u8
-#EXTINF:0,SKY CINEMA FAMILY HD
-http://46.105.111.148:8000/live/stella/stella/18.m3u8
-#EXTINF:0,SKY CINEMA COMEDY HD
-http://46.105.111.148:8000/live/stella/stella/26.m3u8
-#EXTINF:0,SKY CINEMA CLASSIC  HD
-http://46.105.111.148:8000/live/stella/stella/23.m3u8
-#EXTINF:0,SKY CINEMA CULT HD
-http://46.105.111.148:8000/live/stella/stella/22.m3u8
-#EXTINF:0,SKY CINEMA PASSION HD
-http://46.105.111.148:8000/live/stella/stella/19.m3u8
-#EXTINF:0,SKY CINEMA MAX HD
-http://46.105.111.148:8000/live/stella/stella/21.m3u8
-#EXTINF:0,SKY CINEMA HIT HD
-http://46.105.111.148:8000/live/stella/stella/17.m3u8
-#EXTINF:0,SKY MAX+1
-http://46.105.111.148:8000/live/stella/stella/266.m3u8
-#EXTINF:0,SKY UNO HD
-http://46.105.111.148:8000/live/stella/stella/25.m3u8
-#EXTINF:0,SKY FOX HD
-http://46.105.111.148:8000/live/stella/stella/180.m3u8
-#EXTINF:0,SKY FOX CRIME HD
-http://46.105.111.148:8000/live/stella/stella/182.m3u8
-#EXTINF:0,SKY FOX COMEDY HD
-http://46.105.111.148:8000/live/stella/stella/183.m3u8
-#EXTINF:0,COMEDY CENTRAL
-http://46.105.111.148:8000/live/stella/stella/184.m3u8
-#EXTINF:0,SKY ARTE HD
-http://46.105.111.148:8000/live/stella/stella/185.m3u8
-#EXTINF:0,AXN SCI-FI
-http://46.105.111.148:8000/live/stella/stella/201.m3u8
-#EXTINF:0,AXN HD
-http://46.105.111.148:8000/live/stella/stella/186.m3u8
-#EXTINF:0,DMAX
-http://46.105.111.148:8000/live/stella/stella/251.m3u8
-#EXTINF:0,FOCUS
-http://46.105.111.148:8000/live/stella/stella/250.m3u8
-#EXTINF:0,ANIMAL PLANET
-http://46.105.111.148:8000/live/stella/stella/252.m3u8
-#EXTINF:0,TOP CRIME
-http://46.105.111.148:8000/live/stella/stella/191.m3u8
-#EXTINF:0,+++SKY SPORT+++
-http://46.105.111.148:8000/live/stella/stella/215.m3u8
-#EXTINF:0,SKY SPORT PLUS HD
-http://46.105.111.148:8000/live/stella/stella/219.m3u8
-#EXTINF:0,SKY SUPERCALCIO HD
-http://46.105.111.148:8000/live/stella/stella/220.m3u8
-#EXTINF:0,SKY SPORT 1 HD
-http://46.105.111.148:8000/live/stella/stella/217.m3u8
-#EXTINF:0,SKY SPORT 2 HD
-http://46.105.111.148:8000/live/stella/stella/218.m3u8
-#EXTINF:0,SKY SPORT 3 HD
-http://46.105.111.148:8000/live/stella/stella/241.m3u8
-#EXTINF:0,SKY SPORT 24 HD
-http://46.105.111.148:8000/live/stella/stella/216.m3u8
-#EXTINF:0,SKY FOX SPORT HD
-http://46.105.111.148:8000/live/stella/stella/228.m3u8
-#EXTINF:0,SKY FOX SPORT 2 HD
-http://46.105.111.148:8000/live/stella/stella/229.m3u8
-#EXTINF:0,SKY F1 HD
-http://46.105.111.148:8000/live/stella/stella/239.m3u8
-#EXTINF:0,SKY MOTO GP
-http://46.105.111.148:8000/live/stella/stella/240.m3u8
-#EXTINF:0,EUROSPORT 2
-http://46.105.111.148:8000/live/stella/stella/233.m3u8
-#EXTINF:0,EUROSPORT
-http://46.105.111.148:8000/live/stella/stella/232.m3u8
-#EXTINF:0,INTER CHANNEL
-http://46.105.111.148:8000/live/stella/stella/236.m3u8
-#EXTINF:0,JUVENTUS CHANNEL
-http://46.105.111.148:8000/live/stella/stella/234.m3u8
-#EXTINF:0,MILAN CHANNEL
-http://46.105.111.148:8000/live/stella/stella/235.m3u8
-#EXTINF:0,CALCIO 1 HD
-http://46.105.111.148:8000/live/stella/stella/221.m3u8
-#EXTINF:0,CALCIO 2 HD
-http://46.105.111.148:8000/live/stella/stella/222.m3u8
-#EXTINF:0,CALCIO 3 HD
-http://46.105.111.148:8000/live/stella/stella/223.m3u8
-#EXTINF:0,CALCIO 4 HD
-http://46.105.111.148:8000/live/stella/stella/224.m3u8
-#EXTINF:0,CALCIO 5 HD
-http://46.105.111.148:8000/live/stella/stella/225.m3u8
-#EXTINF:0,CALCIO 6 HD
-http://46.105.111.148:8000/live/stella/stella/226.m3u8
-#EXTINF:0,CALCIO 7 HD
-http://46.105.111.148:8000/live/stella/stella/227.m3u8
-#EXTINF:0,CALCIO 8
-http://46.105.111.148:8000/live/stella/stella/561.m3u8
-#EXTINF:0,CALCIO 9
-http://46.105.111.148:8000/live/stella/stella/562.m3u8
-#EXTINF:0,CALCIO 10
-http://46.105.111.148:8000/live/stella/stella/563.m3u8
-#EXTINF:0,CALCIO 11
-http://46.105.111.148:8000/live/stella/stella/564.m3u8
-#EXTINF:0,CALCIO 12
-http://46.105.111.148:8000/live/stella/stella/565.m3u8
-#EXTINF:0,CALCIO 13
-http://46.105.111.148:8000/live/stella/stella/566.m3u8
-#EXTINF:0,SUPER TENNIS
-http://46.105.111.148:8000/live/stella/stella/230.m3u8
-#EXTINF:0,SPORT ITALIA
-http://46.105.111.148:8000/live/stella/stella/231.m3u8
-#EXTINF:0,WWE WRESTLING
-http://46.105.111.148:8000/live/stella/stella/237.m3u8
-#EXTINF:0,CACCIA E PESCA
-http://46.105.111.148:8000/live/stella/stella/243.m3u8
-#EXTINF:0,+++CARTONI ANIMATI+++
-http://46.105.111.148:8000/live/stella/stella/257.m3u8
-#EXTINF:0,DISNEY JUNIOR
-http://46.105.111.148:8000/live/stella/stella/261.m3u8
-#EXTINF:0,DISNEY CHANNEL +1
-http://46.105.111.148:8000/live/stella/stella/260.m3u8
-#EXTINF:0,DISNEY CHANNEL
-http://46.105.111.148:8000/live/stella/stella/259.m3u8
-#EXTINF:0,FOX LIFE HD
-http://46.105.111.148:8000/live/stella/stella/181.m3u8
-#EXTINF:0,FOX ANIMATION HD
-http://46.105.111.148:8000/live/stella/stella/262.m3u8
-#EXTINF:0,VIDEOLINA
-http://46.105.111.148:8000/live/stella/stella/198.m3u8
-#EXTINF:0,+++DOCUMENTARI+++
-http://46.105.111.148:8000/live/stella/stella/242.m3u8
-#EXTINF:0,NATIONAL GEO WILD HD
-http://46.105.111.148:8000/live/stella/stella/246.m3u8
-#EXTINF:0,NATIONAL GEO PEOPLE HD
-http://46.105.111.148:8000/live/stella/stella/245.m3u8
-#EXTINF:0,NATIONAL GEO HD
-http://46.105.111.148:8000/live/stella/stella/244.m3u8
-#EXTINF:0,DISCOVERY WORLD
-http://46.105.111.148:8000/live/stella/stella/248.m3u8
-#EXTINF:0,DISCOVERY CHANNEL
-http://46.105.111.148:8000/live/stella/stella/247.m3u8
-#EXTINF:0,+++NOTIZIE+++
-http://46.105.111.148:8000/live/stella/stella/200.m3u8
-#EXTINF:0,SKY TG 24
-http://46.105.111.148:8000/live/stella/stella/202.m3u8
-#EXTINF:0,TG NORBA 24
-http://46.105.111.148:8000/live/stella/stella/205.m3u8
-#EXTINF:0,TG COM 24
-http://46.105.111.148:8000/live/stella/stella/203.m3u8
-#EXTINF:0,+++PREMIUM CINEMA+++
-http://46.105.111.148:8000/live/stella/stella/27.m3u8
-#EXTINF:0,PREMIUM CINEMA  HD
-http://46.105.111.148:8000/live/stella/stella/28.m3u8
-#EXTINF:0,PREMIUM CINEMA +24
-http://46.105.111.148:8000/live/stella/stella/30.m3u8
-#EXTINF:0,PREMIUM CINEMA 2 HD
-http://46.105.111.148:8000/live/stella/stella/29.m3u8
-#EXTINF:0,PREMIUM CINEMA 2 +24
-http://46.105.111.148:8000/live/stella/stella/31.m3u8
-#EXTINF:0,PREMIUM CRIME HD
-http://46.105.111.148:8000/live/stella/stella/32.m3u8
-#EXTINF:0,PREMIUM CRIME+24
-http://46.105.111.148:8000/live/stella/stella/33.m3u8
-#EXTINF:0,PREMIUM STUDIO UNIVERSAL
-http://46.105.111.148:8000/live/stella/stella/34.m3u8
-#EXTINF:0,PREMIUM STORIES
-http://46.105.111.148:8000/live/stella/stella/38.m3u8
-#EXTINF:0,PREMIUM CINEMA EMOTION
-http://46.105.111.148:8000/live/stella/stella/37.m3u8
-#EXTINF:0,PREMIUM CINEMA COMEDY
-http://46.105.111.148:8000/live/stella/stella/41.m3u8
-#EXTINF:0,PREMIUM CINEMA  ENERGY
-http://46.105.111.148:8000/live/stella/stella/36.m3u8
-#EXTINF:0,PREMIUM ACTION HD
-http://46.105.111.148:8000/live/stella/stella/39.m3u8
-#EXTINF:0,PREMIUM ACTION +24
-http://46.105.111.148:8000/live/stella/stella/40.m3u8
-#EXTINF:0,PREMIUM JOI
-http://46.105.111.148:8000/live/stella/stella/35.m3u8
-#EXTINF:0,+++GRANDE FRATELLO 4+++
-http://46.105.111.148:8000/live/stella/stella/567.m3u8
-#EXTINF:0,GF4 EXTRA 1
-http://46.105.111.148:8000/live/stella/stella/568.m3u8
-#EXTINF:0,GF4 EXTRA 2
-http://46.105.111.148:8000/live/stella/stella/569.m3u8
-#EXTINF:0,+++PREMIUM SPORT+++
-http://46.105.111.148:8000/live/stella/stella/206.m3u8
-#EXTINF:0,PREMIUM SPORT HD
-http://46.105.111.148:8000/live/stella/stella/208.m3u8
-#EXTINF:0,PREMIUM CALCIO HD
-http://46.105.111.148:8000/live/stella/stella/556.m3u8
-#EXTINF:0,PREMIUM CALCIO
-http://46.105.111.148:8000/live/stella/stella/207.m3u8
-#EXTINF:0,PREMIUM CALCIO 1
-http://46.105.111.148:8000/live/stella/stella/209.m3u8
-#EXTINF:0,PREMIUM CALCIO 2
-http://46.105.111.148:8000/live/stella/stella/210.m3u8
-#EXTINF:0,PREMIUM CALCIO 3
-http://46.105.111.148:8000/live/stella/stella/211.m3u8
-#EXTINF:0,PREMIUM CALCIO 4
-http://46.105.111.148:8000/live/stella/stella/557.m3u8
-#EXTINF:0,PREMIUM CALCIO 6
-http://46.105.111.148:8000/live/stella/stella/559.m3u8
-#EXTINF:0,PREMIUM CALCIO 5
-http://46.105.111.148:8000/live/stella/stella/558.m3u8
-#EXTINF:0,PREMIUM CALCIO 7
-http://46.105.111.148:8000/live/stella/stella/560.m3u8
-
-#EXTINF:-1,EUROSPORT –
-http://iptvmerkez.mlbfan.org:81/live?channelId=118&uid=787&deviceUser=furkan&devicePass=furkan
-#EXTINF:-1,Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Eurosport 1 uk
-http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
-#EXTINF:-1,EUROSPORT 2 –
-http://iptvmerkez.mlbfan.org:81/live?channelId=8&uid=787&deviceUser=furkan&devicePass=furkan
-#EXTINF:-1,Eurosport 2 uk
-http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
-
-#EXTINF:-tsn 1 
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/83.m3u8
-
-#EXTINF:-tsn 2
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/84.m3u8
-
-#EXTINF:-tsn 3
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/85.m3u8
-
-#EXTINF:-tsn 4
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/86.m3u8
-
-#EXTINF:-tsn 5
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/87.m3u8
-
-
-#EXTINF:-1,sky sports 1
-
-
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/63.m3u8
-
-
-#EXTINF:-1,sky sports 2
-
-
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/64.m3u8
-
-
-#EXTINF:-1,sky sports 3
-
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/66.m3u8
-
-
-#EXTINF:-1,sky sports 4
-
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/67.m3u8
-
-#EXTINF:-1,sky sports 5
-
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/68.m3u8
-
-
-#EXTINF:-1,bt sport 1 
-
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/54.m3u8
-
-#EXTINF:-1,bt sport 2
-
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/55.m3u8
-
-#EXTINF:-1,btespn
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/59.m3u8
-
-#EXTINF:-1,bt euro
-http://50.7.136.90:81/live/cE3F6zHYyO/BDG94XRC7l/128.m3u8
-
-#EXTINF:0,SKY SPORTS ITA
-http://185.63.255.101/live/max18a1/chunks.m3u8
-
-
-#EXTINF:0,SKY SPORTS ITA
-http://185.63.255.107/live/max15/chunks.m3u8
-
-#EXTINF:0,CBS 2
-HTTP://192.99.147.19:5808/cbshdguys/playlist.m3u8
-#EXTINF:0,NBC 4
-http://192.99.147.19:5808/nbchdguys/index.m3u8
-#EXTINF:0,ABC 7
-http://192.99.147.19:5808/abchdguys/playlist.m3u8
-#EXTINF:0,FOX 5
-http://192.99.147.19:5808/foxhdguys/index.m3u8?
-#EXTINF:0,ESPN
-http://192.99.147.19:5808/espnhdguys/playlist.m3u8
-#EXTINF:0,FOX SPORTS 1
-http://192.99.147.19:5808/foxsports/playlist.m3u8
-
-Sky Sport 1
-http://89.248.172.57:1935/edge/_defi...NTNmNWFkOTJiZg..
-
-Sky Sport 2
-http://89.248.172.57:1935/edge/_defi...OWNmYzhiNmZmYQ..
-
-Sky Sport 3
-http://89.248.172.57:1935/edge/_defi...NjM0M2Y2NTRmZg..
-
-Sky Sport 4
-http://89.248.172.57:1935/edge/_defi...ZmRmMjMxYzIwOA..
-
-Sky Sport 5
-http://89.248.172.57:1935/edge/_defi...NjQxMWI2NTNkOQ..
-
-#EXTM3U
-#EXTINF:0,Rai 1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1650.m3u8
-#EXTINF:0,Rai 2 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1651.m3u8
-#EXTINF:0,Rai 3 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1652.m3u8
-#EXTINF:0,Rete 4 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1653.m3u8
-#EXTINF:0,Canale 5 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1654.m3u8
-#EXTINF:0,Italia 1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1655.m3u8
-#EXTINF:0,La7
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1656.m3u8
-#EXTINF:0,---- CINEMA ----
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1661.m3u8
-#EXTINF:0,Sky Cinema 1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1662.m3u8
-#EXTINF:0,Sky Cinema +1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1663.m3u8
-#EXTINF:0,Sky Cinema Max HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1670.m3u8
-#EXTINF:0,Sky Cinema Passion HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1668.m3u8
-#EXTINF:0,Sky Cinema Comedy HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1669.m3u8
-#EXTINF:0,Sky Cinema Cult HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1672.m3u8
-#EXTINF:0,Sky Cinema Him3u8 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1665.m3u8
-#EXTINF:0,Sky Cinema Family HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1666.m3u8
-#EXTINF:0,Sky Cinema Classic HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1673.m3u8
-#EXTINF:0,Sky Cinema +24 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1664.m3u8
-#EXTINF:0,Premium Joy
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1800.m3u8
-#EXTINF:0,Premium Energy
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1793.m3u8
-#EXTINF:0,Premium Emotion
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1792.m3u8
-#EXTINF:0,Premium Crime HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1798.m3u8
-#EXTINF:0,Premium Crime  24
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1799.m3u8
-#EXTINF:0,Premium Comedy
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1794.m3u8
-#EXTINF:0,Premium Cinema HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1788.m3u8
-#EXTINF:0,Premium Cinema 2 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1790.m3u8
-#EXTINF:0,Premium Cinema  24
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1789.m3u8
-#EXTINF:0,Premium Cinema 2  24
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1791.m3u8
-#EXTINF:0,Premium Stories
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1801.m3u8
-#EXTINF:0,Premium Studio Universal
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1795.m3u8
-#EXTINF:0,Premium Action HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1796.m3u8
-#EXTINF:0,Premium Action  24
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1797.m3u8
-#EXTINF:0,Teleclub Star
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1851.m3u8
-#EXTINF:0,Teleclub Prime
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1852.m3u8
-#EXTINF:0,Teleclub Cinema
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1853.m3u8
-#EXTINF:0,Top Crime
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1696.m3u8
-#EXTINF:0,---- SPORT ----
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1714.m3u8
-#EXTINF:0,Sky Sport Plus HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1719.m3u8
-#EXTINF:0,Sky Sport 24 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1715.m3u8
-#EXTINF:0,Sky Sport 1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1716.m3u8
-#EXTINF:0,Sky Sport 2 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1717.m3u8
-#EXTINF:0,Sky Sport 3 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1718.m3u8
-#EXTINF:0,Fox Sporm3u8 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1731.m3u8
-#EXTINF:0,Premium Sport HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1803.m3u8
-#EXTINF:0,Premium Sport
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1802.m3u8
-#EXTINF:0,Sky Sport F1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1720.m3u8
-#EXTINF:0,Sky Moto GP HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1721.m3u8
-#EXTINF:0,Super Tennis HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1725.m3u8
-#EXTINF:0,Sport Italia
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1722.m3u8
-#EXTINF:0,Teleclub Sport 3
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1850.m3u8
-#EXTINF:0,Teleclub Sport 2
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1849.m3u8
-#EXTINF:0,Teleclub Sport 1
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1848.m3u8
-#EXTINF:0,Sky Bundesliga 1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1844.m3u8
-#EXTINF:0,Premium EuroSport 1
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1805.m3u8
-#EXTINF:0,Premium EuroSport 2
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1806.m3u8
-#EXTINF:0,Sky De Sport 2 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1846.m3u8
-#EXTINF:0,Sky De Sport 1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1845.m3u8
-#EXTINF:0,---- CALCIO ----
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1726.m3u8
-#EXTINF:0,Sky Supercalcio HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1732.m3u8
-#EXTINF:0,Sky Calcio 1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1733.m3u8
-#EXTINF:0,Sky Calcio 2 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1734.m3u8
-#EXTINF:0,Sky Calcio 3 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1735.m3u8
-#EXTINF:0,Sky Calcio 4 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/2754.m3u8
-#EXTINF:0,Sky Calcio 5 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/2752.m3u8
-#EXTINF:0,Sky Calcio 6 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/2753.m3u8
-#EXTINF:0,Premium Calcio
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1804.m3u8
-#EXTINF:0,Premium Calcio 1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1807.m3u8
-#EXTINF:0,Premium Calcio 2 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1808.m3u8
-#EXTINF:0,Premium Calcio 3
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1809.m3u8
-#EXTINF:0,Premium Calcio 4
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1810.m3u8
-#EXTINF:0,Premium Calcio 5
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1811.m3u8
-#EXTINF:0,Premium Calcio 6
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1812.m3u8
-#EXTINF:0,Premium Calcio 7
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1813.m3u8
-#EXTINF:0,Roma Channel
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1730.m3u8
-#EXTINF:0,Inter Channel
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1729.m3u8
-#EXTINF:0,Juventus Channel
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1728.m3u8
-#EXTINF:0,---- INTRATTENIMENTO ----
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1676.m3u8
-#EXTINF:0,AXN HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1688.m3u8
-#EXTINF:0,AXN Sci-Fi
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1689.m3u8
-#EXTINF:0,Fox Life HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1681.m3u8
-#EXTINF:0,Fox HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1679.m3u8
-#EXTINF:0,Fox Crime HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1682.m3u8
-#EXTINF:0,Fox Comedy HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1685.m3u8
-#EXTINF:0,Fox Animation HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1686.m3u8
-#EXTINF:0,Sky Uno HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1677.m3u8
-#EXTINF:0,Sky Arte HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1737.m3u8
-#EXTINF:0,Sky Atlantic HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1678.m3u8
-#EXTINF:0,--- BAMBINI ---
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1766.m3u8
-#EXTINF:0,K2
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1770.m3u8
-#EXTINF:0,Alice
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1754.m3u8
-#EXTINF:0,Super
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1769.m3u8
-#EXTINF:0,Boing
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1779.m3u8
-#EXTINF:0,Cartoonito
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1781.m3u8
-#EXTINF:0,Disney XD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1767.m3u8
-#EXTINF:0,-frisbee-
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1775.m3u8
-#EXTINF:0,Premium Disney Junior
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1773.m3u8
-#EXTINF:0,Premium Disney Channel  1
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1772.m3u8
-#EXTINF:0,Premium Disney Channel
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1771.m3u8
-#EXTINF:0,Premium Cartoon Network
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1774.m3u8
-#EXTINF:0,---- CULTURA ----
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1736.m3u8
-#EXTINF:0,NationalGeo HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1738.m3u8
-#EXTINF:0,NatGeo Wild HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1740.m3u8
-#EXTINF:0,NatGeo People HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1739.m3u8
-#EXTINF:0,Discovery Channel HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1741.m3u8
-#EXTINF:0,Caccia e Pesca
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1746.m3u8
-#EXTINF:0,Discovery Travel
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1742.m3u8
-#EXTINF:0,Premium Discovery World
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1743.m3u8
-#EXTINF:0,Premium BBC
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1744.m3u8
-#EXTINF:0,Marcopolo
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1752.m3u8
-#EXTINF:0,Leonardo
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1753.m3u8
-#EXTINF:0,Italian Fishing TV
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1750.m3u8
-#EXTINF:0,Gambero Rosso HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1747.m3u8
-#EXTINF:0,History HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1745.m3u8
-#EXTINF:0,Focus
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1748.m3u8
-#EXTINF:0,DMAX
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1756.m3u8
-#EXTINF:0,Animal Planet
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1749.m3u8
-#EXTINF:0,---- RAI ----
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1883.m3u8
-#EXTINF:0,Rai 4
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1703.m3u8
-#EXTINF:0,Rai 5
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1704.m3u8
-#EXTINF:0,Rai Gulp
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1777.m3u8
-#EXTINF:0,Rai Movie
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1675.m3u8
-#EXTINF:0,Rai Premium
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1705.m3u8
-#EXTINF:0,Rai Scuola
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1778.m3u8
-#EXTINF:0,Rai Sport 1
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1723.m3u8
-#EXTINF:0,Rai sport 2
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1724.m3u8
-#EXTINF:0,Rai yoyo
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1776.m3u8
-#EXTINF:0,---- NAZIONALI ----
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1884.m3u8
-#EXTINF:0,Mediaset Italia 2
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1697.m3u8
-#EXTINF:0,Mediaset Extra
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1698.m3u8
-#EXTINF:0,TV luna
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1712.m3u8
-#EXTINF:0,Real Time
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1692.m3u8
-#EXTINF:0,Lei
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1691.m3u8
-#EXTINF:0,Lei +1
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/2634.m3u8
-#EXTINF:0,La 5
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1699.m3u8
-#EXTINF:0,La7d
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1700.m3u8
-#EXTINF:0,Italia 7 Gold
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1707.m3u8
-#EXTINF:0,Iris
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1674.m3u8
-#EXTINF:0,Nuvolari
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1751.m3u8
-#EXTINF:0,Tv 2000
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1706.m3u8
-#EXTINF:0,Teleticino
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1702.m3u8
-#EXTINF:0,CI Crime Investigation HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1687.m3u8
-#EXTINF:0,Videolina
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1710.m3u8
-#EXTINF:0,R3
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1708.m3u8
-#EXTINF:0,Fine living
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1755.m3u8
-#EXTINF:0,Comedy Central
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1690.m3u8
-#EXTINF:0,Giallo
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1701.m3u8
-#EXTINF:0,Cielo
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1693.m3u8
-#EXTINF:0,Canale 21
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1711.m3u8
-#EXTINF:0,Canale 10
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1713.m3u8
-#EXTINF:0,---- NOTIZIE ----
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1782.m3u8
-#EXTINF:0,Rai News 24
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1785.m3u8
-#EXTINF:0,Tg Com 24
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1784.m3u8
-#EXTINF:0,Sky TG 24
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1783.m3u8
-#EXTINF:0,---- MUSICA ---
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1757.m3u8
-#EXTINF:0,RTL 2
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1874.m3u8
-#EXTINF:0,RTL
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1873.m3u8
-#EXTINF:0,RDS
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1765.m3u8
-#EXTINF:0,R.T.L 102.5
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1762.m3u8
-#EXTINF:0,Radio 105 TV
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1764.m3u8
-#EXTINF:0,Mtv Music
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1760.m3u8
-#EXTINF:0,MTV Italia
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1657.m3u8
-#EXTINF:0,MTV Brand New
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1758.m3u8
-#EXTINF:0,Formusic HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1759.m3u8
-#EXTINF:0,Deejay TV
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1658.m3u8
-#EXTINF:0,Dance 90
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1763.m3u8
-#EXTINF:0,---- ADULTI ----
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1819.m3u8
-#EXTINF:0,Dorcel XXX
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1823.m3u8
-#EXTINF:0,Private TV
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/2759.m3u8
-#EXTINF:0,--- EAGLE TV ---
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1814.m3u8
-#EXTINF:0,Eagle Serie TV HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1816.m3u8
-#EXTINF:0,Eagle Red Kids HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1818.m3u8
-#EXTINF:0,Eagle Red Carpet HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1817.m3u8
-#EXTINF:0,Eagle Cinema HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1815.m3u8
-#EXTINF:0,----- SKY DE -----
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1824.m3u8
-#EXTINF:0,RSI La1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1659.m3u8
-#EXTINF:0,RSI La2 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1660.m3u8
-#EXTINF:0,ORF 1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1876.m3u8
-#EXTINF:0,ORF 2 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1877.m3u8
-#EXTINF:0,SFR 1 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1870.m3u8
-#EXTINF:0,SFR 2 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1871.m3u8
-#EXTINF:0,Tv globo
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1695.m3u8
-#EXTINF:0,Super Rtl
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1872.m3u8
-#EXTINF:0,E! Entertainment
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1694.m3u8
-#EXTINF:0,Vox
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1869.m3u8
-#EXTINF:0,Sky Select 9
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1836.m3u8
-#EXTINF:0,Sky Select 8
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1835.m3u8
-#EXTINF:0,Sky Select 7
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1834.m3u8
-#EXTINF:0,Sky Select 6
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1833.m3u8
-#EXTINF:0,Sky Select 16
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1843.m3u8
-#EXTINF:0,Sky Select 15
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1842.m3u8
-#EXTINF:0,Sky Select 14
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1841.m3u8
-#EXTINF:0,Sky Select 13
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1840.m3u8
-#EXTINF:0,Sky Select 12
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1839.m3u8
-#EXTINF:0,Sky Select 11
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1838.m3u8
-#EXTINF:0,Sky Select 10
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1837.m3u8
-#EXTINF:0,Pro 7 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1875.m3u8
-#EXTINF:0,Sky de Cinema Action HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1829.m3u8
-#EXTINF:0,Sky De Cinema  24 HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1827.m3u8
-#EXTINF:0,Sky Cinema De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1825.m3u8
-#EXTINF:0,NDR De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1863.m3u8
-#EXTINF:0,Nationalgeo De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1880.m3u8
-#EXTINF:0,Nationalgeo Wild De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1879.m3u8
-#EXTINF:0,Romance De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1862.m3u8
-#EXTINF:0,Sky Action De Hd
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1832.m3u8
-#EXTINF:0,Sky Atlantic De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1857.m3u8
-#EXTINF:0,Sky Cinema  1 De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1826.m3u8
-#EXTINF:0,Sky Comedy De
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1831.m3u8
-#EXTINF:0,Sky Emotion De
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1830.m3u8
-#EXTINF:0,Sky KRIMI De
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1861.m3u8
-#EXTINF:0,SYFY De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1860.m3u8
-#EXTINF:0,TNT Film De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1854.m3u8
-#EXTINF:0,TNT Serie De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1855.m3u8
-#EXTINF:0,WDR De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1859.m3u8
-#EXTINF:0,Zdf De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1858.m3u8
-#EXTINF:0,MGM De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1864.m3u8
-#EXTINF:0,Fox De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1856.m3u8
-#EXTINF:0,History De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1881.m3u8
-#EXTINF:0,Eurosport De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1847.m3u8
-#EXTINF:0,Disney cinemagic DE
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1878.m3u8
-#EXTINF:0,Discovery Channel De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1882.m3u8
-#EXTINF:0,Arte De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1867.m3u8
-#EXTINF:0,Axn De HD
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1866.m3u8
-#EXTINF:0,Ard De
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1868.m3u8
-#EXTINF:0,--- PRIMA FILA HD by Mr.Mac ---
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/2067.m3u8
 #EXTINF:0,Gambero Rosso
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/483.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/483.ts
 #EXTINF:0,Discovery Travel & Living HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/598.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/598.ts
 #EXTINF:0,Discovery Sci HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/599.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/599.ts
 #EXTINF:0,Cinema +1 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/482.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/482.ts
 #EXTINF:0,Virgin Radio TV
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/472.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/472.ts
 #EXTINF:0,Super
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/288.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/288.ts
 #EXTINF:0,Sky Arte HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/452.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/452.ts
 #EXTINF:0,Sky 3D
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/293.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/293.ts
 #EXTINF:0,RSI LA 2
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/317.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/317.ts
 #EXTINF:0,RSI LA 1
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/316.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/316.ts
 #EXTINF:0,Roma TV
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/481.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/481.ts
 #EXTINF:0,Rai YoYo
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/471.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/471.ts
 #EXTINF:0,Rai Storia
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/470.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/470.ts
 #EXTINF:0,Rai Scuola
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/469.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/469.ts
 #EXTINF:0,Rai premium
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/315.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/315.ts
 #EXTINF:0,Rai Gulp
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/468.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/468.ts
 #EXTINF:0,Rai 5
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/314.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/314.ts
 #EXTINF:0,Rai 4
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/313.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/313.ts
 #EXTINF:0,Radio Montecarlo TV
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/467.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/467.ts
 #EXTINF:0,Radio Italia TV
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/466.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/466.ts
 #EXTINF:0,Radio 105 TV
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/465.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/465.ts
 #EXTINF:0,Premium Stories
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/473.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/473.ts
 #EXTINF:0,Premium Crime HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/459.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/459.ts
 #EXTINF:0,Premium Crime +24
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/460.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/460.ts
 #EXTINF:0,Premium Cinema 2 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/458.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/458.ts
 #EXTINF:0,Premium Cinema 2 +24
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/475.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/475.ts
 #EXTINF:0,Premium Cinema +24
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/461.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/461.ts
 #EXTINF:0,Premium Calcio HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/171.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/171.ts
 #EXTINF:0,Premium Action HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/462.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/462.ts
 #EXTINF:0,Premium Action +24
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/474.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/474.ts
 #EXTINF:0,National Geo People HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/189.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/189.ts
 #EXTINF:0,Nat Geo Wild HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/318.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/318.ts
 #EXTINF:0,MTV Music
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/290.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/290.ts
 #EXTINF:0,MTV
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/289.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/289.ts
 #EXTINF:0,Milan Channel
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/440.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/440.ts
 #EXTINF:0,Mediaset Extra
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/312.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/312.ts
 #EXTINF:0,Marcopolo
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/282.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/282.ts
 #EXTINF:0,La 7
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/311.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/311.ts
 #EXTINF:0,La 5
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/310.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/310.ts
 #EXTINF:0,K2
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/287.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/287.ts
 #EXTINF:0,Juventus TV
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/304.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/304.ts
 #EXTINF:0,Italia 2
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/309.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/309.ts
 #EXTINF:0,Iris
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/308.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/308.ts
 #EXTINF:0,Inter Channel
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/480.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/480.ts
 #EXTINF:0,History HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/281.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/281.ts
 #EXTINF:0,Frisbee
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/286.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/286.ts
 #EXTINF:0,Fox Animation
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/305.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/305.ts
 #EXTINF:0,Focus
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/280.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/280.ts
 #EXTINF:0,Fine Living
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/464.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/464.ts
 #EXTINF:0,eXplora HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/306.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/306.ts
 #EXTINF:0,Eagle Serie TV
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/454.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/454.ts
 #EXTINF:0,Eagle Red Carpet HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/455.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/455.ts
 #EXTINF:0,Eagle Kids HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/456.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/456.ts
 #EXTINF:0,Eagle Cinema 3
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/457.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/457.ts
 #EXTINF:0,Disney XD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/285.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/285.ts
 #EXTINF:0,Disney Channel +1
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/477.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/477.ts
 #EXTINF:0,Disney Channel
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/439.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/439.ts
 #EXTINF:0,Cinema Max +1 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/303.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/303.ts
 #EXTINF:0,CI Crime+Investigation HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/294.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/294.ts
 #EXTINF:0,Cartoonito
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/284.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/284.ts
 #EXTINF:0,Boing
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/283.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/283.ts
 #EXTINF:0,AXN HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/292.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/292.ts
 #EXTINF:0,Animal planet
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/279.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/279.ts
 #EXTINF:0,Alice
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/479.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/479.ts
 #EXTINF:0,Rai 1 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/1.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/1.ts
 #EXTINF:0,Rai 2 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/2.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/2.ts
 #EXTINF:0,Rai 3 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/3.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/3.ts
 #EXTINF:0,Rete 4
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/4.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/4.ts
 #EXTINF:0,Canale 5
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/5.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/5.ts
 #EXTINF:0,Italia 1
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/6.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/6.ts
 #EXTINF:0,Rai Sport 1
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/10.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/10.ts
 #EXTINF:0,Rai Sport 2
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/11.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/11.ts
 #EXTINF:0,Dmax
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/12.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/12.ts
 #EXTINF:0,Cielo
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/13.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/13.ts
 #EXTINF:0,Sportitalia
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/14.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/14.ts
 #EXTINF:0,Eurosport
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/15.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/15.ts
 #EXTINF:0,Eurosport 2
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/16.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/16.ts
 #EXTINF:0,Realtime
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/17.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/17.ts
 #EXTINF:0,Videolina
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/18.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/18.ts
 #EXTINF:0,Sky Tg 24
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/20.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/20.ts
 #EXTINF:0,Cinema 1 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/21.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/21.ts
 #EXTINF:0,Cinema +24 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/23.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/23.ts
 #EXTINF:0,Cinema Hits HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/159.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/159.ts
 #EXTINF:0,Cinema Comedy HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/31.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/31.ts
 #EXTINF:0,Cinema Family HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/27.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/27.ts
 #EXTINF:0,Cinema Max HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/32.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/32.ts
 #EXTINF:0,Cinema Cult HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/153.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/153.ts
 #EXTINF:0,Cinema Passion HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/29.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/29.ts
 #EXTINF:0,Cinema Classic HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/34.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/34.ts
 #EXTINF:0,Sky Uno
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/35.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/35.ts
 #EXTINF:0,Sky Atlantic HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/37.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/37.ts
 #EXTINF:0,Fox HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/157.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/157.ts
 #EXTINF:0,Fox Crime HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/36.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/36.ts
 #EXTINF:0,Fox Comedy
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/186.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/186.ts
 #EXTINF:0,Fox Life
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/187.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/187.ts
 #EXTINF:0,Sky Sport 24 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/38.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/38.ts
 #EXTINF:0,Sky Sport 1 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/39.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/39.ts
 #EXTINF:0,Sky Sport 2 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/40.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/40.ts
 #EXTINF:0,Sky Sport 3 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/156.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/156.ts
 #EXTINF:0,Sky Sport Plus HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/155.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/155.ts
 #EXTINF:0,Sky Sport F1 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/169.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/169.ts
 #EXTINF:0,Sky Sport MotoGP HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/45.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/45.ts
 #EXTINF:0,Sky Supercalcio HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/46.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/46.ts
 #EXTINF:0,Sky Calcio 1 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/48.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/48.ts
 #EXTINF:0,Sky Calcio 2 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/137.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/137.ts
 #EXTINF:0,Sky Calcio 3 HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/150.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/150.ts
 #EXTINF:0,Supertennis
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/55.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/55.ts
 #EXTINF:0,National Geographic HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/151.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/151.ts
 #EXTINF:0,Discovery HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/152.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/152.ts
 #EXTINF:0,Caccia e Pesca
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/168.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/168.ts
 #EXTINF:0,Premium BBC
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/57.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/57.ts
 #EXTINF:0,Premium Calcio
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/73.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/73.ts
 #EXTINF:0,Premium Calcio 1
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/74.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/74.ts
 #EXTINF:0,Premium Calcio 2
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/75.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/75.ts
 #EXTINF:0,Premium Calcio 3
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/76.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/76.ts
 #EXTINF:0,Premium Cartoon Network
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/69.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/69.ts
 #EXTINF:0,Premium Cinema HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/58.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/58.ts
 #EXTINF:0,Premium Comedy
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/60.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/60.ts
 #EXTINF:0,Premium Crime
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/61.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/61.ts
 #EXTINF:0,Premium Discovery World
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/62.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/62.ts
 #EXTINF:0,Premium Disney Channel
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/70.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/70.ts
 #EXTINF:0,Premium Disney Junior
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/71.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/71.ts
 #EXTINF:0,Premium Emotion
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/63.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/63.ts
 #EXTINF:0,Premium Energy
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/64.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/64.ts
 #EXTINF:0,Fox Sport HD
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/72.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/72.ts
 #EXTINF:0,Premium Joy
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/65.m3u8
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/65.ts
 #EXTINF:0,Premium Studio Universal
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/67.m3u8
-#EXTINF:0,Vetrina Prima Fila HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2602.mkv
-#EXTINF:0,PRIMA FILA 1 HD jurassic word
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2054.mkv
-#EXTINF:0,PRIMA FILA 2 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2055.mkv
-#EXTINF:0,PRIMA FILA 3 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2058.mkv
-#EXTINF:0,PRIMA FILA 4 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2059.mkv
-#EXTINF:0,PRIMA FILA 5 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2060.mkv
-#EXTINF:0,PRIMA FILA 6 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2061.mkv
-#EXTINF:0,PRIMA FILA 7 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2062.mkv
-#EXTINF:0,PRIMA FILA 8 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2063.mkv
-#EXTINF:0,PRIMA FILA 9 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2064.mkv
-#EXTINF:0,PRIMA FILA 10 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2056.mkv
-#EXTINF:0,PRIMA FILA 11 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2057.mkv
-#EXTINF:0,PRIMA FILA 12 HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2066.mkv
-#EXTINF:0,PRIMA FILA WWE HD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2065.mkv
-#EXTINF:0,--- ON DEMAND by Mr.Mac ---
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1935.m3u8
-#EXTINF:0,Thor The Dark World
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1921.mkv
-#EXTINF:0,The Reach - Caccia All'Uomo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1920.mkv
-#EXTINF:0,Ted 2
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1913.mkv
-#EXTINF:0,Step Up All In
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1929.mkv
-#EXTINF:0,Oscure Presenze Jessabelle
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1919.mkv
-#EXTINF:0,Mission Impossible Rogue Nation
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1918.mkv
-#EXTINF:0,Mad Max Fury Road
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1928.mkv
-#EXTINF:0,Lords of London
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1917.mkv
-#EXTINF:0,Insurgent
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1927.mkv
-#EXTINF:0,Il Luogo Delle Ombre
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1916.mkv
-#EXTINF:0,Il Bambino Che E' In Me
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1926.mkv
-#EXTINF:0,Fury
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1925.mkv
-#EXTINF:0,Fuochi D'Artificio in pieno Giorno
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1915.mkv
-#EXTINF:0,Eva Braun
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1914.mkv
-#EXTINF:0,Eden 2014
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1924.mkv
-#EXTINF:0,Duri Si Diventa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1923.mkv
-#EXTINF:0,Cenerentola 2015
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1922.mkv
-#EXTINF:0,Black Dynamite
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1933.mkv
-#EXTINF:0,I ragazzi vincenti
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1956.mkv
-#EXTINF:0,Terra di Confine
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1958.mkv
-#EXTINF:0,The Gunman
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1957.mkv
-#EXTINF:0,The Gunman 720p
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1960.mkv
-#EXTINF:0,Redirected
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1959.mkv
-#EXTINF:0,Suite Francese
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1961.mkv
-#EXTINF:0,Avengers Age of Ultron
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1962.mkv
-#EXTINF:0,Le vacanze del piccolo Nicolas
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1963.mkv
-#EXTINF:0,Jack
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1964.mkv
-#EXTINF:0,Alice nel paese delle meraviglie
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1965.mkv
-#EXTINF:0,Dallas Buyers Club
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1993.mkv
-#EXTINF:0,Zombeavers
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1994.mkv
-#EXTINF:0,Tracers
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1995.mkv
-#EXTINF:0,Ti ricordi di me
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1996.mkv
-#EXTINF:0,The Gallows L'esecuzione
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1997.mkv
-#EXTINF:0,The Babadook
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2018.mkv
-#EXTINF:0,St. Vincent
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1998.mkv
-#EXTINF:0,Soldato Semplice
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1999.mkv
-#EXTINF:0,Rio 2
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2000.mkv
-#EXTINF:0,Pusher
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2023.mkv
-#EXTINF:0,Pusher 2
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2033.mkv
-#EXTINF:0,Pusher 3
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2001.mkv
-#EXTINF:0,Pound of Flesh
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2002.mkv
-#EXTINF:0,Pixels
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2003.mkv
-#EXTINF:0,Oblivion
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2004.mkv
-#EXTINF:0,Long WeekEnd
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2005.mkv
-#EXTINF:0,Leoni
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2006.mkv
-#EXTINF:0,Left Behind - La Profezia
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2007.mkv
-#EXTINF:0,Io vengo ogni giorno
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2008.mkv
-#EXTINF:0,In the name of King 3 - The Last Mission
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2009.mkv
-#EXTINF:0,Il Superpoliziotto del Supermercato 2
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2010.mkv
-#EXTINF:0,Il Ragazzo Invisibile
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2011.mkv
-#EXTINF:0,Il Ragazzo della porta accanto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2012.mkv
-#EXTINF:0,Hercules Il Guerriero
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2013.mkv
-#EXTINF:0,Frozen Fever
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2015.mkv
-#EXTINF:0,Devil
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2014.mkv
-#EXTINF:0,Cattivi Vicini
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2016.mkv
-#EXTINF:0,Barely Lethal - 16 Anni e Spia
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2017.mkv
-#EXTINF:0,Colt 45
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2019.mkv
-#EXTINF:0,Colt 45 - 1080p
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2152.mkv
-#EXTINF:0,Terminator.Genisys
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2020.mkv
-#EXTINF:0,Scrivimi Ancora - Love Rosie
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2021.mkv
-#EXTINF:0,Red Faction Origins
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2022.mkv
-#EXTINF:0,La verit‡ non puÚ aspettare
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2024.mkv
-#EXTINF:0,Joker Wild Card
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2025.mkv
-#EXTINF:0,Child 44 - Il Bambino N. 44
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2026.mkv
-#EXTINF:0,Chef - La Ricetta Perfetta
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2027.mkv
-#EXTINF:0,Agente Matrimoniale
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2028.mkv
-#EXTINF:0,Zombeavers 2014
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2029.mkv
-#EXTINF:0,Un ragionevole dubbio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2040.mkv
-#EXTINF:0,The Prince - Tempo di uccidere
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2046.mkv
-#EXTINF:0,Shaun - Vita da pecora
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2030.mkv
-#EXTINF:0,Sfida Senza Regole - Righteous Kill
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2031.mkv
-#EXTINF:0,Robin Hood - Unrated Directors Cut
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2041.mkv
-#EXTINF:0,Questa Ë la mia casa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2032.mkv
-#EXTINF:0,Programmato per uccidere
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2034.mkv
-#EXTINF:0,L'Evocazione - The Conjuring
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2035.mkv
-#EXTINF:0,Insurgent 1080
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2036.mkv
-#EXTINF:0,Il mistero del bosco
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2037.mkv
-#EXTINF:0,Haunter
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2042.mkv
-#EXTINF:0,Eagle Eye
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2043.mkv
-#EXTINF:0,Cake
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2044.mkv
-#EXTINF:0,Bullhead - La vincente ascesa di Jacky
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2045.mkv
-#EXTINF:0,Battleship
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2038.mkv
-#EXTINF:0,The Horde
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2047.mkv
-#EXTINF:0,Fast And Furious 7 EXTENDED
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2048.mkv
-#EXTINF:0,Sorvegliato Speciale
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2052.mkv
-#EXTINF:0,Rampage - Giustizia Capitale
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2050.mkv
-#EXTINF:0,Mio Pap‡
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2051.mkv
-#EXTINF:0,Le leggi del desiderio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2053.mkv
-#EXTINF:0,Romeo & Jiuliet
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2068.mkv
-#EXTINF:0,X_Men
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2069.mkv
-#EXTINF:0,X_Men_2
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2071.mkv
-#EXTINF:0,X_Men:_Le_origini_di_Wolverine
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2616.mkv
-#EXTINF:0,X_Men:_L_inizio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2615.mkv
-#EXTINF:0,X_Men_Conflitto_Finale
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2072.mkv
-#EXTINF:0,X_Men:_Giorni_di_un_futuro_passato
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2070.mkv
-#EXTINF:0,X-Men Days of Future Past - The Rogue Cut
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2145.mkv
-#EXTINF:0,Vizio di forma - Inherent Vice
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2073.mkv
-#EXTINF:0,The Best Exotic Marigold Hotel
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2074.mkv
-#EXTINF:0,Apocalisse Zero
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2075.mkv
-#EXTINF:0,Viaggio in paradiso - Get the gringo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2078.mkv
-#EXTINF:0,Stoker
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2147.mkv
-#EXTINF:0,Sotto una buona stella
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2148.mkv
-#EXTINF:0,Scrivimi Ancora
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2144.mkv
-#EXTINF:0,Promised Land
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2156.mkv
-#EXTINF:0,Number 23
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2077.mkv
-#EXTINF:0,La migliore offerta
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2149.mkv
-#EXTINF:0,L'eliminatore
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2155.mkv
-#EXTINF:0,L'assassino Ë quello con le scarpe gialle
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2150.mkv
-#EXTINF:0,Indiana Jones e l'ultima crociata
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2157.mkv
-#EXTINF:0,E' stato il figlio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2151.mkv
-#EXTINF:0,Bekas
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2153.mkv
-#EXTINF:0,» Arrivato Nostro Figlio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2143.mkv
-#EXTINF:0,African Cam3u8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2154.mkv
-#EXTINF:0,Take Me Home Tonight
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2243.mkv
-#EXTINF:0,Star Wars Episode IV - A New Hope
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2244.mkv
-#EXTINF:0,Paris Texas
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2246.mkv
-#EXTINF:0,Interstellar
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2245.mkv
-#EXTINF:0,Ooops Ho Perso L 'Arca - Ooops! Noah is Gone...
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2247.mkv
-#EXTINF:0,Independence Day
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2249.mkv
-#EXTINF:0,Qualcosa Di Buono
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2248.mkv
-#EXTINF:0,Curioso Come George 3 - Ritorno Nella Giungla
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2252.mkv
-#EXTINF:0,Blood and Chocolate
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2254.mkv
-#EXTINF:0,La Vita Privata di Sherlock Holmes
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2251.mkv
-#EXTINF:0,Cenerentola - Cinderella
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2253.mkv
-#EXTINF:0,Black Sea
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2255.mkv
-#EXTINF:0,Shield Of Straw - Proteggi L'Assassino
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2250.mkv
-#EXTINF:0,3ciento: Chi l ha duro... La vince!
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2336.mkv
-#EXTINF:0,50 Sfumature di grigio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2337.mkv
-#EXTINF:0,A Beautiful Mind
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2339.mkv
-#EXTINF:0,New Police Story
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2338.mkv
-#EXTINF:0,Alabama Monroe
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2341.mkv
-#EXTINF:0,Adaline: L'eterna giovinezza
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2340.mkv
-#EXTINF:0,American Sniper
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2348.mkv
-#EXTINF:0,American Gangster
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2347.mkv
-#EXTINF:0,Sleepless in Seattle
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2350.mkv
-#EXTINF:0,Apartement
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2353.mkv
-#EXTINF:0,Anna Karenina
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2352.mkv
-#EXTINF:0,Amici come noi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2351.mkv
-#EXTINF:0,Australia
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2367.mkv
-#EXTINF:0,Automata
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2368.mkv
-#EXTINF:0,Benvenuti al Nord
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2418.mkv
-#EXTINF:0,Benvenuti al Sud
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2419.mkv
-#EXTINF:0,Big Eyes
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2420.mkv
-#EXTINF:0,Big Game: Caccia al presidente
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2421.mkv
-#EXTINF:0,Blackhat
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2422.mkv
-#EXTINF:0,Blow
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2423.mkv
-#EXTINF:0,Doom
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2354.mkv
-#EXTINF:0,Nemico pubblico N. 1 - L'istinto di morte
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2370.mkv
-#EXTINF:0,Se Dio Vuole
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2369.mkv
-#EXTINF:0,Carnage
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2425.mkv
-#EXTINF:0,Cenerentola
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2426.mkv
-#EXTINF:0,Chi_Ë_senza_colpa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2427.mkv
-#EXTINF:0,Closer
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2428.mkv
-#EXTINF:0,Cobain:_Montage_of_Heck_sub:ita
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2429.mkv
-#EXTINF:0,Collateral
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2430.mkv
-#EXTINF:0,Come_ti_spaccio_la_famiglia
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2431.mkv
-#EXTINF:0,Contagious:_epidemia_mortale
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2432.mkv
-#EXTINF:0,Die_Hard:_Vivere_o_morire
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2433.mkv
-#EXTINF:0,Django
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2434.mkv
-#EXTINF:0,Don_hemingway
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2435.mkv
-#EXTINF:0,Dream_House
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2436.mkv
-#EXTINF:0,Duri_si_diventa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2437.mkv
-#EXTINF:0,Eva_braun
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2439.mkv
-#EXTINF:0,Exodus_Dei_e_Re
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2441.mkv
-#EXTINF:0,Ex_machina
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2440.mkv
-#EXTINF:0,E_Fuori_Nevica!
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2438.mkv
-#EXTINF:0,Fast_and_Furious_7
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2442.mkv
-#EXTINF:0,Focus:_niente_Ë_come_sembra
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2443.mkv
-#EXTINF:0,Foxcatcher:_Una_storia_Americana
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2444.mkv
-#EXTINF:0,French_Connection
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2445.mkv
-#EXTINF:0,Full_metal_jacket
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2446.mkv
-#EXTINF:0,Gallowwalkers
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2447.mkv
-#EXTINF:0,Gemma_Bovery
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2448.mkv
-#EXTINF:0,Giovani_si_diventa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2449.mkv
-#EXTINF:0,Gomorra
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2450.mkv
-#EXTINF:0,Grand_Budapest_Hotel
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2451.mkv
-#EXTINF:0,Gravity
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2452.mkv
-#EXTINF:0,Guardiani_Della_Galassia
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2453.mkv
-#EXTINF:0,Hammer_of_the_gods
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2454.mkv
-#EXTINF:0,Humandroid
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2455.mkv
-#EXTINF:0,I Am Sam
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2424.mkv
-#EXTINF:0,Full Metal Jacket - 1080p
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2460.mkv
-#EXTINF:0,Il Barone Rosso
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2459.mkv
-#EXTINF:0,Il_cacciatore_di_donne
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2475.mkv
-#EXTINF:0,Il_cavaliere_Oscuro
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2476.mkv
-#EXTINF:0,Il_Cavaliere_Oscuro:_Il_Ritorno
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2472.mkv
-#EXTINF:0,Il_giovane_favoloso
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2477.mkv
-#EXTINF:0,Il_marchese_del_grillo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2478.mkv
-#EXTINF:0,Il_nemico_invisibile
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2479.mkv
-#EXTINF:0,Il_padrino
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2480.mkv
-#EXTINF:0,Il_Padrino_2
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2473.mkv
-#EXTINF:0,Il_Padrino_3
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2474.mkv
-#EXTINF:0,Il_pianeta_delle_scimmie
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2481.mkv
-#EXTINF:0,Il_potere_dei_soldi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2482.mkv
-#EXTINF:0,Il_ragazzo_della_porta_Accanto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2483.mkv
-#EXTINF:0,Il_ribelle:_Starred_up
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2484.mkv
-#EXTINF:0,Il_segreto_del_suo_volto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2485.mkv
-#EXTINF:0,Il_settimo_Figlio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2486.mkv
-#EXTINF:0,Il_volo_della_fenice
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2487.mkv
-#EXTINF:0,Inception
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2488.mkv
-#EXTINF:0,insidious_1
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2590.mkv
-#EXTINF:0,insidious_2
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2591.mkv
-#EXTINF:0,Italiano_Medio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2489.mkv
-#EXTINF:0,Italo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2490.mkv
-#EXTINF:0,I_mercenari
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2469.mkv
-#EXTINF:0,I_mercenari_2
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2470.mkv
-#EXTINF:0,I_mercenari_3
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2471.mkv
-#EXTINF:0,JFK:_Un_caso_ancora_aperto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2491.mkv
-#EXTINF:0,John_Wick
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2492.mkv
-#EXTINF:0,Jupiter_:_Il_destino_dell_universo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2493.mkv
-#EXTINF:0,Killing_season
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2494.mkv
-#EXTINF:0,Last_Vegas
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2508.mkv
-#EXTINF:0,La_bella_e_la_bestia
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2501.mkv
-#EXTINF:0,La_famiglia_BËlier
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2502.mkv
-#EXTINF:0,La_grande_bellezza
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2503.mkv
-#EXTINF:0,La_piramide
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2504.mkv
-#EXTINF:0,La_regola_del_gioco
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2505.mkv
-#EXTINF:0,La_solita_commedia:_Inferno
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2506.mkv
-#EXTINF:0,La_teoria_del_tutto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2507.mkv
-#EXTINF:0,Leviathan
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2512.mkv
-#EXTINF:0,Le_Cronache_di_Narnia_il_Leone_la_Strega_e_il_Guardaroba
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2511.mkv
-#EXTINF:0,Le_Cronache_di_Narnia_Il_Principe_Caspian
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2509.mkv
-#EXTINF:0,Le_Cronache_di_Narnia_Il_Viaggio_del_Veliero
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2510.mkv
-#EXTINF:0,Liberaci_dal_male
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2513.mkv
-#EXTINF:0,little_boy
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2592.mkv
-#EXTINF:0,Lo_Hobbit_:_la_Battaglia_delle_cinque_armate
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2516.mkv
-#EXTINF:0,Lo_Hobbit_:_La_desolazione_di_Smaug
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2514.mkv
-#EXTINF:0,Lo_Hobbit_:_Un_viaggio_inaspettato
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2515.mkv
-#EXTINF:0,L_amore_Bugiardo_:_Gone_Girl
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2495.mkv
-#EXTINF:0,L_attacco_dei_giganti
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2496.mkv
-#EXTINF:0,L_ultimo_lupo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2497.mkv
-#EXTINF:0,L_uomo_Bicentenario
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2498.mkv
-#EXTINF:0,L_uomo_con_i_pugni_di_ferro
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2499.mkv
-#EXTINF:0,L_uomo_con_i_pugni_di_ferro_2
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2500.mkv
-#EXTINF:0,Mad_Max_-_Fury_road
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2518.mkv
-#EXTINF:0,Maleficent
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2519.mkv
-#EXTINF:0,Man_of_the_house
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2520.mkv
-#EXTINF:0,Masquerade
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2521.mkv
-#EXTINF:0,Ma_che_bella_sorpresa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2517.mkv
-#EXTINF:0,McFarland USA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2458.mkv
-#EXTINF:0,Messi:_Storia_di_un_campione
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2522.mkv
-#EXTINF:0,Metalica_through_the_never
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2523.mkv
-#EXTINF:0,Mia_madre
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2524.mkv
-#EXTINF:0,Milk_money
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2525.mkv
-#EXTINF:0,Million_dollar_baby
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2526.mkv
-#EXTINF:0,Mortdecai
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2527.mkv
-#EXTINF:0,Need_for_speed
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2528.mkv
-#EXTINF:0,Nella mente del serial killer
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2457.mkv
-#EXTINF:0,Noi_e_la_Giulia
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2529.mkv
-#EXTINF:0,now_you_see_me:_i_maghi_del_crimine
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2593.mkv
-#EXTINF:0,Nudi_e_felici
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2530.mkv
-#EXTINF:0,Pain_e_Gain:_Muscoli_e_denaro
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2531.mkv
-#EXTINF:0,Persecuted
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2532.mkv
-#EXTINF:0,Pirati_dei_caraibi:_Ai_confini_del_mondo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2533.mkv
-#EXTINF:0,Pirati_dei_caraibi:_La_maledizione_della_prima_luna
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2535.mkv
-#EXTINF:0,Pirati_dei_caraibi:_La_maledizione_del_forziere_fantasma
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2534.mkv
-#EXTINF:0,Pirati_dei_caraibi:_Oltre_i_confini_del_mare
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2536.mkv
-#EXTINF:0,Pompei
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2537.mkv
-#EXTINF:0,Pound_of_flesh
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2538.mkv
-#EXTINF:0,Pride_and_glory:_Il_prezzo_dell_onore
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2539.mkv
-#EXTINF:0,Qualuquemente
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2540.mkv
-#EXTINF:0,Quartet
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2541.mkv
-#EXTINF:0,Ritorno_al_Marigold_Hotel
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2542.mkv
-#EXTINF:0,Romeo_e_giulietta
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2543.mkv
-#EXTINF:0,Run_all_night:_Una_notte_per_sopravvivere
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2544.mkv
-#EXTINF:0,Ruth_e_alex:_L_amore_cerca_casa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2545.mkv
-#EXTINF:0,Scent_of_Woman:_Profumo_di_donna
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2546.mkv
-#EXTINF:0,Selma
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2548.mkv
-#EXTINF:0,Senza_santi_in_paradiso
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2549.mkv
-#EXTINF:0,Se_Dio_vuole
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2547.mkv
-#EXTINF:0,Shakespeare_in_love
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2550.mkv
-#EXTINF:0,Shaolin_Soccer
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2551.mkv
-#EXTINF:0,Shooter
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2552.mkv
-#EXTINF:0,shutter_island
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2594.mkv
-#EXTINF:0,Sin_City
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2554.mkv
-#EXTINF:0,Sin_City_:_Una_Donna_per_cui_uccidere
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2555.mkv
-#EXTINF:0,Si_accettano_miracoli
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2553.mkv
-#EXTINF:0,Skating_To_New_York
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2556.mkv
-#EXTINF:0,Solo_per_vendetta
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2557.mkv
-#EXTINF:0,Song_one
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2558.mkv
-#EXTINF:0,Sotto_una_Buona_stella
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2559.mkv
-#EXTINF:0,Stai_lontana_da_me
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2560.mkv
-#EXTINF:0,Still_Alice
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2561.mkv
-#EXTINF:0,Suite_Francese
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2562.mkv
-#EXTINF:0,Super_fast_e_super_furious:_Solo_party_originali
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2563.mkv
-#EXTINF:0,Suxband_tre_menti_sopra_il_pelo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2564.mkv
-#EXTINF:0,Sx_Tape
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2565.mkv
-#EXTINF:0,Ted
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2566.mkv
-#EXTINF:0,The Day After Tomorrow
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2456.mkv
-#EXTINF:0,The_Amazing_Spiderman
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2567.mkv
-#EXTINF:0,The_Amazing_Spiderman_2_-_Il_potere_di_electro
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2568.mkv
-#EXTINF:0,The_atticus_istitute
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2577.mkv
-#EXTINF:0,The_avengers
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2578.mkv
-#EXTINF:0,The_bourne_Identity
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2579.mkv
-#EXTINF:0,The_Bourne_Legacy
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2569.mkv
-#EXTINF:0,The_Bourne_Supremacy
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2570.mkv
-#EXTINF:0,The_Bourne_Ultimatum:_Il_ritorno_dello_sciacallo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2571.mkv
-#EXTINF:0,The_Dark_valley
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2572.mkv
-#EXTINF:0,The_Departed:_Il_bene_e_il_male
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2573.mkv
-#EXTINF:0,The_Equalizer:_Il_vendicatore
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2574.mkv
-#EXTINF:0,The_gunman
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2580.mkv
-#EXTINF:0,The_hit_list
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2581.mkv
-#EXTINF:0,The_hungover_game
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2582.mkv
-#EXTINF:0,The_imitation_game
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2583.mkv
-#EXTINF:0,The_Package
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2575.mkv
-#EXTINF:0,The_rover
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2584.mkv
-#EXTINF:0,The_salvation
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2585.mkv
-#EXTINF:0,The_search
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2586.mkv
-#EXTINF:0,The_signal
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2587.mkv
-#EXTINF:0,The_water_diviner
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2588.mkv
-#EXTINF:0,The_Wolf_of_Wall_Street
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2576.mkv
-#EXTINF:0,Lionheart - Scommessa vincente
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2595.mkv
-#EXTINF:0,Transformer
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2589.mkv
-#EXTINF:0,Transformer_2:_La_vendetta_del_caduto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2596.mkv
-#EXTINF:0,Transformer_3
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2597.mkv
-#EXTINF:0,Transformer_4
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2598.mkv
-#EXTINF:0,Una_fantastica_e_incredibile_giornata_da_dimenticare
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2600.mkv
-#EXTINF:0,Un_Fantastico_via_vai
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2599.mkv
-#EXTINF:0,Training Day
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2601.mkv
-#EXTINF:0,Cha Cha Cha
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2609.mkv
-#EXTINF:0,Gli Amanti Passeggeri
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2608.mkv
-#EXTINF:0,Home - A Casa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2607.mkv
-#EXTINF:0,Saw VII - Il capitolo finale
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2605.mkv
-#EXTINF:0,St.Vincent
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2604.mkv
-#EXTINF:0,The Wicker Man
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2603.mkv
-#EXTINF:0,Unbroken
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2610.mkv
-#EXTINF:0,Valhalla_Rising
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2612.mkv
-#EXTINF:0,Vizio_di_forma
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2613.mkv
-#EXTINF:0,V_per_vendetta
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2611.mkv
-#EXTINF:0,Words_and_Pictures
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2614.mkv
-#EXTINF:0,AlÏ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2632.mkv
-#EXTINF:0,Child 44 - Il Bambino N 44
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2631.mkv
-#EXTINF:0,Dramma della gelosia - Tutti i particolari in cronaca
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2630.mkv
-#EXTINF:0,Faust
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2629.mkv
-#EXTINF:0,Hunger Games Il Canto Della Rivolta Parte 1
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2627.mkv
-#EXTINF:0,I Sussurri del Deserto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2626.mkv
-#EXTINF:0,Il Guardiano della Notte
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2625.mkv
-#EXTINF:0,Miss Detective
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2622.mkv
-#EXTINF:0,Police Story
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2621.mkv
-#EXTINF:0,Sei mai stata sulla luna
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2620.mkv
-#EXTINF:0,Senza Freni
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2619.mkv
-#EXTINF:0,The Interview
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2618.mkv
-#EXTINF:0,The Lazarus Effect
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2617.mkv
-#EXTINF:0,L'Ultimo Dei Mohicani
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2636.mkv
-#EXTINF:0,Liberaci Dal Male - Deliver Us From Evil
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2729.mkv
-#EXTINF:0,Scusate Se Esisto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2728.mkv
-#EXTINF:0,Star Wars.Episode V-The Empire Strikes Back
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2635.mkv
-#EXTINF:0,La Scelta
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2731.mkv
-#EXTINF:0,Non c'Ë 2 senza te
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2730.mkv
-#EXTINF:0,Non Escludo Il Ritorno
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2732.mkv
-#EXTINF:0,Il Racconto Dei Racconti - Tale Of Tales
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2733.mkv
-#EXTINF:0,Colpo Secco
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2739.mkv
-#EXTINF:0,Il Racconto Dei Racconti
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2738.mkv
-#EXTINF:0,Lettere di uno sconosciuto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2737.mkv
-#EXTINF:0,Mea Culpa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2736.mkv
-#EXTINF:0,San Andreas
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2735.mkv
-#EXTINF:0,The Dead Lands
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2734.mkv
-#EXTINF:0,Mad.Max.Fury.Road.2015.iTALiAN.AC3.BRRip.XviD-T4P3
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2741.mkv
-#EXTINF:0,Out of the fournace
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2740.mkv
-#EXTINF:0,Belle
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2750.mkv
-#EXTINF:0,L'Immagine Mancante
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2749.mkv
-#EXTINF:0,Lap Dance
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2748.mkv
-#EXTINF:0,Licenza Di Guida - License to Drive
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2747.mkv
-#EXTINF:0,Mad.Max.Fury.Road.2015.iTA.AC3.BDRip.XviD-iCV
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2746.mkv
-#EXTINF:0,MUD
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2745.mkv
-#EXTINF:0,The Dead Lands 720p
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2744.mkv
-#EXTINF:0,Under the skin
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2743.mkv
-#EXTINF:0,VenerdÏ 13
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2742.mkv
-#EXTINF:0,VenerdÏ 13 Parte II - Lhttp://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2770.mkv
-#EXTINF:0,Mad Max Fury Road (2015).ita.eng.Multisub
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2758.mkv
-#EXTINF:0,Mad.Max.Fury.Road.2015.ITA.ENG.AC3.Subs.1080p.BluRay.x264
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2757.mkv
-#EXTINF:0,Pazza Idea - Xenia
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2756.mkv
-#EXTINF:0,50 to 1 - 50 a 1
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2763.mkv
-#EXTINF:0,Il Laureato
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2762.mkv
-#EXTINF:0,Sfida A White Buffalo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2761.mkv
-#EXTINF:0,Soldato Semplice (2015).ita.sub.ita.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2760.mkv
-#EXTINF:0,Minions
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2769.mkv
-#EXTINF:0,Robocop (1987) 720p.BrRip.italian.x264
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2768.mkv
-#EXTINF:0,RoboCop 2 (1990) 720p.BrRip.italian.x264
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2766.mkv
-#EXTINF:0,RoboCop 3 (1993) 720p.BrRip.italian.x264
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2767.mkv
-#EXTINF:0,Spy
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2765.mkv
-#EXTINF:0,Thrashin'
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2764.mkv
-#EXTINF:0,--- ON DEMAND 3D by Mr.Mac ---
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/2187.m3u8
-#EXTINF:0,300_L_alba_di_un_impero_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2158.mkv
-#EXTINF:0,Apartement_1303_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2160.mkv
-#EXTINF:0,Apes_Revolution:_Il_pianeta_delle_Scimmie_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2161.mkv
-#EXTINF:0,Avatar_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2162.mkv
-#EXTINF:0,A_spasso_con_i_dinosauri_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2159.mkv
-#EXTINF:0,Capitan_America:_The_Winter_soldier_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2163.mkv
-#EXTINF:0,Frozen_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2164.mkv
-#EXTINF:0,Godzilla_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2165.mkv
-#EXTINF:0,Gravity_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2166.mkv
-#EXTINF:0,Hercules 3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2628.mkv
-#EXTINF:0,Il_Magico_Mondo_Di_Oz_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2168.mkv
-#EXTINF:0,I_7_Nani_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2167.mkv
-#EXTINF:0,Justin e i Cavalieri Valorosi 3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2624.mkv
-#EXTINF:0,Lo_Hobbit_la_Battaglia_delle_Cinque_Armate_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2169.mkv
-#EXTINF:0,Man of Steel - L'uomo d'acciaio 3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2606.mkv
-#EXTINF:0,Noah_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2170.mkv
-#EXTINF:0,Non_aprite_quella_porta_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2171.mkv
-#EXTINF:0,Pacific_Rim_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2172.mkv
-#EXTINF:0,Percy_Jackson_e_gli_dei_dell_olimpo:_Il_mare_dei_mostri_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2173.mkv
-#EXTINF:0,Piovono_Polpette_2_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2174.mkv
-#EXTINF:0,Planes_2_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2175.mkv
-#EXTINF:0,Pompeii_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2176.mkv
-#EXTINF:0,Prometheus_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2177.mkv
-#EXTINF:0,Scontro_tra_titani_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2178.mkv
-#EXTINF:0,Shak_week_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2179.mkv
-#EXTINF:0,Spongebob_Fuori_dall_acqua_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2180.mkv
-#EXTINF:0,Step_Up_All_In_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2181.mkv
-#EXTINF:0,Tartarughe_Ninja_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2182.mkv
-#EXTINF:0,The_Amazing_spider_man_2_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2183.mkv
-#EXTINF:0,The_Lego_Movie_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2184.mkv
-#EXTINF:0,Titanic_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2185.mkv
-#EXTINF:0,X-men:_Giorni_di_un_futuro_passato_3D
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2186.mkv
-#EXTINF:0,--- ON DEMAND SERIE TV by Mr.Mac ---
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1937.m3u8
-#EXTINF:0,Game.Of.Thrones.S01e01.L.Inverno.Sta.Arrivando.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2079.mkv
-#EXTINF:0,Game.Of.Thrones.S01e02.La.Strada.Del.Re.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2080.mkv
-#EXTINF:0,Game.Of.Thrones.S01e03.Lord.Snow.Ita.Eng.BDMux.H264.SD.x264.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2081.mkv
-#EXTINF:0,Game.Of.Thrones.S01e04.Il.Giuramento.Ita.Eng.BDMux.H264.SD.x264.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2082.mkv
-#EXTINF:0,Game.Of.Thrones.S01e05.Il.Lupe.E.Il.Leone.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2083.mkv
-#EXTINF:0,Game.Of.Thrones.S01e06.La.Corona.D.Oro.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2084.mkv
-#EXTINF:0,Game.Of.Thrones.S01e07.Il.Gioco.Dei.Troni.Ita.Eng.BDMux.H264.SD.by.Fratposa.REPACK
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2085.mkv
-#EXTINF:0,Game.Of.Thrones.S01e08.La.Guerra.Alle.Porte.Ita.Eng.BDMux.H264.SD.by.Fratposa.REPACK
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2086.mkv
-#EXTINF:0,Game.Of.Thrones.S01e09.La.Confessione.Ita.Eng.BDMux.H264.SD.x264.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2087.mkv
-#EXTINF:0,Game.Of.Thrones.S01e10.Fuoco.E.Sangue.Ita.Eng.BDMux.H264.SD.x264.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2088.mkv
-#EXTINF:0,Game.Of.Thrones.S02e01.The.North.Rimembers.Il.Nord.Non.Dimentica.Ita.Eng.BDMux.H264.SD.by.Fratposa1
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2089.mkv
-#EXTINF:0,Game.Of.Thrones.S02e02.The.Night.Lands.Oltre.la.Barriera.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2090.mkv
-#EXTINF:0,Game.Of.Thrones.S02e03.What.Is.Dead.May.Never.Die.CiÚ.che.Ë.morto.non.muoia.mai.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2091.mkv
-#EXTINF:0,Game.Of.Thrones.S02e04.Garden.of.Bones.Il.Giardino.di.Ossa.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2092.mkv
-#EXTINF:0,Game.Of.Thrones.S02e05.The.Ghost.of.Harrenhal.Il.fantasma.della.fortezza.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2093.mkv
-#EXTINF:0,Game.Of.Thrones.S02e06.The.Old.Gods.and.the.New.Vecchi.e.nuovi.dei.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2094.mkv
-#EXTINF:0,Game.Of.Thrones.S02e07.A.Man.Without.Honor.Un.uomo.senza.onore.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2095.mkv
-#EXTINF:0,Game.Of.Thrones.S02e08.The.Prince.of.Winterfell.Il.principe.di.Grande.Inverno.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2096.mkv
-#EXTINF:0,Game.Of.Thrones.S02e09.Blackwater.L.assedio.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2097.mkv
-#EXTINF:0,Game.Of.Thrones.S02e10.Valar.Morghulis.Chiunque.puÚ.essere.ucciso.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2098.mkv
-#EXTINF:0,Game.Of.Thrones.S03e01.Valar.Dohaeris.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2099.mkv
-#EXTINF:0,Game.Of.Thrones.S03e02.Dark.Wings.Dark.Words.Ali.oscure.oscure.parole.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2100.mkv
-#EXTINF:0,Game.Of.Thrones.S03e03.Walk.of.Punishment.Il.cammino.del.supplizio.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2101.mkv
-#EXTINF:0,Game.Of.Thrones.S03e04.And.Now.His.Watch.Is.Ended.E.ora.la.sua.guardia.si.Ë.conclusa.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2102.mkv
-#EXTINF:0,Game.Of.Thrones.S03e05.Kissed.by.Fire.Baciata.dal.fuoco.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2103.mkv
-#EXTINF:0,Game.Of.Thrones.S03e06.The.Climb.La.scalata.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2104.mkv
-#EXTINF:0,Game.Of.Thrones.S03e07.The.Bear.and.the.Maiden.Fair.L.orso.e.la.fanciulla.bionda.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2105.mkv
-#EXTINF:0,Game.Of.Thrones.S03e08.Second.Sons.I.Secondi.Figli.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2106.mkv
-#EXTINF:0,Game.Of.Thrones.S03e09.The.Rains.of.Castamere.Le.piogge.di.Castamere.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2107.mkv
-#EXTINF:0,Game.Of.Thrones.S03e10.Mhysa.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2108.mkv
-#EXTINF:0,Game.Of.Thrones.S04e01.Two.Swords.Le.due.spade.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2109.mkv
-#EXTINF:0,Game.Of.Thrones.S04e02.The.Lion.and.the.Rose.Il.leone.e.la.rosa.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2110.mkv
-#EXTINF:0,Game.Of.Thrones.S04e03.Breaker.of.Chains.La.fuga.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2111.mkv
-#EXTINF:0,Game.Of.Thrones.S04e04.Oathkeeper.In.Cerca.Di.Un.Colpevole.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2112.mkv
-#EXTINF:0,Game.Of.Thrones.S04e05.First.Of.His.Name.L.ultima.Notte.Dei.Ribelli.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2113.mkv
-#EXTINF:0,Game.Of.Thrones.S04e06.The.Laws.Of.Gods.And.Men.Le.Leggi.Degli.Dei.E.Degli.Uomini.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2114.mkv
-#EXTINF:0,Game.Of.Thrones.S04e07.Mockingbird.Il.Campione.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2115.mkv
-#EXTINF:0,Game.Of.Thrones.S04e08.The.Mountain.And.The.Viper.La.Vipera.E.La.Montagna.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2116.mkv
-#EXTINF:0,Game.Of.Thrones.S04e09.The.Watchers.On.The.Wall.Il.Coraggio.Di.Pochi.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2117.mkv
-#EXTINF:0,Game.Of.Thrones.S04e10.The.Children.I.Figli.Della.Foresta.Ita.Eng.BDMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2118.mkv
-#EXTINF:0,Game.Of.Thrones.S05e01.The.Wars.to.Come.Guerre.imminenti.Ita.Eng.DLMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2119.mkv
-#EXTINF:0,Game.Of.Thrones.S05e02.The.House.of.Black.and.White.Il.nuovo.comandante.Ita.Eng.HDTVMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2120.mkv
-#EXTINF:0,Game.Of.Thrones.S05e03.High.Sparrow.L.Alto.Passero.Ita.Eng.DLMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2121.mkv
-#EXTINF:0,Game.Of.Thrones.S05e04.The.Sons.of.the.Harpy.I.Figli.dell.Arpia.Ita.Eng.DLMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2122.mkv
-#EXTINF:0,Game.Of.Thrones.S05e05.Kill.the.Boy.Uccidi.il.ragazzo.Ita.Eng.DLMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2123.mkv
-#EXTINF:0,Game.Of.Thrones.S05e06.Unbowed.Unbent.Unbroken.Le.Serpi.delle.Sabbie.Ita.Eng.DLMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2124.mkv
-#EXTINF:0,Game.Of.Thrones.S05e07.The.Gift.Il.dono.Ita.Eng.DLMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2125.mkv
-#EXTINF:0,Game.Of.Thrones.S05e08.Hardhome.Aspra.Dimora.Ita.Eng.DLMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2126.mkv
-#EXTINF:0,Game.Of.Thrones.S05e09.The.Dance.of.Dragons.La.Danza.dei.Draghi.Ita.Eng.DLMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2127.mkv
-#EXTINF:0,Game.Of.Thrones.S05e10.Mother.s.Mercy.Madre.misericordiosa.Ita.Eng.DLMux.H264.SD.by.Fratposa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2128.mkv
-#EXTINF:0,Star-Crossed -01- Pilot [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2129.mkv
-#EXTINF:0,Star-Crossed -02- These Violent Delighm3u8 Have Violent Ends [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2130.mkv
-#EXTINF:0,Star-Crossed -03- Our Toil Shall Strive to Mend [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2131.mkv
-#EXTINF:0,Star-Crossed -04- And Left No Friendly Drop [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2132.mkv
-#EXTINF:0,Star-Crossed -05- Dreamers Often Lie [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2133.mkv
-#EXTINF:0,Star-Crossed -06- Stabbed with a White Wench's Black Eye [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2134.mkv
-#EXTINF:0,Star-Crossed -07- To Seek a Foe [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2135.mkv
-#EXTINF:0,Star-Crossed -08- An Old Accustom'd Feast [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2136.mkv
-#EXTINF:0,Star-Crossed -09- Some Consequence Yet Hanging in the Stars [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2137.mkv
-#EXTINF:0,Star-Crossed -10- What Storm is This That Blows So [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2138.mkv
-#EXTINF:0,Star-Crossed -11- Give Me a Torch [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2139.mkv
-#EXTINF:0,Star-Crossed -12- This Trick May Chance to Scathe You [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2140.mkv
-#EXTINF:0,Star-Crossed -13- Passion Lends Them Power [WebDLMux720p Ita-Eng]
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2141.mkv
-#EXTINF:0,Wilfred.US.4x01.Premonizioni.ITA.ENG.720p.WEB-DLMux.H.264-GiuseppeTnT
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2233.mkv
-#EXTINF:0,Wilfred.US.4x02.Conseguenze.ITA.ENG.720p.WEB-DLMux.H.264-GiuseppeTnT
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2234.mkv
-#EXTINF:0,Wilfred.US.4x03.Lealta.ITA.ENG.720p.WEB-DLMux.H.264-GiuseppeTnT
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2235.mkv
-#EXTINF:0,Wilfred.US.4x04.L.Esperimento.ITA.ENG.720p.WEB-DLMux.H.264-GiuseppeTnT
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2236.mkv
-#EXTINF:0,Wilfred.US.4x05.Avanti.ITA.ENG.720p.WEB-DLMux.H.264-GiuseppeTnT
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2237.mkv
-#EXTINF:0,Wilfred.US.4x06.Niente.Piu.Giochetti.ITA.ENG.720p.WEB-DLMux.H.264-GiuseppeTnT
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2238.mkv
-#EXTINF:0,Wilfred.US.4x07.Il.Cane.A.Tre.Zampe.ITA.ENG.720p.WEB-DLMux.H.264-GiuseppeTnT
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2239.mkv
-#EXTINF:0,Wilfred.US.4x08.Coraggio.ITA.ENG.720p.WEB-DLMux.H.264-GiuseppeTnT
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2240.mkv
-#EXTINF:0,Wilfred.US.4x09.Resistenza.ITA.ENG.720p.WEB-DLMux.H.264-GiuseppeTnT
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2241.mkv
-#EXTINF:0,Wilfred.US.4x10.La.Verita.ITA.ENG.720p.WEB-DLMux.H.264-GiuseppeTnT
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2242.mkv
-#EXTINF:0,666_Park_Avenue_1x01_Il_dragone
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2256.mkv
-#EXTINF:0,666_Park_Avenue_1x02_Gli_uccelli
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2257.mkv
-#EXTINF:0,666_Park_Avenue_1x03_I_morti_non_restano_morti
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2258.mkv
-#EXTINF:0,666_Park_Avenue_1x04_L_eroe
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2259.mkv
-#EXTINF:0,666_Park_Avenue_1x05_La_notte_dei_demoni
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2260.mkv
-#EXTINF:0,666_Park_Avenue_1x06_Legami_di_sangue
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2261.mkv
-#EXTINF:0,666_Park_Avenue_1x07_Spirale_discendente
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2262.mkv
-#EXTINF:0,666_Park_Avenue_1x08_Rivelazioni_pericolose
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2263.mkv
-#EXTINF:0,666_Park_Avenue_1x09_Ipnosi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2264.mkv
-#EXTINF:0,666_Park_Avenue_1x10_Il_conforto_della_morte
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2265.mkv
-#EXTINF:0,666_Park_Avenue_1x11_I_peccati_dei_padri
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2266.mkv
-#EXTINF:0,666_Park_Avenue_1x12_I_campi_elisi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2267.mkv
-#EXTINF:0,666_Park_Avenue_1x13_Lazzaro
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2268.mkv
-#EXTINF:0,Gomorra_01x01_Il_clan_dei_Savastano
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2269.mkv
-#EXTINF:0,Gomorra_01x02_Ti_fidi_di_me
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2270.mkv
-#EXTINF:0,Gomorra_01x03_L__omm_e_casa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2271.mkv
-#EXTINF:0,Gomorra_01x04_Sangue_africano
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2272.mkv
-#EXTINF:0,Gomorra_01x05_Il_ruggito_della_leonessa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2273.mkv
-#EXTINF:0,Gomorra_01x06_Roulette_spagnola
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2274.mkv
-#EXTINF:0,Gomorra_01x07_Imma_contro_tutti
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2275.mkv
-#EXTINF:0,Gomorra_01x08_La_scheda_bianca
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2276.mkv
-#EXTINF:0,Gomorra_01x09_Gelsomina_verde
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2277.mkv
-#EXTINF:0,Gomorra_01x10_Ora_facciamo_i_Conte
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2278.mkv
-#EXTINF:0,Gomorra_01x11_100_modi_per_uccidere
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2279.mkv
-#EXTINF:0,Gomorra_01x12_Gli_Immortali
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2280.mkv
-#EXTINF:0,Hannibal_01x01_Aperitivo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2281.mkv
-#EXTINF:0,Hannibal_01x02_Assaggino
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2282.mkv
-#EXTINF:0,Hannibal_01x03_Vellutata
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2283.mkv
-#EXTINF:0,Hannibal_01x04_Uova
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2284.mkv
-#EXTINF:0,Hannibal_01x05_Frutti_di_mare
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2285.mkv
-#EXTINF:0,Hannibal_01x06_Antipasto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2286.mkv
-#EXTINF:0,Hannibal_01x07_Sorbetto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2287.mkv
-#EXTINF:0,Hannibal_01x08_Formaggio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2288.mkv
-#EXTINF:0,Hannibal_01x09_Calvados
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2289.mkv
-#EXTINF:0,Hannibal_01x10_Buffet_freddo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2290.mkv
-#EXTINF:0,Hannibal_01x11_Arrosto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2291.mkv
-#EXTINF:0,Hannibal_01x12_Piccante
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2292.mkv
-#EXTINF:0,Hannibal_01x13_Saporito
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2293.mkv
-#EXTINF:0,Once_Upon_A_Time_In_Wonderland_1x01_Nella_Tana_Del_Coniglio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2294.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x02_Fidati_Di_Me
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2295.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x03_Non_Ti_Scordar_Di_Me
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2296.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x04_Il_Serpente
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2297.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x05_Cuore_Di_Pietra
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2298.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x06_Chi_E_Alice
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2299.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x07_Sangue_Cattivo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2300.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x08_Casa
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2301.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x09_Niente_Di_Cui_Aver_Paura
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2302.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x10_Piccoli_Sporchi_Segreti
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2303.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x11_Il_Nocciolo_Della_Questione
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2304.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x12_Per_Prendere_Un_Ladro
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2305.mkv
-#EXTINF:0,Once_Upon_a_Time_in_Wonderland_1x13_E_vissero
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2306.mkv
-#EXTINF:0,The_Flash_1x01_Una_citt‡_di_eroi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2307.mkv
-#EXTINF:0,The_Flash_1x02_L_uomo_pi˘_veloce_del_mondo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2308.mkv
-#EXTINF:0,The_Flash_1x03_The_Mist
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2309.mkv
-#EXTINF:0,The_Flash_1x04_Capitan_Cold
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2310.mkv
-#EXTINF:0,The_Flash_1x05_Plastique
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2311.mkv
-#EXTINF:0,The_Flash_1x06_Girder
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2312.mkv
-#EXTINF:0,The_Flash_1x07_Blackout
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2313.mkv
-#EXTINF:0,The_Flash_1x08_Flash_vs._Arrow
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2314.mkv
-#EXTINF:0,The_Flash_1x09_Firestorm
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2315.mkv
-#EXTINF:0,The_Flash_1x10_Heat_Wave
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2316.mkv
-#EXTINF:0,The_Flash_1x11_Il_pifferaio
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2317.mkv
-#EXTINF:0,The_Flash_1x12_Peek-a-Boo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2318.mkv
-#EXTINF:0,The_Flash_1x13_L_uomo_nucleare
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2319.mkv
-#EXTINF:0,The_Flash_1x14_Gorilla_Grodd
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2320.mkv
-#EXTINF:0,The_Flash_1x15_Il_mago_del_tempo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2321.mkv
-#EXTINF:0,The_Flash_1x16_Lisa_Snart
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2322.mkv
-#EXTINF:0,The_Flash_1x17_Trickster
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2323.mkv
-#EXTINF:0,The_Flash_1x18_Bug-Eyed_Bandit
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2324.mkv
-#EXTINF:0,The_Flash_1x19_Everyman
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2325.mkv
-#EXTINF:0,The_Flash_1x20_Everyman
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2326.mkv
-#EXTINF:0,The_Flash_1x21_Grodd_vive
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2327.mkv
-#EXTINF:0,The_Flash_1x22_I_nemici
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2328.mkv
-#EXTINF:0,The_Flash_1x23_Wormhole
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2329.mkv
-#EXTINF:0,The_Walking_Dead_1x01_I_Giorni_Andati
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2330.mkv
-#EXTINF:0,The_Walking_Dead_1x02_Una_Via_D_Uscita
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2331.mkv
-#EXTINF:0,The_Walking_Dead_1x03_Bentornato_Pap‡
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2332.mkv
-#EXTINF:0,The_Walking_Dead_1x04_Vatos
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2333.mkv
-#EXTINF:0,The_Walking_Dead_1x05_Esperimenti
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2334.mkv
-#EXTINF:0,The_Walking_Dead_1x06_m3u8_19
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2335.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 01 - Pilot
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2355.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 02 - Errors and Omissions - Errori ed Omissioni
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2356.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 03 - Inside Track - Corsia Interna
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2357.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 04 - Dirty Little Secrem3u8 - Loschi Piccoli Segreti
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2358.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 05 - Bail Out - Libert‡ Su Cauzione
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2359.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 06 - Tricks of the Trade - I Trucchi Del Mestiere
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2360.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 07 - Play The Man - Concentrati Sull'uomo
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2361.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 08 - Identity Crisis - Crisi d'identit‡
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2362.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 09 - Undefeated - Imbattuto
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2363.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 10 - The Shelf Life - Una Vita In Scatola
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2364.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 11 - Rules of the Game - Le Regole Del Gioco
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2365.mkv
-#EXTINF:0,Suim3u8 - Stg.01 Ep 12 - Dog Fight - Il Duello
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2366.mkv
-#EXTINF:0,Saving.Grace.1x01.Un.incontro.speciale.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2372.mkv
-#EXTINF:0,Saving.Grace.1x02.Triangolo.d.amore.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2373.mkv
-#EXTINF:0,Saving.Grace.1x03.Questione.di.fede.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2374.mkv
-#EXTINF:0,Saving.Grace.1x04.Mio.nipote.non.si.tocca.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2375.mkv
-#EXTINF:0,Saving.Grace.1x05.Un.segreto.che.non.vorrai.sapere.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2376.mkv
-#EXTINF:0,Saving.Grace.1x06.Il.prezzo.della.verita.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2377.mkv
-#EXTINF:0,Saving.Grace.1x07.La.piuma.di.gufo.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2378.mkv
-#EXTINF:0,Saving.Grace.1x08.Ogni.cosa.ha.la.sua.durata.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2379.mkv
-#EXTINF:0,Saving.Grace.1x09.Un.linguaggio.degli.angeli.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2380.mkv
-#EXTINF:0,Saving.Grace.1x10.Vittime.innocenti.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2381.mkv
-#EXTINF:0,Saving.Grace.1x11.Strane.rapine.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2382.mkv
-#EXTINF:0,Saving.Grace.1x12.La.verita.non.si.compra.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2383.mkv
-#EXTINF:0,Saving.Grace.1x13.Riunione.di.famiglia.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2384.mkv
-#EXTINF:0,Saving.Grace.2x01.Siediti.Earl.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2385.mkv
-#EXTINF:0,Saving.Grace.2x02.Un.sopravvissuto.vive.qui.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2386.mkv
-#EXTINF:0,Saving.Grace.2x03.L.amore.in.un.paesino.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2387.mkv
-#EXTINF:0,Saving.Grace.2x04.Un.amore.fiero.caldo.potente.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2388.mkv
-#EXTINF:0,Saving.Grace.2x05.Tu.lo.ami.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2389.mkv
-#EXTINF:0,Saving.Grace.2x06.Sei.una.principessa.indiana.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2390.mkv
-#EXTINF:0,Saving.Grace.2x07.Sei.il.mio.partner.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2391.mkv
-#EXTINF:0,Saving.Grace.2x08.Il.cuore.di.un.poliziotto.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2392.mkv
-#EXTINF:0,Saving.Grace.2x09.Credi.in.una.seconda.occasione.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2393.mkv
-#EXTINF:0,Saving.Grace.2x10.Portami.da.qualche.parte.Earl.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2394.mkv
-#EXTINF:0,Saving.Grace.2x11.I.sette.chakra.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2395.mkv
-#EXTINF:0,Saving.Grace.2x12.Una.rosa.per.ricordare.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2396.mkv
-#EXTINF:0,Saving.Grace.2x13.L.abito.verde.della.damigella.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2397.mkv
-#EXTINF:0,Saving.Grace.2x14.Io.credo.negli.angeli.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2398.mkv
-#EXTINF:0,Saving.Grace.3x01.La.ragazza.senza.nome.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2399.mkv
-#EXTINF:0,Saving.Grace.3x02.E.un.vegetale.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2400.mkv
-#EXTINF:0,Saving.Grace.3x03.La.capsula.del.tempo.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2401.mkv
-#EXTINF:0,Saving.Grace.3x04.Tra.due.angeli.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2402.mkv
-#EXTINF:0,Saving.Grace.3x05.Preghiere.del.mondo.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2403.mkv
-#EXTINF:0,Saving.Grace.3x06.Lo.sto.perdendo.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2404.mkv
-#EXTINF:0,Saving.Grace.3x07.Quello.non.era.il.primo.bacio.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2405.mkv
-#EXTINF:0,Saving.Grace.3x08.Popcorn.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2406.mkv
-#EXTINF:0,Saving.Grace.3x09.Era.uno.di.noi.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2407.mkv
-#EXTINF:0,Saving.Grace.3x10.Moriro.oggi.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2408.mkv
-#EXTINF:0,Saving.Grace.3x11.Parliamo.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2409.mkv
-#EXTINF:0,Saving.Grace.3x12.Senti.gli.uccelli.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2410.mkv
-#EXTINF:0,Saving.Grace.3x13.Puoi.salvarli.tutti.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2411.mkv
-#EXTINF:0,Saving.Grace.3x14.Ho.ucciso.io.Kristin.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2412.mkv
-#EXTINF:0,Saving.Grace.3x15.Che.Dio.lo.aiuti.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2413.mkv
-#EXTINF:0,Saving.Grace.3x16.Uomini.facili.in.jeans.attillati.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2414.mkv
-#EXTINF:0,Saving.Grace.3x17.Credi.che.mi.mettero.la.pistola.in.bocca.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2415.mkv
-#EXTINF:0,Saving.Grace.3x18.Ho.bisogno.che.chiami.Earl.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2416.mkv
-#EXTINF:0,Saving.Grace.3x19.Mi.servira.una.luce.grande.per.la.notte.DVDMux.ITA
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2417.mkv
-#EXTINF:0,True Detective Season 2 Ep. 01 Il Libro Dei Morti D'Occidente
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2461.mkv
-#EXTINF:0,True Detective Season 2 Ep. 02 Quando scende la notte
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2462.mkv
-#EXTINF:0,True Detective Season 2 Ep. 03 Forse domani
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2463.mkv
-#EXTINF:0,True Detective Season 2 Ep. 04 La fine Ë vicina
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2464.mkv
-#EXTINF:0,True Detective Season 2 Ep. 05 Altre vite
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2465.mkv
-#EXTINF:0,True Detective Season 2 Ep. 06 Festa privata
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2466.mkv
-#EXTINF:0,True Detective Season 2 Ep. 07 Il cerchio si chiude
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2467.mkv
-#EXTINF:0,True Detective Season 2 Ep. 08 Stazione Omega
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2468.mkv
-#EXTINF:0,Big.Time.in.Hollywood.FL.1x01.Severance.ITA.DLMux.x264-UBi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2637.mkv
-#EXTINF:0,Big.Time.in.Hollywood.FL.1x02.Intervention.ITA.DLMux.x264-UBi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2638.mkv
-#EXTINF:0,Big.Time.in.Hollywood.FL.1x03.Rehabilitation.ITA.DLMux.x264-UBi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2639.mkv
-#EXTINF:0,Big.Time.in.Hollywood.FL.1x04.To.Catch.A.Paparazzi.ITA.DLMux.x264-UBi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2640.mkv
-#EXTINF:0,Big.Time.in.Hollywood.FL.1x05.A.Night.In.ITA.DLMux.x264-UBi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2641.mkv
-#EXTINF:0,Big.Time.in.Hollywood.FL.1x06.Separate.But.Equal.ITA.DLMux.x264-UBi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2642.mkv
-#EXTINF:0,Big.Time.in.Hollywood.FL.1x07.What.Dreams.May.Come.ITA.DLMux.x264-UBi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2643.mkv
-#EXTINF:0,Big.Time.in.Hollywood.FL.1x08.Monkey.Largo.ITA.DLMux.x264-UBi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2644.mkv
-#EXTINF:0,Big.Time.in.Hollywood.FL.1x09.The.Hand.That.Feeds.ITA.DLMux.x264-UBi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2645.mkv
-#EXTINF:0,Big.Time.in.Hollywood.FL.1x10.Art.Imitates.Death.ITA.DLMux.x264-UBi
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2646.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x01.Un.Nuovo.Eroe.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2647.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x02.0-8-4.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2648.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x03.La.Risorsa.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2649.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x04.A.Occhi.Chiusi.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2650.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x05.La.Ragazza.Con.Il.Vestito.A.Fiori.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2651.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x06.F.Z.Z.T.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2652.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x07.L.Hub.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2653.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x08.Il.Pozzo.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2654.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x09.Lavori.In.Corso.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2655.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x10.Il.Ponte.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2656.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x11.Un.Posto.Magico.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2657.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x12.Origini.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2658.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x13.Il.Treno.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2659.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x14.T.A.H.I.T.I..ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2660.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x15.Lorelei.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2661.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x16.La.Fine.Del.Principio.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2662.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x17.E.Gira.Gira.Gira.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2663.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x18.Provvidenza.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2664.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x19.L.Unica.Luce.Nell.Oscurita.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2665.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x20.Niente.Di.Personale.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2666.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x21.Gentaglia.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2667.mkv
-#EXTINF:0,Marvel.s.Agenm3u8.Of.S.H.I.E.L.D.1x22.Il.Principio.Della.Fine.ITA.ENG.DLMux.XviD-Pir8
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2668.mkv
-#EXTINF:0,Person.Of.Interest.S01.EXTRA.Living.In.Age.Of.Surveillance.720p.BluRay.AC3.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2669.mkv
-#EXTINF:0,Person.Of.Interest.S01E01.La.Macchina.Della.Conoscenza.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2670.mkv
-#EXTINF:0,Person.Of.Interest.S01E01.Pilot.EXTENDED.720p.BluRay.AC3.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2671.mkv
-#EXTINF:0,Person.Of.Interest.S01E02.Una.Voce.Dal.Passato.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2672.mkv
-#EXTINF:0,Person.Of.Interest.S01E03.Il.Reduce.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2673.mkv
-#EXTINF:0,Person.Of.Interest.S01E04.Cura.Te.Ipsum.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2674.mkv
-#EXTINF:0,Person.Of.Interest.S01E05.Il.Giudizio.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2675.mkv
-#EXTINF:0,Person.Of.Interest.S01E06.Corruzione.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2676.mkv
-#EXTINF:0,Person.Of.Interest.S01E07.Il.Testimone.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2677.mkv
-#EXTINF:0,Person.Of.Interest.S01E08.Oltre.Il.Muro.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2678.mkv
-#EXTINF:0,Person.Of.Interest.S01E09.Gli.Occhi.Su.Carter.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2679.mkv
-#EXTINF:0,Person.Of.Interest.S01E10.Quattro.Numeri.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2680.mkv
-#EXTINF:0,Person.Of.Interest.S01E11.Super.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2681.mkv
-#EXTINF:0,Person.Of.Interest.S01E12.Il.Passato.Alle.Porte.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2682.mkv
-#EXTINF:0,Person.Of.Interest.S01E13.Il.Sistema.Violato.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2683.mkv
-#EXTINF:0,Person.Of.Interest.S01E14.Il.Lupo.E.L.Angelo.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2684.mkv
-#EXTINF:0,Person.Of.Interest.S01E15.Il.Codice.Blu.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2685.mkv
-#EXTINF:0,Person.Of.Interest.S01E16.Rischio.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2686.mkv
-#EXTINF:0,Person.Of.Interest.S01E17.La.Piccola.Leila.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2687.mkv
-#EXTINF:0,Person.Of.Interest.S01E18.Crisi.D.Identita.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2688.mkv
-#EXTINF:0,Person.Of.Interest.S01E19.I.Capifamiglia.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2689.mkv
-#EXTINF:0,Person.Of.Interest.S01E20.La.Legge.Del.Piu.Forte.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2690.mkv
-#EXTINF:0,Person.Of.Interest.S01E21.Il.Rischio.Dei.Ricordi.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2691.mkv
-#EXTINF:0,Person.Of.Interest.S01E22.Niente.Buone.Azioni.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2692.mkv
-#EXTINF:0,Person.Of.Interest.S01E23.Apoteosi.Finale.720p.BluRay.AC3.ITA.ENG.Subs.x264-EXiT_TbZ
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2693.mkv
-#EXTINF:0,The Crazy Ones 1x01 - Pilot (La Star) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2694.mkv
-#EXTINF:0,The Crazy Ones 1x02 - The Spectacular (Genio Al Lavoro) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2695.mkv
-#EXTINF:0,The Crazy Ones 1x03 - Bad Dad (Lezioni Di Guida) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2696.mkv
-#EXTINF:0,The Crazy Ones 1x04 - Breakfast Burrito Club (La Vacanza) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2697.mkv
-#EXTINF:0,The Crazy Ones 1x05 - She's So European (Amante Per Tutti) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2698.mkv
-#EXTINF:0,The Crazy Ones 1x06 - Hugging The Now (Truffa Al Bacio) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2699.mkv
-#EXTINF:0, Australia (La Musa) web-dlmux ITA-ENG" tvg-logo="" group-title="Serie TV",The Crazy Ones 1x07 - Sydney, Australia (La Musa) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2700.mkv
-#EXTINF:0,The Crazy Ones 1x08 - The Stan Wood Account (Chi Ë Stan Wood) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2701.mkv
-#EXTINF:0,The Crazy Ones 1x09 - Sixteen-Inch Softball (Il Suo Nome Ë Leggenda) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2702.mkv
-#EXTINF:0,The Crazy Ones 1x10 - Models Love Magic (Presi Di Petto) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2703.mkv
-#EXTINF:0,The Crazy Ones 1x11 - The Intern (La Stagista) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2704.mkv
-#EXTINF:0,The Crazy Ones 1x12 - The Face Of A Winner (L'importante Ë Vincere) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2705.mkv
-#EXTINF:0,The Crazy Ones 1x13 - Outbreak (Il Contagio) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2706.mkv
-#EXTINF:0,The Crazy Ones 1x14 - Simon Roberm3u8 Was Here (Simon Roberm3u8 Ë Stato QuÏ) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2707.mkv
-#EXTINF:0,The Crazy Ones 1x15 - Dead And Improved (Meglio Da Morto) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2708.mkv
-#EXTINF:0,The Crazy Ones 1x16 - Zach Mitzvah (Zach Mitzvah) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2709.mkv
-#EXTINF:0,The Crazy Ones 1x17 - Heavy Meddling (Pesanti Ingerenze) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2710.mkv
-#EXTINF:0,The Crazy Ones 1x18 - March Madness (Le Sorelle Keaneally) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2711.mkv
-#EXTINF:0,The Crazy Ones 1x19 - Danny Chase Hates Brad Paisley (Danny Odia Brad) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2712.mkv
-#EXTINF:0,The Crazy Ones 1x20 - Love Sucks (L'amore Esiste) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2713.mkv
-#EXTINF:0,The Crazy Ones 1x21 - The Monster (Il Mostro) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2714.mkv
-#EXTINF:0,The Crazy Ones 1x22 - The Lighthouse (Il Faro) web-dlmux ITA-ENG
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2715.mkv
-#EXTINF:0,Z Nation S01x01.Missione California.ita.eng.Ac3.sub.ita.eng.MIRCrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2716.mkv
-#EXTINF:0,Z Nation S01x02.Dannati Zombie.ita.eng.Ac3.sub.ita.eng.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2717.mkv
-#EXTINF:0,Z Nation S01x03.Bancetto a Foladelfia.ita.eng.Ac3.sub.ita.eng.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2718.mkv
-#EXTINF:0,Z Nation S01x04.Full Metal Zombie.ita.eng.Ac3.sub.ita.eng.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2719.mkv
-#EXTINF:0,Z Nation S01x05.Home Sweet Zombie.ita.eng.Ac3.sub.ita.eng.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2720.mkv
-#EXTINF:0,Z Nation S01x06.Resurrezione Zombie.ita.eng.Ac3.sub.ita.eng.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2721.mkv
-#EXTINF:0,Z Nation S01x07.Tiro Al Bersaglio.ita.eng.Ac3.sub.ita.eng.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2722.mkv
-#EXTINF:0,Z Nation S01x08.m3u8unami Zombie.ita.eng.Ac3.sub.ita.eng.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2723.mkv
-#EXTINF:0,Z Nation S01x09.Sogno Nel Sogno.ita.eng.Ac3.sub.ita.eng.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2724.mkv
-#EXTINF:0,Z Nation S01x10.Opzione Nucleare.ita.eng.Ac3.sub.ita.eng.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2725.mkv
-#EXTINF:0,Z Nation S01x12.La lLegge Di Murphy.ita.eng.Ac3.sub.ita.eng.MIRcrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2726.mkv
-#EXTINF:0,Z Nation S01x13.Il Dottor Morte.ita.eng.Ac3.sub.ita.eng.MIRCrew
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2727.mkv
-#EXTINF:0,--- ON DEMAND BY VIRUS ---
-http://iptvservice.broke-it.net:8000/live/toninogrande/tonygrande/1940.m3u8
-#EXTINF:0,Johnny Stecchino
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1941.mkv
-#EXTINF:0,American Pie
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1939.mkv
-#EXTINF:0,American Pie 2
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1946.mkv
-#EXTINF:0,Full Metal Jacket
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1942.mkv
-#EXTINF:0,22 MINUTES
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1991.mkv
-#EXTINF:0,A FIELD IN ENGLAND
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1979.mkv
-#EXTINF:0,AGE OF TOMORROW
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1990.mkv
-#EXTINF:0,TERMINATOR GENISYS
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1989.mkv
-#EXTINF:0,Ace Ventura
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1943.mkv
-#EXTINF:0,Ace Ventura  L'acchiappanimali
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1944.mkv
-#EXTINF:0,Backcountry
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1969.mkv
-#EXTINF:0,Banshee Chapter
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1971.mkv
-#EXTINF:0,King Kong
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/2349.mkv
-#EXTINF:0,BLACK CHRISTMAS
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1977.mkv
-#EXTINF:0,IL MISTERO DI SLEEPY HOLLOW
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1976.mkv
-#EXTINF:0,Insidious 3
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1974.mkv
-#EXTINF:0,Jessabelle
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1967.mkv
-#EXTINF:0,Kristy
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1968.mkv
-#EXTINF:0,Unifriended
-http://iptvservice.broke-it.net:8000/movie/toninogrande/tonygrande/1966.mkv
-http://tinyurl.com/pzzwr3e
-http://tinyurl.com/ndqs8qd
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/67.ts
+
+#EXTINF:-1,Words And Pictures (2014).ita.eng.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/391.mkv
+#EXTINF:-1,Whiplash.2014.iTALiAN.BRRip.XviD.BLUWORLD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/390.mkv
+#EXTINF:-1,Unbroken.2014.iTALiAN.AC3.BDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/389.mkv
+#EXTINF:-1,Un.Piccione.Seduto.Su.Un.Ramo.Riflette.Sull.Esistenza.2014.iTA.AC3.DVDRip.XviD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/627.mkv
+#EXTINF:-1,Un.Natale.Stupefacente.2014.iTALiAN.AC3.DVDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/387.mkv
+#EXTINF:-1,Un.Gatto.A.Parigi.2010.iTA-FRE.Sub.iTA-ENG.BluRay.720p.x264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/386.mkv
+#EXTINF:-1,Un.amico.molto.speciale.2014.iTALiAN.AC3.DVDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/388.mkv
+#EXTINF:-1,Tre Cuori (2014).ita.fre.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/385.mkv
+#EXTINF:-1,Torneranno.I.Prati.2014.iTALiAN.AC3.DVDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/384.mkv
+#EXTINF:-1,The.Water.Diviner.2014.iTALiAN.BDRip.AC3.XviD-RDF[MT]
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/626.mkv
+#EXTINF:-1,The.Search.2014.iTA.AC3.BDRip.H264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/625.mkv
+#EXTINF:-1,The.Rover.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/383.mkv
+#EXTINF:-1,The.Gambler.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/382.mkv
+#EXTINF:-1,The.Equalizer-Il.Vendicatore.2014.iTALiAN.AC3.5.1.Dual.1080p.BluRay.x264-TeaM
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/624.mkv
+#EXTINF:-1,Taken.3.L.Ora.Della.Verita.2014.EXTENDED.iTALiAN.AC3.BDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/381.mkv
+#EXTINF:-1,Suite.Francese.2015.iTALiAN.AC3.DVDRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/623.mkv
+#EXTINF:-1,Storie.Pazzesche.2014.iTALiAN.DVDRip.XviD-TRL[MT]
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/380.mkv
+#EXTINF:-1,SpongeBob.Fuori.Dall.Acqua.2015.iTA-ENG.BluRay.720p.x264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/379.mkv
+#EXTINF:-1,Si.Accettano.Miracoli.2015.iTA.AC3.DVDRip.H264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/378.mkv
+#EXTINF:-1,Shaun Vita Da Pecora (2015).ita.eng.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/622.mkv
+#EXTINF:-1,Selma.La.Strada.Per.La.Liberta.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/621.mkv
+#EXTINF:-1,Sei.Mai.Stata.Sulla.Luna.2015.iTALiAN.BRRip.XviD.BLUWORLD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/377.mkv
+#EXTINF:-1,Scusate.Se.Esisto.2014.iTALiAN.BRRip.XviD.BLUWORLD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/376.mkv
+#EXTINF:-1,ScrivimiAncora.2014.iTALiAN.AC3.BDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/375.mkv
+#EXTINF:-1,Scemo.E.Piu.Scemo.2.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/374.mkv
+#EXTINF:-1,Romeo & Juliet (2013).ita.eng.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/620.mkv
+#EXTINF:-1,Ritual.Una.Storia.Psicomagica.2013.iTALiAN.AC3.DVDRip.XviD-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/373.mkv
+#EXTINF:-1,Ritorno.A.L.Avana.2014.iTALiAN.AC3.DVDRip.XviD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/372.mkv
+#EXTINF:-1,Rio.2096.Una.Storia.Di.Amore.E.Furia.2013.iTALiAN.LD.BDRip.XviD-FREE
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/371.mkv
+#EXTINF:-1,Piccole.Crepe.Grossi.Guai.2014.ITALiAN.AC3.DVDRip.XviD-TTN
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/370.mkv
+#EXTINF:-1,Paddington (2014).ita.eng.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/369.mkv
+#EXTINF:-1,Ouija.2014.iTA-ENG.Bluray.720p.x264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/368.mkv
+#EXTINF:-1,Ooops Ho Perso L 'Arca - Ooops! Noah is Gone.. (2015).ita.eng.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/619.mkv
+#EXTINF:-1,Ogni.Maledetto.Natale.2014.iTALiAN.AC3.WEB-DLRip.XviD-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/367.mkv
+#EXTINF:-1,Notte.Al.Museo.3.Il.Segreto.Del.Faraone.2014.iTALiAN.BDRip.XviD-TRL
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/366.mkv
+#EXTINF:-1,Non.Sposate.Le.Mie.Figlie.2014.iTALiAN.BRRip.XviD.BLUWORLD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/618.mkv
+#EXTINF:-1,Non ce 2 Senza Te (2015).ita.sub.ita
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/617.mkv
+#EXTINF:-1,Noi.E.la.Giulia.2015.iTA.AC3.WebDL.H264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/365.mkv
+#EXTINF:-1,My.Old.Lady.2014.iTALiAN.AC3.BDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/364.mkv
+#EXTINF:-1,Mortdecai (2015).ita.eng.sub.ita.eng.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/616.mkv
+#EXTINF:-1,Minuscule.La.Valle.Delle.Formiche.Perdute.2014.iTALiAN.AC3.BDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/363.mkv
+#EXTINF:-1,Maicol.Jecson.2014.iTALiAN.DVDRip.XviD-TRL
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/362.mkv
+#EXTINF:-1,Magic In The Moonlight (2014).ita.eng.sub.ita.eng.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/361.mkv
+#EXTINF:-1,Ma.Tu.Di.Che.Segno.Sei.2014.iTALiAN.AC3.DVDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/360.mkv
+#EXTINF:-1,Ma.Che.Bella.Sorpresa.2015.iTA.AC3.DVDRip.XviD.iCV
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/615.mkv
+#EXTINF:-1,Lupin.3.Vs.Detective.Conan.2014.iTALiAN.MD.BDRip.XviD-WWCB
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/359.mkv
+#EXTINF:-1,Lo.Sciacallo.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/358.mkv
+#EXTINF:-1,Lo.Hobbit.La.Battaglia.Delle.Cinque.Armate.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/357.mkv
+#EXTINF:-1,Leoni (2015).ita.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/614.mkv
+#EXTINF:-1,Le Leggi Del Desiderio (2015).ita.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/613.mkv
+#EXTINF:-1,Last Summer (2014).ita.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/612.mkv
+#EXTINF:-1,La.Teoria.Del.Tutto.2014.iTALiAN.AC3.BDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/356.mkv
+#EXTINF:-1,La.Foresta.Di.Ghiaccio.2014.iTALiAN.AC3.DVDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/355.mkv
+#EXTINF:-1,L.attacco.dei.Giganti.Parte.1-L.arco.e.la.freccia.Cremisi.2015.iTA-JAP.AC3.HD.720p.x264-[MIRCrew]
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/611.mkv
+#EXTINF:-1,L.Amore.Bugiardo.Gone.Girl.2014.ITA.ENG.BDRIp.720(TeamPremium)
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/354.mkv
+#EXTINF:-1,Kingsman.Secret.Service.2015.iTALiAN.AC3.BDRip.H264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/353.mkv
+#EXTINF:-1,Jupiter.Il.Destino.Dell.Universo.2015.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/352.mkv
+#EXTINF:-1,John.Wick.2014.iTALiAN.AC3.BDRip.x264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/351.mkv
+#EXTINF:-1,Jimmy.S.Hall.Una.Storia.D.Amore.E.Liberta.2014.iTALiAN.AC3.DVDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/350.mkv
+#EXTINF:-1,Italo.2014.iTALiAN.AC3.DVDRip.x264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/349.mkv
+#EXTINF:-1,Italiano.Medio.2015.iTA.AC3.DVDRip.XviD-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/348.mkv
+#EXTINF:-1,Interstellar.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/347.mkv
+#EXTINF:-1,Insurgent (2015).ita.eng.sub.ita.eng.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/610.mkv
+#EXTINF:-1,Il.Settimo.Figlio.2014.iTALiAN.AC3.BluRay.1080p.x264-iDN_CreW
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/346.mkv
+#EXTINF:-1,Il.Sale.Della.Terra.2014.iTALiAN.AC3.DVDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/345.mkv
+#EXTINF:-1,Il.Nome.Del.Figlio.2014.iTALiAN.BRRip.XviD.BLUWORLD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/344.mkv
+#EXTINF:-1,Il.Giovane.Favoloso.2014.iTALiAN.AC3.BDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/343.mkv
+#EXTINF:-1,Il Ricco Il Povero E Il Maggiordomo (2014).ita.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/342.mkv
+#EXTINF:-1,I.Vichinghi.2014.iTALiAN.BRRip.XviD.BLUWORLD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/341.mkv
+#EXTINF:-1,I Toni Dell Amore - Love Is Strange (2014).ita.eng.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/392.mkv
+#EXTINF:-1,I Cavalieri Dello Zodiaco La Leggenda del grande Tempio (2014).ita.jpn.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/339.mkv
+#EXTINF:-1,Hunger.Games.Il.Canto.Della.Rivolta.Parte.1.2014.iTALiAN.AC3.BDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/338.mkv
+#EXTINF:-1,Humandroid.2015.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/609.mkv
+#EXTINF:-1,Home.A.Casa.2015.iTALiAN.BDRip.XviD-TRL[MT]
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/608.mkv
+#EXTINF:-1,Gemma Bovery (2014).ita.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/607.mkv
+#EXTINF:-1,Focus.Niente.E.Come.Sembra.2015.iTA-ENG.Bluray.720p.x264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/606.mkv
+#EXTINF:-1,Fast.And.Furious.7.2015.iTALiAN.AC3.EXTENDED.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/605.mkv
+#EXTINF:-1,Fango e Gloria La Grande Guerra (2014).ita.sub.ita.MIRCrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/337.mkv
+#EXTINF:-1,Exodus.Dei.E.Re.2014.iTALiAN.AC3.BDRip.XviD-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/336.mkv
+#EXTINF:-1,Due.Giorni.Una.Notte.2014.iTALiAN.MD.BDRip.XviD-FREE
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/335.mkv
+#EXTINF:-1,Cub.Piccole.Prede.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/334.mkv
+#EXTINF:-1,Corri.Ragazzo.Corri.2013.iTALiAN.AC3.DVDRip.XviD-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/333.mkv
+#EXTINF:-1,Confusi.E.Felici.2014.iTALiAN.AC3.BDRip.XviD-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/332.mkv
+#EXTINF:-1,Come.Ammazzare.Il.Capo.2.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/331.mkv
+#EXTINF:-1,Cold.In.July.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/330.mkv
+#EXTINF:-1,Clown.2014.iTALiAN.AC3.BDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/329.mkv
+#EXTINF:-1,Cinquanta.Sfumature.Di.Grigio.2015.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/328.mkv
+#EXTINF:-1,Cenerentola.2015.iTA-ENG.Bluray.720p.x264-iCV
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/604.mkv
+#EXTINF:-1,Cake.2015.iTALiAN.BRRip.XviD.BLUWORLD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/603.mkv
+#EXTINF:-1,Blackhat.2015.iTA.AC3.BDRip.H264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/602.mkv
+#EXTINF:-1,BIRDMAN.2014.iTALiAN.MD.Dual.1080p.BluRay.x264-TeaM
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/324.mkv
+#EXTINF:-1,Big.Hero.6.2014.iTALiAN.AC3.BRRip.XviD-T4P3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/327.mkv
+#EXTINF:-1,Big.Eyes.2014.iTALiAN.BRRip.XviD.BLUWORLD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/326.mkv
+#EXTINF:-1,Bekas.2012.iTALiAN.AC3.BDRip.Hx264-BaBy
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/325.mkv
+#EXTINF:-1,Barbie.E.Il.Regno.Segreto.2014.iTALiAN.BRRip.XviD.BLUWORLD
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/601.mkv
+#EXTINF:-1,Automata (2014).ita.eng.sub.ita.MIRcrew
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/600.mkv
+#EXTINF:-1,Asterix e il Regno degli Dei (2014)BDRip-Xvid-Ita-AC3[MT]
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/323.mkv
+#EXTINF:-1,Anime.Nere.2014.iTALiAN.AC3.DVDRip.XviD-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/322.mkv
+#EXTINF:-1,Amoreodio-Lovehate.2014.iTALiAN.AC3.DVDRip.Hx264-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/321.mkv
+#EXTINF:-1,American.Sniper.2014.iTALiAN.AC3.DVDRip.XviD-BG
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/320.mkv
+#EXTINF:-1,Alabama.Monroe.Una.Storia.D.Amore.2012.iTA.AC3.BDRip.TRL
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/319.mkv
+#EXTINF:-1,Andiamo A Quel Paese
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/239.mkv
+#EXTINF:-1,Bastardi In Divisa
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/240.mkv
+#EXTINF:-1,Boxtrolls_Le Scatole Magiche
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/241.mkv
+#EXTINF:-1,Colpi Di Fortuna
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/242.mkv
+#EXTINF:-1,Dark Skies_Oscure Presenze
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/243.mkv
+#EXTINF:-1,Dracula Untold
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/244.mkv
+#EXTINF:-1,Fratelli Unici
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/245.mkv
+#EXTINF:-1,Guardiani Della Galassia
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/246.mkv
+#EXTINF:-1,Halo Nightfall
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/247.mkv
+#EXTINF:-1,I Mercenari 3
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/248.mkv
+#EXTINF:-1,I Origins
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/249.mkv
+#EXTINF:-1,I Pinguini Di Madagascar
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/250.mkv
+#EXTINF:-1,Il Magico Mondo Di Oz_Legends of Oz Dorothy s Return
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/251.mkv
+#EXTINF:-1,Il Re Scorpione 4_La Conquista Del Potere
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/252.mkv
+#EXTINF:-1,Il Regno D Inverno
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/253.mkv
+#EXTINF:-1,Joe
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/254.mkv
+#EXTINF:-1,La Scuola Piu Bella Del Mondo
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/255.mkv
+#EXTINF:-1,Le Due Vie Del Destino
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/256.mkv
+#EXTINF:-1,Le Origini Del Male
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/257.mkv
+#EXTINF:-1,Liberaci.Dal.Male
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/258.mkv
+#EXTINF:-1,Lucy
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/259.mkv
+#EXTINF:-1,Maze Runner_Il Labirinto
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/260.mkv
+#EXTINF:-1,Men Women And Children
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/261.mkv
+#EXTINF:-1,Necropolis_La Citta Dei Morti
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/262.mkv
+#EXTINF:-1,Neighbors_Cattivi Vicini
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/263.mkv
+#EXTINF:-1,Pasolini
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/264.mkv
+#EXTINF:-1,Provetta D Amore
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/265.mkv
+#EXTINF:-1,Scusate Se Esisto
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/266.mkv
+#EXTINF:-1,Sin City_Una Donna Per Cui Uccidere
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/267.mkv
+#EXTINF:-1,Soap Opera
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/268.mkv
+#EXTINF:-1,The Equalizer_Il Vendicatore
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/269.mkv
+#EXTINF:-1,The Interview
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/270.mkv
+#EXTINF:-1,Un Fidanzato Per Mia Moglie
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/271.mkv
+#EXTINF:-1,Un Milione Di Modi Per Morire Nel West
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/272.mkv
+#EXTINF:-1,Una Notte In Giallo
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/273.mkv
+#EXTINF:-1,Under the Skin
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/274.mkv
+#EXTINF:-1,Universal Soldier_Il Giorno Del Giudizio
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/275.mkv
+#EXTINF:-1,Vicky Il Vichingo
+http://pippo2tv.dyndns.tv:8000/movie/persianshare/pers1e3qare/276.mkv
+#EXTINF:-1,Primafila Hot Club 1 HD
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/96.ts
+#EXTINF:-1,Primafila Hot Club 2 HD
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/97.ts
+#EXTINF:-1,Primafila Hot Club 3 HD
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/98.ts
+#EXTINF:-1,Primafila Hot Club 4 HD
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/99.ts
+#EXTINF:-1,Primafila Hot Club 5 HD
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/100.ts
+#EXTINF:-1,Primafila Hot Club 6 HD
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/101.ts
+#EXTINF:-1,Primafila Hot Club 7 HD
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/102.ts
+#EXTINF:-1,Primafila Hot Club 8 HD
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/103.ts
+#EXTINF:-1,Primafila Hot Club 9 HD
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/104.ts
+#EXTINF:-1,Primafila Hot Club 10 HD
+http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/105.ts
