@@ -49,975 +49,1246 @@ http://originstream5.rai.it/italy/smil:raiyoyo.smil/chunklist_b900000.m3u8
 http://originstream7.rai.it/italy/smil:raipremium.smil/chunklist_b1800000.m3u8
 #EXTINF:0,SPORT ITALIA
 http://spi.hystream.com:1935/spilive/spistream/livestream.m3u8
-#EXTINF:-1,Rai 1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/134.m3u8
-#EXTINF:-1,Rai 2 HD
-http://iptv.proff.co:15003/live/tokio/tokio/135.m3u8
-#EXTINF:-1,Rai 3 HD
-http://iptv.proff.co:15003/live/tokio/tokio/136.m3u8
-#EXTINF:-1,Rete 4 HD
-http://iptv.proff.co:15003/live/tokio/tokio/137.m3u8
-#EXTINF:-1,Canale 5 HD
-http://iptv.proff.co:15003/live/tokio/tokio/138.m3u8
-#EXTINF:-1,Canale 5 Dsl Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1558.m3u8
-#EXTINF:-1,Italia 1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/139.m3u8
-#EXTINF:-1,LA 7
-http://iptv.proff.co:15003/live/tokio/tokio/327.m3u8
-#EXTINF:-1,MTV8
-http://iptv.proff.co:15003/live/tokio/tokio/541.m3u8
-#EXTINF:-1,DeejayTV
-http://iptv.proff.co:15003/live/tokio/tokio/531.m3u8
-#EXTINF:-1,RSI LA 1
-http://iptv.proff.co:15003/live/tokio/tokio/232.m3u8
-#EXTINF:-1,RSI LA 2
-http://iptv.proff.co:15003/live/tokio/tokio/233.m3u8
-#EXTINF:-1,- - - - - - CINEMA - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/159.m3u8
-#EXTINF:-1,Cinema 1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1.m3u8
-#EXTINF:-1,Cinema  1 HD (DSL Lente)
-http://iptv.proff.co:15003/live/tokio/tokio/1579.m3u8
-#EXTINF:-1,Cinema +1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/2.m3u8
-#EXTINF:-1,Cinema 1 (DSL Lente)
-http://iptv.proff.co:15003/live/tokio/tokio/1588.m3u8
-#EXTINF:-1,Cinema +24 HD
-http://iptv.proff.co:15003/live/tokio/tokio/3.m3u8
-#EXTINF:-1,Cinema  24 SD
-http://iptv.proff.co:15003/live/tokio/tokio/1557.m3u8
-#EXTINF:-1,Cinema Hits HD
-http://iptv.proff.co:15003/live/tokio/tokio/4.m3u8
-#EXTINF:-1,Cinema HITS (DSL Lente)
-http://iptv.proff.co:15003/live/tokio/tokio/1587.m3u8
-#EXTINF:-1,Cinema Family HD
-http://iptv.proff.co:15003/live/tokio/tokio/5.m3u8
-#EXTINF:-1,Cinema Family  1 HD (DSL Lente)
-http://iptv.proff.co:15003/live/tokio/tokio/1578.m3u8
-#EXTINF:-1,Cinema Family +1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/6.m3u8
-#EXTINF:-1,CinemaFamily SD
-http://iptv.proff.co:15003/live/tokio/tokio/1591.m3u8
-#EXTINF:-1,Cinema Passion HD
-http://iptv.proff.co:15003/live/tokio/tokio/7.m3u8
-#EXTINF:-1,Cinema Max HD
-http://iptv.proff.co:15003/live/tokio/tokio/10.m3u8
-#EXTINF:-1,ITA - Sky Cinema Max  1 HD Dsl Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1575.m3u8
-#EXTINF:-1,Cinema Max +1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/11.m3u8
-#EXTINF:-1,Cinema Max SD
-http://iptv.proff.co:15003/live/tokio/tokio/1592.m3u8
-#EXTINF:-1,Cinema Comedy HD
-http://iptv.proff.co:15003/live/tokio/tokio/9.m3u8
-#EXTINF:-1,Cinema Comedy SD
-http://iptv.proff.co:15003/live/tokio/tokio/1593.m3u8
-#EXTINF:-1,Cinema Classic HD
-http://iptv.proff.co:15003/live/tokio/tokio/12.m3u8
-#EXTINF:-1,Cinema Cult HD
-http://iptv.proff.co:15003/live/tokio/tokio/13.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://iptv.proff.co:15003/live/tokio/tokio/1639.m3u8
-#EXTINF:-1,- - - - - - INTRATTENIMENTO - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/160.m3u8
-#EXTINF:-1,Sky 3D
-http://iptv.proff.co:15003/live/tokio/tokio/28.m3u8
-#EXTINF:-1,Sky Uno HD
-http://iptv.proff.co:15003/live/tokio/tokio/15.m3u8
-#EXTINF:-1,Sky Uno (DSL Lente)
-http://iptv.proff.co:15003/live/tokio/tokio/1583.m3u8
-#EXTINF:-1,Sky Uno +1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/157.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://iptv.proff.co:15003/live/tokio/tokio/16.m3u8
-#EXTINF:-1,Sky Atlantic (dsl Lente)
-http://iptv.proff.co:15003/live/tokio/tokio/1585.m3u8
-#EXTINF:-1,Sky Atlantic +1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/234.m3u8
-#EXTINF:-1,Fox HD
-http://iptv.proff.co:15003/live/tokio/tokio/18.m3u8
-#EXTINF:-1,Fox SD
-http://iptv.proff.co:15003/live/tokio/tokio/1589.m3u8
-#EXTINF:-1,Fox +1
-http://iptv.proff.co:15003/live/tokio/tokio/142.m3u8
-#EXTINF:-1,Fox Life HD
-http://iptv.proff.co:15003/live/tokio/tokio/19.m3u8
-#EXTINF:-1,Fox Life SD
-http://iptv.proff.co:15003/live/tokio/tokio/1590.m3u8
-#EXTINF:-1,Fox Life +1
-http://iptv.proff.co:15003/live/tokio/tokio/235.m3u8
-#EXTINF:-1,Fox Crime HD
-http://iptv.proff.co:15003/live/tokio/tokio/20.m3u8
-#EXTINF:-1,Fox Crime (Dsl Lente)
-http://iptv.proff.co:15003/live/tokio/tokio/1586.m3u8
-#EXTINF:-1,Fox Crime +1
-http://iptv.proff.co:15003/live/tokio/tokio/236.m3u8
-#EXTINF:-1,Comedy Central
-http://iptv.proff.co:15003/live/tokio/tokio/24.m3u8
-#EXTINF:-1,AXN HD
-http://iptv.proff.co:15003/live/tokio/tokio/23.m3u8
-#EXTINF:-1,ITA - AXN  HD  Dsl Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1577.m3u8
-#EXTINF:-1,AXN +1
-http://iptv.proff.co:15003/live/tokio/tokio/620.m3u8
-#EXTINF:-1,AXN Sci-Fi
-http://iptv.proff.co:15003/live/tokio/tokio/27.m3u8
-#EXTINF:-1,Fox Animation HD
-http://iptv.proff.co:15003/live/tokio/tokio/25.m3u8
-#EXTINF:-1,Fox Comedy HD
-http://iptv.proff.co:15003/live/tokio/tokio/60.m3u8
-#EXTINF:-1,Lei
-http://iptv.proff.co:15003/live/tokio/tokio/26.m3u8
-#EXTINF:-1,Topcrime
-http://iptv.proff.co:15003/live/tokio/tokio/196.m3u8
-#EXTINF:-1,Cielo HD
-http://iptv.proff.co:15003/live/tokio/tokio/198.m3u8
-#EXTINF:-1,Real Time HD
-http://iptv.proff.co:15003/live/tokio/tokio/529.m3u8
-#EXTINF:-1,Rai 4
-http://iptv.proff.co:15003/live/tokio/tokio/535.m3u8
-#EXTINF:-1,Rai Premium
-http://iptv.proff.co:15003/live/tokio/tokio/532.m3u8
-#EXTINF:-1,Rai Movie
-http://iptv.proff.co:15003/live/tokio/tokio/534.m3u8
-#EXTINF:-1,La 5
-http://iptv.proff.co:15003/live/tokio/tokio/537.m3u8
-#EXTINF:-1,Italia 2
-http://iptv.proff.co:15003/live/tokio/tokio/536.m3u8
-#EXTINF:-1,IRIS
-http://iptv.proff.co:15003/live/tokio/tokio/540.m3u8
-#EXTINF:-1,Mediaset Extra
-http://iptv.proff.co:15003/live/tokio/tokio/543.m3u8
-#EXTINF:-1,FOR MUSIC
-http://iptv.proff.co:15003/live/tokio/tokio/542.m3u8
-#EXTINF:-1,Dove TV
-http://iptv.proff.co:15003/live/tokio/tokio/1597.m3u8
-#EXTINF:-1,- - - - - - SPORT - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/161.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://iptv.proff.co:15003/live/tokio/tokio/29.m3u8
-#EXTINF:-1,SKY Sport 24 (DSL Lente)
-http://iptv.proff.co:15003/live/tokio/tokio/1584.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/30.m3u8
-#EXTINF:-1,Sky Sport 1 Dsl Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1559.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://iptv.proff.co:15003/live/tokio/tokio/31.m3u8
-#EXTINF:-1,ITA - Sky Sport 2 HD Dsl Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1574.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://iptv.proff.co:15003/live/tokio/tokio/32.m3u8
-#EXTINF:-1,Sky Sport Plus HD
-http://iptv.proff.co:15003/live/tokio/tokio/33.m3u8
-#EXTINF:-1,Sport Plus SD
-http://iptv.proff.co:15003/live/tokio/tokio/1560.m3u8
-#EXTINF:-1,Fox Sports HD
-http://iptv.proff.co:15003/live/tokio/tokio/35.m3u8
-#EXTINF:-1,FOX SPORT SD
-http://iptv.proff.co:15003/live/tokio/tokio/1595.m3u8
-#EXTINF:-1,Sky Sport  F1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/36.m3u8
-#EXTINF:-1,Sport F1 SD
-http://iptv.proff.co:15003/live/tokio/tokio/1562.m3u8
-#EXTINF:-1,Sky Sport MotoGP  HD
-http://iptv.proff.co:15003/live/tokio/tokio/37.m3u8
-#EXTINF:-1,MOTOGP SD
-http://iptv.proff.co:15003/live/tokio/tokio/1594.m3u8
-#EXTINF:-1,EuroSport HD
-http://iptv.proff.co:15003/live/tokio/tokio/38.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://iptv.proff.co:15003/live/tokio/tokio/39.m3u8
-#EXTINF:-1,Super Tennis HD
-http://iptv.proff.co:15003/live/tokio/tokio/557.m3u8
-#EXTINF:-1,Bike Channel
-http://iptv.proff.co:15003/live/tokio/tokio/326.m3u8
-#EXTINF:-1,Rai Sport 1
-http://iptv.proff.co:15003/live/tokio/tokio/243.m3u8
-#EXTINF:-1,Rai Sport 2
-http://iptv.proff.co:15003/live/tokio/tokio/244.m3u8
-#EXTINF:-1,Milan Channel
-http://iptv.proff.co:15003/live/tokio/tokio/41.m3u8
-#EXTINF:-1,JUVENTUS TV
-http://iptv.proff.co:15003/live/tokio/tokio/42.m3u8
-#EXTINF:-1,Inter Channel
-http://iptv.proff.co:15003/live/tokio/tokio/43.m3u8
-#EXTINF:-1,Lazio Style Channel
-http://iptv.proff.co:15003/live/tokio/tokio/44.m3u8
-#EXTINF:-1,ROMA TV
-http://iptv.proff.co:15003/live/tokio/tokio/45.m3u8
-#EXTINF:-1,Poker Italia 24
-http://iptv.proff.co:15003/live/tokio/tokio/191.m3u8
-#EXTINF:-1,CACCIA e pesca
-http://iptv.proff.co:15003/live/tokio/tokio/46.m3u8
-#EXTINF:-1,PESCA & caccia
-http://iptv.proff.co:15003/live/tokio/tokio/47.m3u8
-#EXTINF:-1,Class Horse TV
-http://iptv.proff.co:15003/live/tokio/tokio/1460.m3u8
-#EXTINF:-1,GAZZETTA TV
-http://iptv.proff.co:15003/live/tokio/tokio/506.m3u8
-#EXTINF:-1,- - - - - - CALCIO - - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/246.m3u8
-#EXTINF:-1,Sky Supercalcio HD
-http://iptv.proff.co:15003/live/tokio/tokio/34.m3u8
-#EXTINF:-1,sky supercalcio SD
-http://iptv.proff.co:15003/live/tokio/tokio/1561.m3u8
-#EXTINF:-1,Sky Calcio 1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/48.m3u8
-#EXTINF:-1,SKY CALCIO 1 SD
-http://iptv.proff.co:15003/live/tokio/tokio/1482.m3u8
-#EXTINF:-1,Sky Calcio 2 HD
-http://iptv.proff.co:15003/live/tokio/tokio/49.m3u8
-#EXTINF:-1,Sky Calcio 2 Dsl Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1564.m3u8
-#EXTINF:-1,Sky Calcio 3 HD
-http://iptv.proff.co:15003/live/tokio/tokio/50.m3u8
-#EXTINF:-1,Sky Calcio 3 Dsl Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1565.m3u8
-#EXTINF:-1,Sky Calcio 4 HD
-http://iptv.proff.co:15003/live/tokio/tokio/51.m3u8
-#EXTINF:-1,CALCIO 4 SD
-http://iptv.proff.co:15003/live/tokio/tokio/1566.m3u8
-#EXTINF:-1,Sky Calcio 5 HD
-http://iptv.proff.co:15003/live/tokio/tokio/52.m3u8
-#EXTINF:-1,CALCIO 5 SD
-http://iptv.proff.co:15003/live/tokio/tokio/1567.m3u8
-#EXTINF:-1,Sky Calcio 6 HD
-http://iptv.proff.co:15003/live/tokio/tokio/53.m3u8
-#EXTINF:-1,Sky Calcio 6 SD
-http://iptv.proff.co:15003/live/tokio/tokio/1568.m3u8
-#EXTINF:-1,Sky Calcio 7 HD
-http://iptv.proff.co:15003/live/tokio/tokio/54.m3u8
-#EXTINF:-1,CALCIO 7 SD
-http://iptv.proff.co:15003/live/tokio/tokio/1569.m3u8
-#EXTINF:-1,Sky Calcio 8 HD
-http://iptv.proff.co:15003/live/tokio/tokio/55.m3u8
-#EXTINF:-1,Sky Calcio 9
-http://iptv.proff.co:15003/live/tokio/tokio/1463.m3u8
-#EXTINF:-1,Sky Calcio 10
-http://iptv.proff.co:15003/live/tokio/tokio/1462.m3u8
-#EXTINF:-1,Sky Calcio 11
-http://iptv.proff.co:15003/live/tokio/tokio/1461.m3u8
-#EXTINF:-1,SKY CALCIO 12
-http://iptv.proff.co:15003/live/tokio/tokio/1480.m3u8
-#EXTINF:-1,- - - - - - DOCUMENTARI - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/162.m3u8
-#EXTINF:-1,eXplora HD
-http://iptv.proff.co:15003/live/tokio/tokio/146.m3u8
-#EXTINF:-1,NationalGeo HD
-http://iptv.proff.co:15003/live/tokio/tokio/57.m3u8
-#EXTINF:-1,Nat Geo Wild  1
-http://iptv.proff.co:15003/live/tokio/tokio/1570.m3u8
-#EXTINF:-1,NatGeo People HD
-http://iptv.proff.co:15003/live/tokio/tokio/63.m3u8
-#EXTINF:-1,NatGeo Wild HD
-http://iptv.proff.co:15003/live/tokio/tokio/62.m3u8
-#EXTINF:-1,Discovery HD
-http://iptv.proff.co:15003/live/tokio/tokio/56.m3u8
-#EXTINF:-1,Sky Discovery channel  1
-http://iptv.proff.co:15003/live/tokio/tokio/1598.m3u8
-#EXTINF:-1,Discovery Sci HD
-http://iptv.proff.co:15003/live/tokio/tokio/58.m3u8
-#EXTINF:-1,Discovery T&L HD
-http://iptv.proff.co:15003/live/tokio/tokio/59.m3u8
-#EXTINF:-1,CI Crime + Investigation HD
-http://iptv.proff.co:15003/live/tokio/tokio/21.m3u8
-#EXTINF:-1,Focus
-http://iptv.proff.co:15003/live/tokio/tokio/199.m3u8
-#EXTINF:-1,DMAX
-http://iptv.proff.co:15003/live/tokio/tokio/204.m3u8
-#EXTINF:-1,Animal Planet
-http://iptv.proff.co:15003/live/tokio/tokio/144.m3u8
-#EXTINF:-1,History HD
-http://iptv.proff.co:15003/live/tokio/tokio/61.m3u8
-#EXTINF:-1,Sky Arte HD
-http://iptv.proff.co:15003/live/tokio/tokio/22.m3u8
-#EXTINF:-1,Gambero Rosso HD
-http://iptv.proff.co:15003/live/tokio/tokio/147.m3u8
-#EXTINF:-1,Classica HD
-http://iptv.proff.co:15003/live/tokio/tokio/1466.m3u8
-#EXTINF:-1,- - - - - - RAGAZZI - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/163.m3u8
-#EXTINF:-1,Disney Channel HD
-http://iptv.proff.co:15003/live/tokio/tokio/64.m3u8
-#EXTINF:-1,Disney Channel 1
-http://iptv.proff.co:15003/live/tokio/tokio/1571.m3u8
-#EXTINF:-1,Disney Channel +1
-http://iptv.proff.co:15003/live/tokio/tokio/197.m3u8
-#EXTINF:-1,Disney Channel  2
-http://iptv.proff.co:15003/live/tokio/tokio/1572.m3u8
-#EXTINF:-1,Cartoon Network
-http://iptv.proff.co:15003/live/tokio/tokio/65.m3u8
-#EXTINF:-1,Boomerang
-http://iptv.proff.co:15003/live/tokio/tokio/66.m3u8
-#EXTINF:-1,DeA Junior
-http://iptv.proff.co:15003/live/tokio/tokio/74.m3u8
-#EXTINF:-1,DeA Kids
-http://iptv.proff.co:15003/live/tokio/tokio/67.m3u8
-#EXTINF:-1,Disney in English
-http://iptv.proff.co:15003/live/tokio/tokio/72.m3u8
-#EXTINF:-1,Disney Junior
-http://iptv.proff.co:15003/live/tokio/tokio/70.m3u8
-#EXTINF:-1,Disney XD HD
-http://iptv.proff.co:15003/live/tokio/tokio/71.m3u8
-#EXTINF:-1,Nick Junior
-http://iptv.proff.co:15003/live/tokio/tokio/424.m3u8
-#EXTINF:-1,Nickelodeon
-http://iptv.proff.co:15003/live/tokio/tokio/69.m3u8
-#EXTINF:-1,SPIDERMAN CHANNEL
-http://iptv.proff.co:15003/live/tokio/tokio/1464.m3u8
-#EXTINF:-1,Super!
-http://iptv.proff.co:15003/live/tokio/tokio/515.m3u8
-#EXTINF:-1,RAI YOYO
-http://iptv.proff.co:15003/live/tokio/tokio/470.m3u8
-#EXTINF:-1,MAN-GA
-http://iptv.proff.co:15003/live/tokio/tokio/143.m3u8
-#EXTINF:-1,K2
-http://iptv.proff.co:15003/live/tokio/tokio/382.m3u8
-#EXTINF:-1,BABY TV
-http://iptv.proff.co:15003/live/tokio/tokio/420.m3u8
-#EXTINF:-1,CARTONITO
-http://iptv.proff.co:15003/live/tokio/tokio/516.m3u8
-#EXTINF:-1,Cartoon +1
-http://iptv.proff.co:15003/live/tokio/tokio/419.m3u8
-#EXTINF:-1,Nick Jr
-http://iptv.proff.co:15003/live/tokio/tokio/68.m3u8
-#EXTINF:-1,BOING
-http://iptv.proff.co:15003/live/tokio/tokio/539.m3u8
-#EXTINF:-1,PEPPA PIG CHANNEL
-http://iptv.proff.co:15003/live/tokio/tokio/1481.m3u8
-#EXTINF:-1,- - - - - - NOTIZIARI - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/164.m3u8
-#EXTINF:-1,Sky TG 24 HD
-http://iptv.proff.co:15003/live/tokio/tokio/75.m3u8
-#EXTINF:-1,TG COM 24
-http://iptv.proff.co:15003/live/tokio/tokio/530.m3u8
-#EXTINF:-1,RAI NEWS 24
-http://iptv.proff.co:15003/live/tokio/tokio/533.m3u8
-#EXTINF:-1,- - - - - - PREMIUM - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/167.m3u8
-#EXTINF:-1,Premium Cinema HD
-http://iptv.proff.co:15003/live/tokio/tokio/88.m3u8
-#EXTINF:-1,Premium Cinema HD X ADSL Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1580.m3u8
-#EXTINF:-1,Premium Cinema +24
-http://iptv.proff.co:15003/live/tokio/tokio/372.m3u8
-#EXTINF:-1,Premium Cinema 2 HD
-http://iptv.proff.co:15003/live/tokio/tokio/465.m3u8
-#EXTINF:-1,Premium Cinema2  HD X ADSL Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1581.m3u8
-#EXTINF:-1,Premium Cinema 2 +24
-http://iptv.proff.co:15003/live/tokio/tokio/466.m3u8
-#EXTINF:-1,Premium Emotion
-http://iptv.proff.co:15003/live/tokio/tokio/90.m3u8
-#EXTINF:-1,Premium Energy
-http://iptv.proff.co:15003/live/tokio/tokio/89.m3u8
-#EXTINF:-1,Premium Comedy
-http://iptv.proff.co:15003/live/tokio/tokio/111.m3u8
-#EXTINF:-1,Premium Stories
-http://iptv.proff.co:15003/live/tokio/tokio/918.m3u8
-#EXTINF:-1,Studio Universal - Premium
-http://iptv.proff.co:15003/live/tokio/tokio/112.m3u8
-#EXTINF:-1,Premium Joi
-http://iptv.proff.co:15003/live/tokio/tokio/113.m3u8
-#EXTINF:-1,Premium Action HD
-http://iptv.proff.co:15003/live/tokio/tokio/469.m3u8
-#EXTINF:-1,Premium Action HD X ADSL Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1582.m3u8
-#EXTINF:-1,Premium Action +24
-http://iptv.proff.co:15003/live/tokio/tokio/115.m3u8
-#EXTINF:-1,Premium Crime HD
-http://iptv.proff.co:15003/live/tokio/tokio/622.m3u8
-#EXTINF:-1,Premium Crime HD (DSL Lente)
-http://iptv.proff.co:15003/live/tokio/tokio/1573.m3u8
-#EXTINF:-1,Premium Crime +24
-http://iptv.proff.co:15003/live/tokio/tokio/116.m3u8
-#EXTINF:-1,ALICE
-http://iptv.proff.co:15003/live/tokio/tokio/916.m3u8
-#EXTINF:-1,MARCO POLO
-http://iptv.proff.co:15003/live/tokio/tokio/917.m3u8
-#EXTINF:-1,Discovery World - Premium
-http://iptv.proff.co:15003/live/tokio/tokio/119.m3u8
-#EXTINF:-1,BBC Knowledge - Premium
-http://iptv.proff.co:15003/live/tokio/tokio/121.m3u8
-#EXTINF:-1,Premium Sport HD
-http://iptv.proff.co:15003/live/tokio/tokio/468.m3u8
-#EXTINF:-1,Premium Sport Dsl Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1596.m3u8
-#EXTINF:-1,Premium Sport 2
-http://iptv.proff.co:15003/live/tokio/tokio/122.m3u8
-#EXTINF:-1,Premium Calcio 1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/131.m3u8
-#EXTINF:-1,ITA - Premium Calcio HD Dsl Lente
-http://iptv.proff.co:15003/live/tokio/tokio/1576.m3u8
-#EXTINF:-1,Premium Calcio 1
-http://iptv.proff.co:15003/live/tokio/tokio/124.m3u8
-#EXTINF:-1,Premium Calcio 2
-http://iptv.proff.co:15003/live/tokio/tokio/125.m3u8
-#EXTINF:-1,Premium Calcio 3
-http://iptv.proff.co:15003/live/tokio/tokio/126.m3u8
-#EXTINF:-1,Premium Calcio 4
-http://iptv.proff.co:15003/live/tokio/tokio/127.m3u8
-#EXTINF:-1,Premium Calcio 5
-http://iptv.proff.co:15003/live/tokio/tokio/128.m3u8
-#EXTINF:-1,Premium Calcio 6
-http://iptv.proff.co:15003/live/tokio/tokio/129.m3u8
-#EXTINF:-1,----------Sport Stranieri----------
-http://iptv.proff.co:15003/live/tokio/tokio/1626.m3u8
-#EXTINF:-1,CRO - Sport Klub 1
-http://iptv.proff.co:15003/live/tokio/tokio/1615.m3u8
-#EXTINF:-1,CRO - Sport Klub 2
-http://iptv.proff.co:15003/live/tokio/tokio/1616.m3u8
-#EXTINF:-1,CRO - Sport Klub 3
-http://iptv.proff.co:15003/live/tokio/tokio/1617.m3u8
-#EXTINF:-1,CRO - Arena Sports 1
-http://iptv.proff.co:15003/live/tokio/tokio/1618.m3u8
-#EXTINF:-1,CRO - Arena Sports 2
-http://iptv.proff.co:15003/live/tokio/tokio/1619.m3u8
-#EXTINF:-1,CRO - Arena Sports 3
-http://iptv.proff.co:15003/live/tokio/tokio/1620.m3u8
-#EXTINF:-1,CRO - Arena Sports 4
-http://iptv.proff.co:15003/live/tokio/tokio/1621.m3u8
-#EXTINF:-1,AR - Bein Sports 1
-http://iptv.proff.co:15003/live/tokio/tokio/1607.m3u8
-#EXTINF:-1,AR - Bein Sports 2
-http://iptv.proff.co:15003/live/tokio/tokio/1608.m3u8
-#EXTINF:-1,AR - Bein Sports 3
-http://iptv.proff.co:15003/live/tokio/tokio/1609.m3u8
-#EXTINF:-1,AR - Bein Sports 4
-http://iptv.proff.co:15003/live/tokio/tokio/1610.m3u8
-#EXTINF:-1,AR - Bein Sports 5
-http://iptv.proff.co:15003/live/tokio/tokio/1611.m3u8
-#EXTINF:-1,AR - Bein Sports 6
-http://iptv.proff.co:15003/live/tokio/tokio/1612.m3u8
-#EXTINF:-1,AR - Bein Sports 7
-http://iptv.proff.co:15003/live/tokio/tokio/1613.m3u8
-#EXTINF:-1,AR - Bein Sports 8
-http://iptv.proff.co:15003/live/tokio/tokio/1614.m3u8
-#EXTINF:-1,ALB - Super Sports 1
-http://iptv.proff.co:15003/live/tokio/tokio/1622.m3u8
-#EXTINF:-1,ALB - Super Sports 2
-http://iptv.proff.co:15003/live/tokio/tokio/1623.m3u8
-#EXTINF:-1,ALB - Super Sports 3
-http://iptv.proff.co:15003/live/tokio/tokio/1624.m3u8
-#EXTINF:-1,ALB - Super Sports 4
-http://iptv.proff.co:15003/live/tokio/tokio/1625.m3u8
-#EXTINF:-1,- - - - - - SKY DE - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/192.m3u8
-#EXTINF:-1,DE: Sky Cinema HD
-http://iptv.proff.co:15003/live/tokio/tokio/1502.m3u8
-#EXTINF:-1,DE: Sky Cinema  1
-http://iptv.proff.co:15003/live/tokio/tokio/1503.m3u8
-#EXTINF:-1,DE: Cinema  24 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1537.m3u8
-#EXTINF:-1,DE: Sky Hits
-http://iptv.proff.co:15003/live/tokio/tokio/1499.m3u8
-#EXTINF:-1,DE: Sky Emotion
-http://iptv.proff.co:15003/live/tokio/tokio/1500.m3u8
-#EXTINF:-1,DE: Sky Comedy
-http://iptv.proff.co:15003/live/tokio/tokio/1501.m3u8
-#EXTINF:-1,DE:Fox Serie
-http://iptv.proff.co:15003/live/tokio/tokio/1484.m3u8
-#EXTINF:-1,DE: AXN Action
-http://iptv.proff.co:15003/live/tokio/tokio/1545.m3u8
-#EXTINF:-1,DE: ZDF Kultur
-http://iptv.proff.co:15003/live/tokio/tokio/1485.m3u8
-#EXTINF:-1,DE: ZDF Info
-http://iptv.proff.co:15003/live/tokio/tokio/1486.m3u8
-#EXTINF:-1,DE: ZDF
-http://iptv.proff.co:15003/live/tokio/tokio/1487.m3u8
-#EXTINF:-1,DE: VOX
-http://iptv.proff.co:15003/live/tokio/tokio/1488.m3u8
-#EXTINF:-1,DE: TNT Serie
-http://iptv.proff.co:15003/live/tokio/tokio/1489.m3u8
-#EXTINF:-1,DE: TLC
-http://iptv.proff.co:15003/live/tokio/tokio/1490.m3u8
-#EXTINF:-1,DE: SYFY
-http://iptv.proff.co:15003/live/tokio/tokio/1491.m3u8
-#EXTINF:-1,DE: Super RTL
-http://iptv.proff.co:15003/live/tokio/tokio/1492.m3u8
-#EXTINF:-1,DE: Sport News HD
-http://iptv.proff.co:15003/live/tokio/tokio/1493.m3u8
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1496.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1495.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1505.m3u8
-#EXTINF:-1,DE: Bundesliga 2
-http://iptv.proff.co:15003/live/tokio/tokio/1544.m3u8
-#EXTINF:-1,DE: Bundesliga 3
-http://iptv.proff.co:15003/live/tokio/tokio/1543.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 4
-http://iptv.proff.co:15003/live/tokio/tokio/1504.m3u8
-#EXTINF:-1,DE: Bundesliga 5
-http://iptv.proff.co:15003/live/tokio/tokio/1542.m3u8
-#EXTINF:-1,DE: Bundesliga 6
-http://iptv.proff.co:15003/live/tokio/tokio/1541.m3u8
-#EXTINF:-1,DE: Bundesliga 7
-http://iptv.proff.co:15003/live/tokio/tokio/1540.m3u8
-#EXTINF:-1,DE: Bundesliga 8
-http://iptv.proff.co:15003/live/tokio/tokio/1539.m3u8
-#EXTINF:-1,DE: Bundesliga 9
-http://iptv.proff.co:15003/live/tokio/tokio/1538.m3u8
-#EXTINF:-1,DE: Spiegel Geschichte
-http://iptv.proff.co:15003/live/tokio/tokio/1494.m3u8
-#EXTINF:-1,DE: Sky Nostalgie
-http://iptv.proff.co:15003/live/tokio/tokio/1497.m3u8
-#EXTINF:-1,DE: Sky Krimi
-http://iptv.proff.co:15003/live/tokio/tokio/1498.m3u8
-#EXTINF:-1,DE: ARD
-http://iptv.proff.co:15003/live/tokio/tokio/1546.m3u8
-#EXTINF:-1,DE: 3Sat
-http://iptv.proff.co:15003/live/tokio/tokio/1547.m3u8
-#EXTINF:-1,DE: 13th Street
-http://iptv.proff.co:15003/live/tokio/tokio/1548.m3u8
-#EXTINF:-1,DE: 1-2-3.TV
-http://iptv.proff.co:15003/live/tokio/tokio/1549.m3u8
-#EXTINF:-1,DE: Sky Atlantic
-http://iptv.proff.co:15003/live/tokio/tokio/1506.m3u8
-#EXTINF:-1,DE: Sky Action HD
-http://iptv.proff.co:15003/live/tokio/tokio/1507.m3u8
-#EXTINF:-1,DE: Sixx
-http://iptv.proff.co:15003/live/tokio/tokio/1508.m3u8
-#EXTINF:-1,DE: Sat 1 Gold
-http://iptv.proff.co:15003/live/tokio/tokio/1509.m3u8
-#EXTINF:-1,DE: Sat 1 Emotions
-http://iptv.proff.co:15003/live/tokio/tokio/1510.m3u8
-#EXTINF:-1,DE: Sat 1
-http://iptv.proff.co:15003/live/tokio/tokio/1511.m3u8
-#EXTINF:-1,DE: RTL Television
-http://iptv.proff.co:15003/live/tokio/tokio/1512.m3u8
-#EXTINF:-1,DE: RTL Passion
-http://iptv.proff.co:15003/live/tokio/tokio/1513.m3u8
-#EXTINF:-1,DE: RTL Nitro
-http://iptv.proff.co:15003/live/tokio/tokio/1514.m3u8
-#EXTINF:-1,DE: RTL Living
-http://iptv.proff.co:15003/live/tokio/tokio/1515.m3u8
-#EXTINF:-1,DE: RTL Crime
-http://iptv.proff.co:15003/live/tokio/tokio/1516.m3u8
-#EXTINF:-1,DE: RTL 2
-http://iptv.proff.co:15003/live/tokio/tokio/1517.m3u8
-#EXTINF:-1,DE: Romance TV
-http://iptv.proff.co:15003/live/tokio/tokio/1518.m3u8
-#EXTINF:-1,DE: Pro Sieben Maxx
-http://iptv.proff.co:15003/live/tokio/tokio/1519.m3u8
-#EXTINF:-1,DE: Pro 7 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1520.m3u8
-#EXTINF:-1,DE: National Geographic
-http://iptv.proff.co:15003/live/tokio/tokio/1521.m3u8
-#EXTINF:-1,DE: Nat Geo Wild
-http://iptv.proff.co:15003/live/tokio/tokio/1522.m3u8
-#EXTINF:-1,DE: N24
-http://iptv.proff.co:15003/live/tokio/tokio/1523.m3u8
-#EXTINF:-1,DE: N-TV
-http://iptv.proff.co:15003/live/tokio/tokio/1524.m3u8
-#EXTINF:-1,DE: MGM
-http://iptv.proff.co:15003/live/tokio/tokio/1525.m3u8
-#EXTINF:-1,DE: Kinowelt TV
-http://iptv.proff.co:15003/live/tokio/tokio/1526.m3u8
-#EXTINF:-1,DE: KIKA
-http://iptv.proff.co:15003/live/tokio/tokio/1527.m3u8
-#EXTINF:-1,DE: Kabel Eins
-http://iptv.proff.co:15003/live/tokio/tokio/1528.m3u8
-#EXTINF:-1,DE: Junior
-http://iptv.proff.co:15003/live/tokio/tokio/1529.m3u8
-#EXTINF:-1,DE: History HD
-http://iptv.proff.co:15003/live/tokio/tokio/1530.m3u8
-#EXTINF:-1,DE: HeimatKanal
-http://iptv.proff.co:15003/live/tokio/tokio/1531.m3u8
-#EXTINF:-1,DE: DMAX
-http://iptv.proff.co:15003/live/tokio/tokio/1532.m3u8
-#EXTINF:-1,DE: Disney XD
-http://iptv.proff.co:15003/live/tokio/tokio/1533.m3u8
-#EXTINF:-1,DE: Disney Cinemagic
-http://iptv.proff.co:15003/live/tokio/tokio/1534.m3u8
-#EXTINF:-1,DE: Disney Channel
-http://iptv.proff.co:15003/live/tokio/tokio/1535.m3u8
-#EXTINF:-1,DE: Discovery Channel
-http://iptv.proff.co:15003/live/tokio/tokio/1536.m3u8
-#EXTINF:-1,Selekt 1
-http://iptv.proff.co:15003/live/tokio/tokio/1638.m3u8
-#EXTINF:-1,Selekt 2
-http://iptv.proff.co:15003/live/tokio/tokio/1637.m3u8
-#EXTINF:-1,Selekt 3
-http://iptv.proff.co:15003/live/tokio/tokio/1636.m3u8
-#EXTINF:-1,Selekt 4
-http://iptv.proff.co:15003/live/tokio/tokio/1635.m3u8
-#EXTINF:-1,Selekt 5
-http://iptv.proff.co:15003/live/tokio/tokio/1634.m3u8
-#EXTINF:-1,Selekt 6
-http://iptv.proff.co:15003/live/tokio/tokio/1633.m3u8
-#EXTINF:-1,Selekt 7
-http://iptv.proff.co:15003/live/tokio/tokio/1632.m3u8
-#EXTINF:-1,Selekt 8
-http://iptv.proff.co:15003/live/tokio/tokio/1631.m3u8
-#EXTINF:-1,Selekt 9
-http://iptv.proff.co:15003/live/tokio/tokio/1630.m3u8
-#EXTINF:-1,- - - - - - PRIMAFILA - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/165.m3u8
-#EXTINF:-1,Vetrina Primafila
-http://iptv.proff.co:15003/movie/tokio/tokio/156.mp4
-#EXTINF:-1,Primafila 1 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/92.mkv
-#EXTINF:-1,Primafila 2 HD
-http://iptv.proff.co:15003/live/tokio/tokio/104.m3u8
-#EXTINF:-1,Primafila 3 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/93.mkv
-#EXTINF:-1,Primafila 4 HD
-http://iptv.proff.co:15003/live/tokio/tokio/105.m3u8
-#EXTINF:-1,Primafila 5 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/94.mkv
-#EXTINF:-1,Primafila 6 HD
-http://iptv.proff.co:15003/live/tokio/tokio/106.m3u8
-#EXTINF:-1,Primafila 7 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/95.mkv
-#EXTINF:-1,Primafila 8 HD
-http://iptv.proff.co:15003/live/tokio/tokio/107.m3u8
-#EXTINF:-1,Primafila 9 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/96.mkv
-#EXTINF:-1,Primafila 10 HD
-http://iptv.proff.co:15003/live/tokio/tokio/108.m3u8
-#EXTINF:-1,Primafila 11 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/97.mkv
-#EXTINF:-1,Primafila 12 HD
-http://iptv.proff.co:15003/live/tokio/tokio/109.m3u8
-#EXTINF:-1,Primafila 13 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/98.mkv
-#EXTINF:-1,Primafila 14 HD
-http://iptv.proff.co:15003/live/tokio/tokio/110.m3u8
-#EXTINF:-1,Primafila 15 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/100.mkv
-#EXTINF:-1,Primafila 16 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/99.mkv
-#EXTINF:-1,Primafila 17 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/101.mkv
-#EXTINF:-1,Primafila 18 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/102.mkv
-#EXTINF:-1,Primafila 19 HD
-http://iptv.proff.co:15003/movie/tokio/tokio/103.mkv
-#EXTINF:-1,- - - - - - AL CINEMA - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/166.m3u8
-#EXTINF:-1,VETRINA PRIMAVISIONE
-http://iptv.proff.co:15003/movie/tokio/tokio/295.mkv
-#EXTINF:-1,PRIMAVISIONE 1
-http://iptv.proff.co:15003/movie/tokio/tokio/151.mkv
-#EXTINF:-1,PRIMAVISIONE 2
-http://iptv.proff.co:15003/movie/tokio/tokio/152.mkv
-#EXTINF:-1,PRIMAVISIONE 3
-http://iptv.proff.co:15003/movie/tokio/tokio/153.mkv
-#EXTINF:-1,PRIMAVISIONE 4
-http://iptv.proff.co:15003/movie/tokio/tokio/154.mkv
-#EXTINF:-1,PRIMAVISIONE 5
-http://iptv.proff.co:15003/movie/tokio/tokio/155.mkv
-#EXTINF:-1,PRIMAVISIONE 6
-http://iptv.proff.co:15003/movie/tokio/tokio/245.mkv
-#EXTINF:-1,PRIMAVISIONE 7
-http://iptv.proff.co:15003/movie/tokio/tokio/220.mkv
-#EXTINF:-1,PRIMAVISIONE 8
-http://iptv.proff.co:15003/movie/tokio/tokio/517.mkv
-#EXTINF:-1,- - - - - COMMEDIA - - - - -
-http://iptv.proff.co:15003/movie/tokio/tokio/247.mkv
-#EXTINF:-1,Cinquanta sfumature di Grigio
-http://iptv.proff.co:15003/movie/tokio/tokio/1600.mkv
-#EXTINF:-1,La scuola piu bella del mondo
-http://iptv.proff.co:15003/movie/tokio/tokio/1599.mkv
-#EXTINF:-1,Una Donna per la vita
-http://iptv.proff.co:15003/movie/tokio/tokio/1550.mkv
-#EXTINF:-1,Ti lascio perche ti amo troppo
-http://iptv.proff.co:15003/movie/tokio/tokio/1606.mkv
-#EXTINF:-1,BENVENUTI AL SUD
-http://iptv.proff.co:15003/movie/tokio/tokio/255.mkv
-#EXTINF:-1,IL PRINCIPE ABUSIVO
-http://iptv.proff.co:15003/movie/tokio/tokio/257.mkv
-#EXTINF:-1,Si Accettano Miracoli
-http://iptv.proff.co:15003/movie/tokio/tokio/434.mp4
-#EXTINF:-1,Scusate se esisto
-http://iptv.proff.co:15003/movie/tokio/tokio/1009.mkv
-#EXTINF:-1,Ogni maledetto Natale
-http://iptv.proff.co:15003/movie/tokio/tokio/1008.mkv
-#EXTINF:-1,Non c'è 2 senza Te
-http://iptv.proff.co:15003/movie/tokio/tokio/1007.mkv
-#EXTINF:-1,Ma tu di che segno 6
-http://iptv.proff.co:15003/movie/tokio/tokio/1006.mkv
-#EXTINF:-1,La solita Commedia,Inferno
-http://iptv.proff.co:15003/movie/tokio/tokio/1005.mkv
-#EXTINF:-1,Il Nome del Figlio
-http://iptv.proff.co:15003/movie/tokio/tokio/1004.mkv
-#EXTINF:-1,Confusi e Felici
-http://iptv.proff.co:15003/movie/tokio/tokio/1003.mkv
-#EXTINF:-1,- - - - - AZIONE - - - - -
-http://iptv.proff.co:15003/movie/tokio/tokio/253.mkv
-#EXTINF:-1,Agente 007 Spectre
-http://iptv.proff.co:15003/movie/tokio/tokio/1551.mkv
-#EXTINF:-1,Missione Impossible
-http://iptv.proff.co:15003/movie/tokio/tokio/1552.mkv
-#EXTINF:-1,Missione Impossible II
-http://iptv.proff.co:15003/movie/tokio/tokio/1553.mkv
-#EXTINF:-1,Missione Impossible III
-http://iptv.proff.co:15003/movie/tokio/tokio/1554.mkv
-#EXTINF:-1,Missione Impossible Prot.Fantasma
-http://iptv.proff.co:15003/movie/tokio/tokio/1555.mkv
-#EXTINF:-1,Missione Impossible Rogue Nation
-http://iptv.proff.co:15003/movie/tokio/tokio/1556.mkv
-#EXTINF:-1,FAST AND FURIOUS
-http://iptv.proff.co:15003/movie/tokio/tokio/280.mkv
-#EXTINF:-1,2 FAST 2 FURIOUS
-http://iptv.proff.co:15003/movie/tokio/tokio/281.mkv
-#EXTINF:-1,FAST AND FURIOUS 3
-http://iptv.proff.co:15003/movie/tokio/tokio/1027.mkv
-#EXTINF:-1,FAST AND FURIOUS 4
-http://iptv.proff.co:15003/movie/tokio/tokio/285.mkv
-#EXTINF:-1,FAST AND FURIOUS 5
-http://iptv.proff.co:15003/movie/tokio/tokio/283.mkv
-#EXTINF:-1,FAST AND  FURIOUS 6
-http://iptv.proff.co:15003/movie/tokio/tokio/284.mkv
-#EXTINF:-1,FAST AND FURIOUS 7
-http://iptv.proff.co:15003/movie/tokio/tokio/511.mkv
-#EXTINF:-1,-----FANTASIA-----
-http://iptv.proff.co:15003/movie/tokio/tokio/1059.mkv
-#EXTINF:-1,THE AVENGERS
-http://iptv.proff.co:15003/movie/tokio/tokio/286.mkv
-#EXTINF:-1,Avenger Age of Ultron
-http://iptv.proff.co:15003/movie/tokio/tokio/1048.mkv
-#EXTINF:-1,HARRY POTTER E LA PIETRA FILOSOFALE
-http://iptv.proff.co:15003/movie/tokio/tokio/287.mkv
-#EXTINF:-1,HARRY POTTER E LA CAMERA DEI SEGRETI
-http://iptv.proff.co:15003/movie/tokio/tokio/288.mkv
-#EXTINF:-1,HARRY POTTER E IL PRIGIONIERO DI AZKABAN
-http://iptv.proff.co:15003/movie/tokio/tokio/289.mkv
-#EXTINF:-1,HARRY POTTER E IL CALICE DI FUOCO
-http://iptv.proff.co:15003/movie/tokio/tokio/290.mkv
-#EXTINF:-1,HARRY POTTER E L'ORDINE DELLA FENICE
-http://iptv.proff.co:15003/movie/tokio/tokio/291.mkv
-#EXTINF:-1,HARRY POTTER E IL PRINCIPE MEZZOSANGUE
-http://iptv.proff.co:15003/movie/tokio/tokio/292.mkv
-#EXTINF:-1,HARRY POTTER E I DONI DELLA MORTE 1 PARTE
-http://iptv.proff.co:15003/movie/tokio/tokio/293.mkv
-#EXTINF:-1,HARRY POTTER E I DONI DELLA MORTE 2 PARTE
-http://iptv.proff.co:15003/movie/tokio/tokio/294.mkv
-#EXTINF:-1,Lo Hobbit - La battaglia delle cinque armate
-http://iptv.proff.co:15003/movie/tokio/tokio/1054.mkv
-#EXTINF:-1,Una notte al Museo 3
-http://iptv.proff.co:15003/movie/tokio/tokio/1055.mkv
-#EXTINF:-1,Tartarughe Ninja
-http://iptv.proff.co:15003/movie/tokio/tokio/1056.mkv
-#EXTINF:-1,Into the Woods
-http://iptv.proff.co:15003/movie/tokio/tokio/1053.mkv
-#EXTINF:-1,Hunger Games - IL canto della rivolta
-http://iptv.proff.co:15003/movie/tokio/tokio/1052.mkv
-#EXTINF:-1,Humandroid
-http://iptv.proff.co:15003/movie/tokio/tokio/1051.mkv
-#EXTINF:-1,Guardiani della Galassia
-http://iptv.proff.co:15003/movie/tokio/tokio/1050.mkv
-#EXTINF:-1,Asterix e il Regno degli Dei
-http://iptv.proff.co:15003/movie/tokio/tokio/1047.mkv
-#EXTINF:-1,--DENZEL WASHINGTON--
-http://iptv.proff.co:15003/movie/tokio/tokio/1022.mkv
-#EXTINF:-1,The Equalizer
-http://iptv.proff.co:15003/movie/tokio/tokio/1023.mkv
-#EXTINF:-1,Codice Genesi
-http://iptv.proff.co:15003/movie/tokio/tokio/1024.mkv
-#EXTINF:-1,--RUSSEL CROWE--
-http://iptv.proff.co:15003/movie/tokio/tokio/1025.mkv
-#EXTINF:-1,IL GLADIATORE
-http://iptv.proff.co:15003/movie/tokio/tokio/740.mkv
-#EXTINF:-1,L.A.Confidential
-http://iptv.proff.co:15003/movie/tokio/tokio/1026.mkv
-#EXTINF:-1,---NICOLAS CAGE---
-http://iptv.proff.co:15003/movie/tokio/tokio/1028.mkv
-#EXTINF:-1,Il Cacciatore di Donne
-http://iptv.proff.co:15003/movie/tokio/tokio/1010.mkv
-#EXTINF:-1,-----JOHHNY DEEP-----
-http://iptv.proff.co:15003/movie/tokio/tokio/1029.mkv
-#EXTINF:-1,The Tourist
-http://iptv.proff.co:15003/movie/tokio/tokio/508.mkv
-#EXTINF:-1,Blow
-http://iptv.proff.co:15003/movie/tokio/tokio/395.mkv
-#EXTINF:-1,- - - - - HORROR - - - - -
-http://iptv.proff.co:15003/movie/tokio/tokio/254.mkv
-#EXTINF:-1,Ouija
-http://iptv.proff.co:15003/movie/tokio/tokio/1002.mkv
-#EXTINF:-1,La Piramide
-http://iptv.proff.co:15003/movie/tokio/tokio/1001.mkv
-#EXTINF:-1,I Origins
-http://iptv.proff.co:15003/movie/tokio/tokio/1000.mkv
-#EXTINF:-1,Clown
-http://iptv.proff.co:15003/movie/tokio/tokio/999.mkv
-#EXTINF:-1,1303 La Paura ha inizio
-http://iptv.proff.co:15003/movie/tokio/tokio/998.mkv
-#EXTINF:-1,CONSTANTINE
-http://iptv.proff.co:15003/movie/tokio/tokio/383.mkv
-#EXTINF:-1,- - - - - SERIE TV - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/170.m3u8
-#EXTINF:-1,-----STAR WARS-----
-http://iptv.proff.co:15003/movie/tokio/tokio/1467.mkv
-#EXTINF:-1,La Minaccia Fantasma Ep.1
-http://iptv.proff.co:15003/movie/tokio/tokio/1468.mkv
-#EXTINF:-1,L'Attacco dei Cloni Ep.2
-http://iptv.proff.co:15003/movie/tokio/tokio/1469.mkv
-#EXTINF:-1,La Vendetta dei Sith Ep.3
-http://iptv.proff.co:15003/movie/tokio/tokio/1470.mkv
-#EXTINF:-1,Una Nuova Speranza Ep.4
-http://iptv.proff.co:15003/movie/tokio/tokio/1471.mkv
-#EXTINF:-1,L'impero colpisce ancora Ep.5
-http://iptv.proff.co:15003/movie/tokio/tokio/1472.mkv
-#EXTINF:-1,Il Ritorno dello Jedi Ep.6
-http://iptv.proff.co:15003/movie/tokio/tokio/1473.mkv
-#EXTINF:-1,-----GOMORRA ST.1-----
-http://iptv.proff.co:15003/movie/tokio/tokio/989.mkv
-#EXTINF:-1,GOMORRA LA SERIE 1
-http://iptv.proff.co:15003/movie/tokio/tokio/172.mkv
-#EXTINF:-1,GOMORRA LA SERIE 2
-http://iptv.proff.co:15003/movie/tokio/tokio/173.mkv
-#EXTINF:-1,GOMORRA LA SERIE 3
-http://iptv.proff.co:15003/movie/tokio/tokio/174.mkv
-#EXTINF:-1,GOMORRA LA SERIE 4
-http://iptv.proff.co:15003/movie/tokio/tokio/175.mkv
-#EXTINF:-1,GOMORRA LA SERIE 5
-http://iptv.proff.co:15003/movie/tokio/tokio/176.mkv
-#EXTINF:-1,GOMORRA LA SERIE 6
-http://iptv.proff.co:15003/movie/tokio/tokio/177.mkv
-#EXTINF:-1,GOMORRA LA SERIE 7
-http://iptv.proff.co:15003/movie/tokio/tokio/178.mkv
-#EXTINF:-1,GOMORRA LA SERIE 8
-http://iptv.proff.co:15003/movie/tokio/tokio/179.mkv
-#EXTINF:-1,GOMORRA LA SERIE 9
-http://iptv.proff.co:15003/movie/tokio/tokio/180.mkv
-#EXTINF:-1,GOMORRA LA SERIE 10
-http://iptv.proff.co:15003/movie/tokio/tokio/181.mkv
-#EXTINF:-1,GOMORRA LA SERIE 11
-http://iptv.proff.co:15003/movie/tokio/tokio/182.mkv
-#EXTINF:-1,GOMORRA LA SERIE 12
-http://iptv.proff.co:15003/movie/tokio/tokio/183.mkv
-#EXTINF:-1,-----SHERLOCK-----
-http://iptv.proff.co:15003/movie/tokio/tokio/991.mkv
-#EXTINF:-1,SHERLOCK 1Â° STAGIONE EP 1
-http://iptv.proff.co:15003/movie/tokio/tokio/229.mkv
-#EXTINF:-1,SHERLOCK 1Â° STAGIONE EP. 2
-http://iptv.proff.co:15003/movie/tokio/tokio/221.mkv
-#EXTINF:-1,SHERLOCK 1Â° STAGIONE EP 3
-http://iptv.proff.co:15003/movie/tokio/tokio/222.mkv
-#EXTINF:-1,SHERLOCK 2Â° STAGIONE EP 1
-http://iptv.proff.co:15003/movie/tokio/tokio/223.mkv
-#EXTINF:-1,SHERLOCK 2Â° STAGIONE EP 2
-http://iptv.proff.co:15003/movie/tokio/tokio/224.mkv
-#EXTINF:-1,SHERLOCK 2Â° STAGIONE EP 3
-http://iptv.proff.co:15003/movie/tokio/tokio/225.mkv
-#EXTINF:-1,SHERLOCK 3Â° STAGIONE EP 1
-http://iptv.proff.co:15003/movie/tokio/tokio/226.mkv
-#EXTINF:-1,SHERLOCK 3Â° STAGIONE EP 2
-http://iptv.proff.co:15003/movie/tokio/tokio/227.mkv
-#EXTINF:-1,SHERLOCK 3Â° STAGIONE EP 3
-http://iptv.proff.co:15003/movie/tokio/tokio/228.mkv
-#EXTINF:-1,- - - - - CARTONI - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/184.m3u8
-#EXTINF:-1,Hotel Transylvania 2
-http://iptv.proff.co:15003/movie/tokio/tokio/1602.mkv
-#EXTINF:-1,Home - A casa
-http://iptv.proff.co:15003/movie/tokio/tokio/1601.mkv
-#EXTINF:-1,Il viaggio di Arlo
-http://iptv.proff.co:15003/movie/tokio/tokio/1483.mkv
-#EXTINF:-1,SpongeBob Fuori dall'Acqua
-http://iptv.proff.co:15003/movie/tokio/tokio/1604.mkv
-#EXTINF:-1,Minions
-http://iptv.proff.co:15003/movie/tokio/tokio/1603.mkv
-#EXTINF:-1,Inside Out
-http://iptv.proff.co:15003/movie/tokio/tokio/1605.mkv
-#EXTINF:-1,VIOLETTA IN CONCERTO
-http://iptv.proff.co:15003/movie/tokio/tokio/332.mkv
-#EXTINF:-1,PADDINGTON 2014
-http://iptv.proff.co:15003/movie/tokio/tokio/333.mkv
-#EXTINF:-1,Cenerentola 2015 - Il Film
-http://iptv.proff.co:15003/movie/tokio/tokio/1049.mkv
-#EXTINF:-1,Trilli e la creatura Legendaria
-http://iptv.proff.co:15003/movie/tokio/tokio/1057.mkv
-#EXTINF:-1,Winx Club - Il mistero degli abissi
-http://iptv.proff.co:15003/movie/tokio/tokio/1058.mkv
-#EXTINF:-1,FROZEN IL REGNO DI GHIACCIO
-http://iptv.proff.co:15003/movie/tokio/tokio/190.mkv
-#EXTINF:-1,BIG HERO 6
-http://iptv.proff.co:15003/movie/tokio/tokio/231.mkv
-#EXTINF:-1,------ PROFF CHANELL ------
-http://iptv.proff.co:15003/live/tokio/tokio/1046.m3u8
-#EXTINF:-1,Proff Channel 1 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1253.m3u8
-#EXTINF:-1,Proff Channel 2 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1254.m3u8
-#EXTINF:-1,Proff Channel 3 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1255.m3u8
-#EXTINF:-1,Proff Channel 4 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1256.m3u8
-#EXTINF:-1,Proff Channel 5 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1257.m3u8
-#EXTINF:-1,Proff Channel 6 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1258.m3u8
-#EXTINF:-1,Proff Channel 7 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1259.m3u8
-#EXTINF:-1,Proff Channel 8 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1260.m3u8
-#EXTINF:-1,Proff Channel 9 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1261.m3u8
-#EXTINF:-1,Proff Channel 10 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1262.m3u8
-#EXTINF:-1,Proff Channel 11 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1263.m3u8
-#EXTINF:-1,Proff Channel 12 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1264.m3u8
-#EXTINF:-1,Proff Channel 13 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1265.m3u8
-#EXTINF:-1,Proff Channel 14 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1266.m3u8
-#EXTINF:-1,Proff Channel 1080 HD
-http://iptv.proff.co:15003/live/tokio/tokio/1267.m3u8
-#EXTINF:-1,Proff Channel 3D HD
-http://iptv.proff.co:15003/live/tokio/tokio/1268.m3u8
-#EXTINF:-1,- - - - - - ADULTI LIVE  - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/168.m3u8
-#EXTINF:-1,SCT
-http://iptv.proff.co:15003/live/tokio/tokio/140.m3u8
-#EXTINF:-1,Esotica tv
-http://iptv.proff.co:15003/live/tokio/tokio/141.m3u8
-#EXTINF:-1,SESTO SENSO TV
-http://iptv.proff.co:15003/live/tokio/tokio/148.m3u8
-#EXTINF:-1,PINK O TV
-http://iptv.proff.co:15003/live/tokio/tokio/149.m3u8
-#EXTINF:-1,CENTOXCENTO TV
-http://iptv.proff.co:15003/live/tokio/tokio/505.m3u8
-#EXTINF:-1,TGIRLS TV
-http://iptv.proff.co:15003/live/tokio/tokio/150.m3u8
-#EXTINF:-1,--- PROFF HotClub 200 FILM NO STOP ---
-http://iptv.proff.co:15003/live/tokio/tokio/1479.m3u8
-#EXTINF:-1,PROFF HotClub 1
-http://iptv.proff.co:15003/live/tokio/tokio/1474.m3u8
-#EXTINF:-1,PROFF HotClub 2
-http://iptv.proff.co:15003/live/tokio/tokio/1475.m3u8
-#EXTINF:-1,PROFF HotClub 3
-http://iptv.proff.co:15003/live/tokio/tokio/1476.m3u8
-#EXTINF:-1,PROFF HotClub 4
-http://iptv.proff.co:15003/live/tokio/tokio/1477.m3u8
-#EXTINF:-1,PROFF HotClub 5
-http://iptv.proff.co:15003/live/tokio/tokio/1478.m3u8
-#EXTINF:-1,- - - - - -  ADULTI MOVIE  - - - - - -
-http://iptv.proff.co:15003/live/tokio/tokio/205.m3u8
-#EXTINF:-1,ADULTI MOVIE 1
-http://iptv.proff.co:15003/movie/tokio/tokio/206.mp4
-#EXTINF:-1,ADULTI MOVIE 2
-http://iptv.proff.co:15003/movie/tokio/tokio/207.mkv
-#EXTINF:-1,ADULTI MOVIE 3
-http://iptv.proff.co:15003/movie/tokio/tokio/208.mkv
-#EXTINF:-1,ADULTI MOVIE 4
-http://iptv.proff.co:15003/movie/tokio/tokio/209.mkv
-#EXTINF:-1,ADULTI MOVIE 5
-http://iptv.proff.co:15003/movie/tokio/tokio/210.mkv
-#EXTINF:-1,ADULTI MOVIE 6
-http://iptv.proff.co:15003/movie/tokio/tokio/213.mkv
-#EXTINF:-1,ADULTI MOVIE 7
-http://iptv.proff.co:15003/movie/tokio/tokio/211.mkv
-#EXTINF:-1,ADULTI MOVIE 8
-http://iptv.proff.co:15003/movie/tokio/tokio/212.mkv
-#EXTINF:-1,ADULTI MOVIE 9
-http://iptv.proff.co:15003/movie/tokio/tokio/214.mp4
-#EXTINF:-1,ADULTI MOVIE 10
-http://iptv.proff.co:15003/movie/tokio/tokio/215.mkv
+
+#EXTINF:-1,VIP: Bein Sports News HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6211.ts
+#EXTINF:-1,VIP: Bein Sports HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6624.ts
+#EXTINF:-1,VIP: Bein Sport 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5330.ts
+#EXTINF:-1,VIP: Bein Sport 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5329.ts
+#EXTINF:-1,VIP: Bein Sport 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5328.ts
+#EXTINF:-1,VIP: Bein Sport 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5327.ts
+#EXTINF:-1,VIP: Bein Sport 5 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5326.ts
+#EXTINF:-1,VIP: Bein Sport 6 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5325.ts
+#EXTINF:-1,VIP: Bein Sport 7 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5324.ts
+#EXTINF:-1,VIP: Bein Sport 8 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5323.ts
+#EXTINF:-1,VIP: Bein Sport 9 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5322.ts
+#EXTINF:-1,VIP: Bein Sport 10 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5331.ts
+#EXTINF:-1,VIP: Bein Sport 11 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7804.ts
+#EXTINF:-1,VIP: Bein Sport 12 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7805.ts
+#EXTINF:-1,VIP: Bein Sport 13 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5334.ts
+#EXTINF:-1,VIP: Bein Sport 14 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5446.ts
+#EXTINF:-1,VIP: Bein Sport 15 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5447.ts
+#EXTINF:-1,VIP: Bein Sports 16 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6440.ts
+#EXTINF:-1,VIP: Bein Sports 1 Fr
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5689.ts
+#EXTINF:-1,VIP: Bein Sports 2 Fr
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5690.ts
+#EXTINF:-1,VIP: Bein Sports 3 Fr
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5691.ts
+#EXTINF:-1,VIP: Bein Sports ES
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5872.ts
+#EXTINF:-1,VIP: NBA HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6800.ts
+#EXTINF:-1,VIP: RealMadrid
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6466.ts
+#EXTINF:-1,VIP: Barca TV
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6464.ts
+#EXTINF:-1,VIP: MUTV
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6467.ts
+#EXTINF:-1,VIP: Liverpool
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6465.ts
+#EXTINF:-1,VIP OSN: AD Sports 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6132.ts
+#EXTINF:-1,VIP OSN: AD Sports 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6131.ts
+#EXTINF:-1,VIP OSN: AD Sports 5 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6130.ts
+#EXTINF:-1,VIP OSN: AD Sports 6 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7859.ts
+#EXTINF:-1,VIP: OSN Sports 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7560.ts
+#EXTINF:-1,VIP: OSN Sports 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6206.ts
+#EXTINF:-1,VIP: OSN Sports 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7478.ts
+#EXTINF:-1,VIP: OSN Sports 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6977.ts
+#EXTINF:-1,VIP: OSN FightNetwork
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7556.ts
+#EXTINF:-1,VIP OSN: WWE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6108.ts
+#EXTINF:-1,VIP: FIGHT BOX HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7818.ts
+#EXTINF:-1,VIP: BOX OFFICE SPORTS HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7821.ts
+#EXTINF:-1,PACK: Bein Sport 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7800.ts
+#EXTINF:-1,PACK: Bein Sport 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7799.ts
+#EXTINF:-1,PACK: Bein Sport 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7798.ts
+#EXTINF:-1,PACK: Bein Sport 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7797.ts
+#EXTINF:-1,PACK: Bein Sport 5 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7796.ts
+#EXTINF:-1,PACK: Bein Sport 6 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7795.ts
+#EXTINF:-1,PACK: Bein Sport 7 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7794.ts
+#EXTINF:-1,PACK: Bein Sport 8 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7793.ts
+#EXTINF:-1,PACK: Bein Sport 9 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7792.ts
+#EXTINF:-1,PACK: Bein Sport 10 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7803.ts
+#EXTINF:-1,PACK: Bein Sport 11 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7802.ts
+#EXTINF:-1,PACK: Bein Sport 12 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7801.ts
+#EXTINF:-1,VIP: beIN Sport 1 LOW
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7720.ts
+#EXTINF:-1,VIP: beIN Sport 2 LOW
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7719.ts
+#EXTINF:-1,VIP: beIN Sport 3 LOW
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7718.ts
+#EXTINF:-1,VIP: beIN Sport 4 LOW
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7717.ts
+#EXTINF:-1,VIP: beIN Sport 5 LOW
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7716.ts
+#EXTINF:-1,VIP: beIN Sport 6 LOW
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7715.ts
+#EXTINF:-1,VIP: beIN Sport 7 LOW
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7714.ts
+#EXTINF:-1,Bein Sport 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7788.ts
+#EXTINF:-1,Bein Sport 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7787.ts
+#EXTINF:-1,Bein Sport 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7786.ts
+#EXTINF:-1,Bein Sport 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7785.ts
+#EXTINF:-1,Bein Sport 5 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7784.ts
+#EXTINF:-1,Bein Sport 6 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7783.ts
+#EXTINF:-1,Bein Sport 7 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7782.ts
+#EXTINF:-1,Bein Sport 8 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7781.ts
+#EXTINF:-1,Bein Sport 9 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7780.ts
+#EXTINF:-1,Bein Sport 10 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7791.ts
+#EXTINF:-1,Bein Sport 11 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7790.ts
+#EXTINF:-1,Bein Sport 12 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7789.ts
+#EXTINF:-1,------ OSN & ART ------
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2764.ts
+#EXTINF:-1,AR: ART Aflam 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/159.ts
+#EXTINF:-1,AR: ART Aflam 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/158.ts
+#EXTINF:-1,AR: ART CINEMA
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/930.ts
+#EXTINF:-1,AR: ART Hekayat 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/509.ts
+#EXTINF:-1,AR: ART Hekayat 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/156.ts
+#EXTINF:-1,OSN: Animal Planet HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/923.ts
+#EXTINF:-1,OSN: NAT GEO WILD HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1244.ts
+#EXTINF:-1,OSN: Discovery ID
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5213.ts
+#EXTINF:-1,OSN: Discovery Sc HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/921.ts
+#EXTINF:-1,OSN: Cinema 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/980.ts
+#EXTINF:-1,OSN: CINEMA 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1162.ts
+#EXTINF:-1,OSN: YA HALA HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1158.ts
+#EXTINF:-1,OSN: YAHALA DRAMA HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1165.ts
+#EXTINF:-1,OSN: ALYOUM
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1778.ts
+#EXTINF:-1,OSN: YA HALA SHABA HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/890.ts
+#EXTINF:-1,OSN: FIRST HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1159.ts
+#EXTINF:-1,OSN: First Comedy HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/983.ts
+#EXTINF:-1,OSN: WWE HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2946.ts
+#EXTINF:-1,OSN: OSN SPORTS 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3236.ts
+#EXTINF:-1,OSN: MOVIES HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2656.ts
+#EXTINF:-1,OSN: Movies Premiere HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/121.ts
+#EXTINF:-1,OSN: Movies Action HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1019.ts
+#EXTINF:-1,OSN: MOVIES ACTION +2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1242.ts
+#EXTINF:-1,OSN: Movies +2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/888.ts
+#EXTINF:-1,OSN: Movies HD Premiere
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/989.ts
+#EXTINF:-1,OSN: Movies Premiere 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2607.ts
+#EXTINF:-1,OSN: Movies Festival HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2608.ts
+#EXTINF:-1,OSN: Movies HD Drama
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/984.ts
+#EXTINF:-1,OSN: MOVIES KIDS HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1246.ts
+#EXTINF:-1,OSN: MOVIES Comedy HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1245.ts
+#EXTINF:-1,OSN: STAR MOVIES HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2947.ts
+#EXTINF:-1,OSN: STAR WORLD HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2748.ts
+#EXTINF:-1,OSN: AMC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2942.ts
+#EXTINF:-1,OSN: BOX 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2945.ts
+#EXTINF:-1,OSN: BOX 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2944.ts
+#EXTINF:-1,OSN: BOX 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2943.ts
+#EXTINF:-1,OSN: ID
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5875.ts
+#EXTINF:-1,OSN: CBS REALITY
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5874.ts
+#EXTINF:-1,OSN: MOVIES ACTION +2 PACKUP
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1247.ts
+#EXTINF:-1,OSN: ON-Demand HD7
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3505.ts
+#EXTINF:-1,OSN: Movies Box Office 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2482.ts
+#EXTINF:-1,OSN: Movies Box Office 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2483.ts
+#EXTINF:-1,OSN: Movies Box Office 3
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2396.ts
+#EXTINF:-1,BOX-OFFICE-1-HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2611.ts
+#EXTINF:-1,BOX-OFFICE-2-HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2610.ts
+#EXTINF:-1,BOX-OFFICE-3-HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2609.ts
+#EXTINF:-1,beINSports 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1810.ts
+#EXTINF:-1,beINSports 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1811.ts
+#EXTINF:-1,beINSports 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1812.ts
+#EXTINF:-1,beINSports 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1813.ts
+#EXTINF:-1,beINSports 5 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1814.ts
+#EXTINF:-1,beINSports 6 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1815.ts
+#EXTINF:-1,beINSports 7 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1816.ts
+#EXTINF:-1,beINSports 8 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1817.ts
+#EXTINF:-1,beINSports 9 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1818.ts
+#EXTINF:-1,beINSports 10 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1819.ts
+#EXTINF:-1,beINSports 11 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2062.ts
+#EXTINF:-1,beINSports 12 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3511.ts
+#EXTINF:-1,beINSports 13 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3799.ts
+#EXTINF:-1,beINSports 14 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5684.ts
+#EXTINF:-1,beINSports 15 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5683.ts
+#EXTINF:-1,beINSports 16 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5682.ts
+#EXTINF:-1,------ USA ------
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2768.ts
+#EXTINF:-1,USA: Bein Sports US
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4644.ts
+#EXTINF:-1,USA: Bein Sports N
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7419.ts
+#EXTINF:-1,SP: CTH STADIUM 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1562.ts
+#EXTINF:-1,SP: CTH STADIUM 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1563.ts
+#EXTINF:-1,SP: CTH STADIUM 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1564.ts
+#EXTINF:-1,SP: CTH STADIUM 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1885.ts
+#EXTINF:-1,SP: CTH STADIUM 5 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1886.ts
+#EXTINF:-1,SP: CTH STADIUM 6 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1887.ts
+#EXTINF:-1,SP: CTH STADIUM X
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2045.ts
+#EXTINF:-1,USA: Fox Sport 1 Malaysia
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3880.ts
+#EXTINF:-1,USA: Fox Sport 2 Malaysia
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3881.ts
+#EXTINF:-1,USA: Astro Supersport 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3876.ts
+#EXTINF:-1,USA: Astro Supersport 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3877.ts
+#EXTINF:-1,USA: Astro Supersport 3
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3878.ts
+#EXTINF:-1,USA: Astro Supersport 4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3879.ts
+#EXTINF:-1,USA: SportNet One HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7825.ts
+#EXTINF:-1,USA: SportNet 360 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7824.ts
+#EXTINF:-1,USA: SportsNet World HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7756.ts
+#EXTINF:-1,USA: SportsNet Ontario
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7757.ts
+#EXTINF:-1,USA: SportsNet One HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7758.ts
+#EXTINF:-1,TH: Fox Sports 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7779.ts
+#EXTINF:-1,TH: Fox Sports 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7778.ts
+#EXTINF:-1,TH: Fox Sports 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7777.ts
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6213.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6214.ts
+#EXTINF:-1,USA: CBS SPORTS NETWORK
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7643.ts
+#EXTINF:-1,USA: TSN 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2299.ts
+#EXTINF:-1,USA: TSN 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2298.ts
+#EXTINF:-1,USA: TSN 3
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2297.ts
+#EXTINF:-1,USA: TSN 4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2296.ts
+#EXTINF:-1,USA: TSN 5
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2295.ts
+#EXTINF:-1,USA: ESPN 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5884.ts
+#EXTINF:-1,USA: ESPN 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5885.ts
+#EXTINF:-1,USA: CBS Sport Network
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7422.ts
+#EXTINF:-1,USA: NBC SPORTS HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6820.ts
+#EXTINF:-1,USA: USA Network
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6808.ts
+#EXTINF:-1,USA: NHL Network
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7418.ts
+#EXTINF:-1,USA: MLB
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7423.ts
+#EXTINF:-1,USA: NFL
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6812.ts
+#EXTINF:-1,USA: NBC GOLF
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6829.ts
+#EXTINF:-1,USA: WWE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6807.ts
+#EXTINF:-1,USA: US WWE HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4270.ts
+#EXTINF:-1,USA: PAG HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7416.ts
+#EXTINF:-1,USA: Fox Sports Florida
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7432.ts
+#EXTINF:-1,USA: FOX Sport GO
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7461.ts
+#EXTINF:-1,USA: FOX Soccer Plus
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7460.ts
+#EXTINF:-1,USA: FOX Motor Sports 7 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7365.ts
+#EXTINF:-1,USA: Fox Deportes
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7433.ts
+#EXTINF:-1,USA: Willow HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7435.ts
+#EXTINF:-1,USA: FOX Sports Live 503 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7366.ts
+#EXTINF:-1,USA: NBA US HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4272.ts
+#EXTINF:-1,USA: NBC SPORT
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6817.ts
+#EXTINF:-1,USA: ESPN HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5899.ts
+#EXTINF:-1,USA: Food Network
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7434.ts
+#EXTINF:-1,USA: Fight Network
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7459.ts
+#EXTINF:-1,USA: Fight Channel
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7458.ts
+#EXTINF:-1,USA: AFN PULSE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5914.ts
+#EXTINF:-1,USA: AFN SPORTS HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5917.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5907.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5906.ts
+#EXTINF:-1,USA: AFN SPECTRUM
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5898.ts
+#EXTINF:-1,USA: AFN PRIME PACIFIC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5913.ts
+#EXTINF:-1,USA: AFN PRIME ATLANTIC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5912.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5908.ts
+#EXTINF:-1,USA: AFN NEWS
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5901.ts
+#EXTINF:-1,USA: VH1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5791.ts
+#EXTINF:-1,USA: Showtime HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6623.ts
+#EXTINF:-1,USA: SyFy US
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6090.ts
+#EXTINF:-1,USA: TLC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6810.ts
+#EXTINF:-1,USA: TBS HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6809.ts
+#EXTINF:-1,USA: STAR Z CINEMA
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6831.ts
+#EXTINF:-1,USA: SPACE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6806.ts
+#EXTINF:-1,USA: POCKER CENTRAL
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6815.ts
+#EXTINF:-1,USA: NICK
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6816.ts
+#EXTINF:-1,USA: NBC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6818.ts
+#EXTINF:-1,USA: LIFE TIME
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6813.ts
+#EXTINF:-1,USA: HBO Plus
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7462.ts
+#EXTINF:-1,USA: HBO Oeste
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7464.ts
+#EXTINF:-1,USA: HBO Family
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7463.ts
+#EXTINF:-1,USA: HBO
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6826.ts
+#EXTINF:-1,USA: HBO ZONE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6823.ts
+#EXTINF:-1,USA: HBO SIGNATURE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6824.ts
+#EXTINF:-1,USA: HBO COMEDY
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6825.ts
+#EXTINF:-1,USA: HALLMARK
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6827.ts
+#EXTINF:-1,USA: HIFI
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6822.ts
+#EXTINF:-1,USA: H2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6828.ts
+#EXTINF:-1,USA: E!
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6830.ts
+#EXTINF:-1,USA: CNN
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6814.ts
+#EXTINF:-1,USA: CNBC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3860.ts
+#EXTINF:-1,USA: Starz Cinema HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6432.ts
+#EXTINF:-1,USA: WTF
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7421.ts
+#EXTINF:-1,USA: World Fashion Channel
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7443.ts
+#EXTINF:-1,USA: WGN 9
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7425.ts
+#EXTINF:-1,USA: Travel Channel
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7436.ts
+#EXTINF:-1,USA: The Cooking Channel
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7437.ts
+#EXTINF:-1,USA: Poker Central
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7439.ts
+#EXTINF:-1,USA: NASA TV
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7367.ts
+#EXTINF:-1,USA: History Channel Canada
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7426.ts
+#EXTINF:-1,USA: HGTV
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7438.ts
+#EXTINF:-1,USA: Global TV Toronto
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7429.ts
+#EXTINF:-1,USA: Global TV Halifax
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7430.ts
+#EXTINF:-1,USA: Global TV BC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7431.ts
+#EXTINF:-1,USA: FX HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7417.ts
+#EXTINF:-1,USA: CNBC HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7414.ts
+#EXTINF:-1,USA: CBS
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7415.ts
+#EXTINF:-1,USA: DISCOVERY US HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7368.ts
+#EXTINF:-1,USA: CBSN US
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7820.ts
+#EXTINF:-1,USA: CSPAN 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7442.ts
+#EXTINF:-1,USA: CSPAN 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7441.ts
+#EXTINF:-1,USA: CSPAN 3
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7440.ts
+#EXTINF:-1,USA: AMC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7413.ts
+#EXTINF:-1,USA: Amazing Discoveries
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7424.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5130.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5129.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5128.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5127.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5126.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5125.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5124.ts
+#EXTINF:-1,------ ITALY ------
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2914.ts
+#EXTINF:-1,IT: Prima Fila WWE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5387.ts
+#EXTINF:-1,IT: FOX SPORTS PLUS HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3345.ts
+#EXTINF:-1,IT-: Premium Sport HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2723.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6801.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5302.ts
+#EXTINF:-1,IT-: Premium Calcio HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2724.ts
+#EXTINF:-1,IT: Sky Sport Plus HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1404.ts
+#EXTINF:-1,IT: Fox Sports HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1410.ts
+#EXTINF:-1,IT: SKY SPORT 24 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2283.ts
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1853.ts
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1881.ts
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1405.ts
+#EXTINF:-1,IT: Sky Super Calcio HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1406.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2398.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2399.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2806.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4565.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4566.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4960.ts
+#EXTINF:-1,IT: Sky Calcio 7 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4961.ts
+#EXTINF:-1,IT: Sky Calcio 8 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4962.ts
+#EXTINF:-1,IT: Sky Calcio 9 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6263.ts
+#EXTINF:-1,IT: Sky Calcio 10 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6264.ts
+#EXTINF:-1,IT: PREMIUM FOX SPORTS
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2441.ts
+#EXTINF:-1,IT: FOX SPORT 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2791.ts
+#EXTINF:-1,IT: PREMIUM SPORT HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1241.ts
+#EXTINF:-1,IT: Premium Calcio SD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2784.ts
+#EXTINF:-1,IT: Premium Calcio ( Low )
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5093.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2799.ts
+#EXTINF:-1,IT: Premium Calcio 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2800.ts
+#EXTINF:-1,IT: Premium Calcio 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1402.ts
+#EXTINF:-1,IT: Premium Calcio 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1401.ts
+#EXTINF:-1,IT: Premium Calcio 3
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1400.ts
+#EXTINF:-1,IT: Premium Calcio 4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2106.ts
+#EXTINF:-1,IT: Premium Calcio 5
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2105.ts
+#EXTINF:-1,IT: Premium Calcio 6
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4050.ts
+#EXTINF:-1,IT: Premium Calcio 7
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5018.ts
+#EXTINF:-1,IT: Eurosport 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4094.ts
+#EXTINF:-1,IT: Eurosport 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4091.ts
+#EXTINF:-1,IT: Sky Sport MotoGP HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4338.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1403.ts
+#EXTINF:-1,IT: Sky Fox Sports HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6888.ts
+#EXTINF:-1,IT: Milan Channel
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2794.ts
+#EXTINF:-1,IT: JUVE CH HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2792.ts
+#EXTINF:-1,IT: Inter Ch
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3570.ts
+#EXTINF:-1,IT: Roma Channel
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5012.ts
+#EXTINF:-1,IT: Lazio Style Channel
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6889.ts
+#EXTINF:-1,IT: SUPER TENNIS HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2939.ts
+#EXTINF:-1,IT: SPORT ITALIA
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1992.ts
+#EXTINF:-1,IT: BIKE CHANNEL HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6892.ts
+#EXTINF:-1,IT: Rete 8 Sport
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6891.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2336.ts
+#EXTINF:-1,IT: Sky Uno+1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6574.ts
+#EXTINF:-1,IT: Fox HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1411.ts
+#EXTINF:-1,IT: Fox+1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6475.ts
+#EXTINF:-1,IT: FOX LIFE HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4424.ts
+#EXTINF:-1,IT: Fox Crime HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4776.ts
+#EXTINF:-1,IT: Fox Comedy HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4777.ts
+#EXTINF:-1,IT: Fox Animation HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5010.ts
+#EXTINF:-1,IT: Paramount Ch
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7604.ts
+#EXTINF:-1,IT: ITALIA 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2177.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2716.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2416.ts
+#EXTINF:-1,IT: SKY Cinema1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1415.ts
+#EXTINF:-1,IT: Sky Cinema+1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3719.ts
+#EXTINF:-1,IT: Sky Cinema+24 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5008.ts
+#EXTINF:-1,IT: SKY Cinema Family HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1413.ts
+#EXTINF:-1,IT: Sky Cinema Family+1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5009.ts
+#EXTINF:-1,IT: SKY CINEMA HITS HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2181.ts
+#EXTINF:-1,IT: SKY Cinema Passion HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3983.ts
+#EXTINF:-1,IT: SKY CINEMA MAX HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2182.ts
+#EXTINF:-1,IT: Sky Cinema Max+1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4416.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2959.ts
+#EXTINF:-1,IT: SKY CINEMA CULT HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2183.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4176.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2443.ts
+#EXTINF:-1,IT: Premium Action HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2050.ts
+#EXTINF:-1,IT: Premium Action  24
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2403.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2051.ts
+#EXTINF:-1,IT: Premium Cinema +24
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3982.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2052.ts
+#EXTINF:-1,IT: Premium Cinema2  24
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2053.ts
+#EXTINF:-1,IT: Premium Comedy
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2054.ts
+#EXTINF:-1,IT: PREMIUM STORIES
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2175.ts
+#EXTINF:-1,IT: Premium Joi
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2261.ts
+#EXTINF:-1,IT: Premium Joi+24
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7391.ts
+#EXTINF:-1,IT: Premium Energy
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2262.ts
+#EXTINF:-1,IT: Premium Emotion
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4228.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4177.ts
+#EXTINF:-1,IT: Premium Crime 24
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2339.ts
+#EXTINF:-1,IT: Premium Crime2  24
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3571.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2260.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2969.ts
+#EXTINF:-1,IT: Mediaset Italia 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2793.ts
+#EXTINF:-1,IT: Premium Top Crime
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2807.ts
+#EXTINF:-1,IT: Premium BBC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2798.ts
+#EXTINF:-1,IT: La7 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3787.ts
+#EXTINF:-1,IT: LA7 D
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3788.ts
+#EXTINF:-1,IT: RAI 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2963.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2962.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4162.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4161.ts
+#EXTINF:-1,IT: Rai 5
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3569.ts
+#EXTINF:-1,IT: Sky Arte HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4160.ts
+#EXTINF:-1,IT: Lei
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4048.ts
+#EXTINF:-1,IT: Deejay TV
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4097.ts
+#EXTINF:-1,IT: DeeJay Tv   1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6862.ts
+#EXTINF:-1,IT: Alice
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4098.ts
+#EXTINF:-1,IT: Fine Living
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4096.ts
+#EXTINF:-1,IT: Real Time
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4093.ts
+#EXTINF:-1,IT: Real Time  1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6886.ts
+#EXTINF:-1,IT: Nuvolari
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4417.ts
+#EXTINF:-1,IT: Marco Polo
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4780.ts
+#EXTINF:-1,IT: E! Entertainment
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6887.ts
+#EXTINF:-1,IT: AXN HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4779.ts
+#EXTINF:-1,IT: AXN Sci-Fi
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5011.ts
+#EXTINF:-1,IT: m2o hd
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6895.ts
+#EXTINF:-1,IT: MTV8
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5004.ts
+#EXTINF:-1,IT: MTV Italia
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5005.ts
+#EXTINF:-1,IT: MTV Music
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7392.ts
+#EXTINF:-1,IT: Videolina
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7394.ts
+#EXTINF:-1,IT: Iris
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5003.ts
+#EXTINF:-1,IT: HISTORY HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4423.ts
+#EXTINF:-1,IT: Giallo
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4569.ts
+#EXTINF:-1,IT: Focus
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4420.ts
+#EXTINF:-1,IT: DMAX HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5013.ts
+#EXTINF:-1,IT: Dmax  1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6893.ts
+#EXTINF:-1,IT: Explora HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4159.ts
+#EXTINF:-1,IT: National Geo HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2797.ts
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5735.ts
+#EXTINF:-1,IT: Nat Geo People HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4422.ts
+#EXTINF:-1,IT: Discovery Channel HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1412.ts
+#EXTINF:-1,IT: Discovery World
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5240.ts
+#EXTINF:-1,IT: Discovery Travel & Living HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4415.ts
+#EXTINF:-1,IT: Discovery Science HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4413.ts
+#EXTINF:-1,IT: Crime Investigation HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4414.ts
+#EXTINF:-1,IT: Cielo HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4412.ts
+#EXTINF:-1,IT: CACCIA e Pesca
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4421.ts
+#EXTINF:-1,IT: PESCA e Caccia
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4095.ts
+#EXTINF:-1,IT: Gambero Rosso HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5733.ts
+#EXTINF:-1,IT: Animal Planet
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2779.ts
+#EXTINF:-1,IT: TGCOM 24
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5432.ts
+#EXTINF:-1,IT: SKY TG24 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1995.ts
+#EXTINF:-1,IT: RAI Sport 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2002.ts
+#EXTINF:-1,IT: RAI sport 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2001.ts
+#EXTINF:-1,IT: RAI SCUOLA
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2003.ts
+#EXTINF:-1,IT: RAI PREMIUM
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2004.ts
+#EXTINF:-1,IT: RAI NEWS 24
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2005.ts
+#EXTINF:-1,IT: RAI MOVIE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2006.ts
+#EXTINF:-1,IT: LA 3
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2023.ts
+#EXTINF:-1,IT: LA5
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5734.ts
+#EXTINF:-1,IT: Laeffe
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6836.ts
+#EXTINF:-1,IT: Rai yoyo
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5016.ts
+#EXTINF:-1,IT: RAI GULP
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2007.ts
+#EXTINF:-1,IT: Disney Channel
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5732.ts
+#EXTINF:-1,IT: Disney Channel+1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6894.ts
+#EXTINF:-1,IT: Premium Disney Junior
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5014.ts
+#EXTINF:-1,IT: Disney XD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2785.ts
+#EXTINF:-1,IT: CARTOONITO
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2782.ts
+#EXTINF:-1,IT: CARTOON NETWORK
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2781.ts
+#EXTINF:-1,IT: Boing
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3947.ts
+#EXTINF:-1,IT: Super !
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4092.ts
+#EXTINF:-1,IT: MAN-GA
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5303.ts
+#EXTINF:-1,IT: Frisbee
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4158.ts
+#EXTINF:-1,IT: Family Club
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5015.ts
+#EXTINF:-1,IT: K2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4419.ts
+#EXTINF:-1,IT: Teleticino HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5736.ts
+#EXTINF:-1,IT: TV8
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6861.ts
+#EXTINF:-1,IT: Prima fila 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2055.ts
+#EXTINF:-1,IT: Prima Fila 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4622.ts
+#EXTINF:-1,IT: Prima Fila 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4169.ts
+#EXTINF:-1,IT: Prima Fila 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4168.ts
+#EXTINF:-1,IT: Prima Fila 5 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4167.ts
+#EXTINF:-1,IT: Prima Fila 6 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4166.ts
+#EXTINF:-1,IT: Prima Fila 7 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4165.ts
+#EXTINF:-1,IT: Prima Fila 8 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4164.ts
+#EXTINF:-1,IT: Prima Fila 9 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4163.ts
+#EXTINF:-1,IT: Prima Fila 10 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4175.ts
+#EXTINF:-1,IT: Prima Fila 11 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6863.ts
+#EXTINF:-1,IT: Prima Fila 12 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6864.ts
+#EXTINF:-1,IT: Prima Fila 13 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6865.ts
+#EXTINF:-1,IT: Prima Fila 14 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6866.ts
+#EXTINF:-1,IT: Prima Fila 15 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6867.ts
+#EXTINF:-1,IT: Prima Fila 16 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6868.ts
+#EXTINF:-1,IT: Prima Fila 17 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6869.ts
+#EXTINF:-1,IT: Prima Fila 18 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6870.ts
+#EXTINF:-1,------ UK-GB ------
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2916.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6911.ts
+#EXTINF:-1,UK: BT Sports 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/671.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6912.ts
+#EXTINF:-1,UK: BT Sports 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/817.ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6780.ts
+#EXTINF:-1,UK: BT Sport Europe
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6858.ts
+#EXTINF:-1,UK: BT_Sport ESPN
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1440.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/4223.ts
+#EXTINF:-1,UK: SKY SPORTS 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2159.ts
+#EXTINF:-1,UK: SKY SPORTS 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1842.ts
+#EXTINF:-1,UK: SKY SPORTS 2 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2160.ts
+#EXTINF:-1,UK: SKY SPORTS 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1841.ts
+#EXTINF:-1,UK: SKY SPORTS 3 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2161.ts
+#EXTINF:-1,UK: SKY SPORTS 3
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1840.ts
+#EXTINF:-1,UK: SKY SPORTS 4 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2162.ts
+#EXTINF:-1,UK: SKY SPORTS 4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1839.ts
+#EXTINF:-1,UK: SKY SPORTS 5 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2163.ts
+#EXTINF:-1,UK: SKY SPORTS 5
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1838.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HQ
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2165.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3855.ts
+#EXTINF:-1,UK: PREMIER_SPORT
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1580.ts
+#EXTINF:-1,UK: SATENTA SPORT
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1579.ts
+#EXTINF:-1,UK: SETENTA Irland
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3531.ts
+#EXTINF:-1,UK: Setanta Sports 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5768.ts
+#EXTINF:-1,UK: PREMIERE SPORT HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2169.ts
+#EXTINF:-1,UK: Eurosport 1 UK
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3856.ts
+#EXTINF:-1,UK: EUROSPORT 2 UK
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2660.ts
+#EXTINF:-1,UK: MUTV HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2158.ts
+#EXTINF:-1,UK: Chelsea FC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5745.ts
+#EXTINF:-1,UK: LFC TV
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5436.ts
+#EXTINF:-1,UK: Mototrs TV
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5749.ts
+#EXTINF:-1,UK: Racing UK
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5769.ts
+#EXTINF:-1,UK: AT THE RACES
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6906.ts
+#EXTINF:-1,UK: BOX NATION  HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2174.ts
+#EXTINF:-1,UK: Sky Movies Thriller
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1416.ts
+#EXTINF:-1,UK: Sky Movies Showcase
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1417.ts
+#EXTINF:-1,UK: Sky Movies ScFi-Horror HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1419.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1420.ts
+#EXTINF:-1,UK: Sky Movies Premiere 1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6915.ts
+#EXTINF:-1,UK: Sky Movies Modern Greats HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1421.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1422.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2096.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2097.ts
+#EXTINF:-1,UK: Sky Movies Crime & Thriller
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2098.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1424.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1426.ts
+#EXTINF:-1,UK: Sky Movies Monsters
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6570.ts
+#EXTINF:-1,UK: Sky Movies Action&Adventure
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1427.ts
+#EXTINF:-1,UK: MOVIES24
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5564.ts
+#EXTINF:-1,UK: Horror
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5653.ts
+#EXTINF:-1,UK: True Movies 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2437.ts
+#EXTINF:-1,UK: True Movies 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2436.ts
+#EXTINF:-1,UK: True Entertainment
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5750.ts
+#EXTINF:-1,UK: True Drama
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5751.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5748.ts
+#EXTINF:-1,UK: Sony TV
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5753.ts
+#EXTINF:-1,UK: Sony Movies
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5743.ts
+#EXTINF:-1,UK: Sony Movies  1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6554.ts
+#EXTINF:-1,UK: UNIVERSAL
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6722.ts
+#EXTINF:-1,UK: Universal  1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6916.ts
+#EXTINF:-1,UK: Parament ch
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6925.ts
+#EXTINF:-1,UK: ITV Encore
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5594.ts
+#EXTINF:-1,UK: ITV Be
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5595.ts
+#EXTINF:-1,UK: ITV1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1432.ts
+#EXTINF:-1,UK: ITV  1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3845.ts
+#EXTINF:-1,UK: ITV2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1431.ts
+#EXTINF:-1,UK: ITV3
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1430.ts
+#EXTINF:-1,UK: ITV4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1429.ts
+#EXTINF:-1,UK: ITV CHOISE HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6469.ts
+#EXTINF:-1,UK: BBC Entertainment
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6718.ts
+#EXTINF:-1,UK: BBC1 HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1437.ts
+#EXTINF:-1,UK: BBC2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1436.ts
+#EXTINF:-1,UK: BBC3/CBBC HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1435.ts
+#EXTINF:-1,UK: BBC4/CBEEBIES HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1434.ts
+#EXTINF:-1,UK: BBC News
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3858.ts
+#EXTINF:-1,UK: SKY ONE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3822.ts
+#EXTINF:-1,UK: SKY TWO
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2166.ts
+#EXTINF:-1,UK: Fox
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6416.ts
+#EXTINF:-1,UK: Fox Life
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6414.ts
+#EXTINF:-1,UK: Fox Crime
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6415.ts
+#EXTINF:-1,UK: TCM+1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6437.ts
+#EXTINF:-1,UK: Film 4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3846.ts
+#EXTINF:-1,UK: Channel 4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3820.ts
+#EXTINF:-1,UK: CBS Drama
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3824.ts
+#EXTINF:-1,UK: CBS Action
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3823.ts
+#EXTINF:-1,UK: CBS Reality
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2433.ts
+#EXTINF:-1,UK: Syfy  1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6917.ts
+#EXTINF:-1,UK: Channel 5
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6459.ts
+#EXTINF:-1,UK: Channel 5 Star
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6462.ts
+#EXTINF:-1,UK: Channel 5 USA
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6461.ts
+#EXTINF:-1,UK: 5USA
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3832.ts
+#EXTINF:-1,UK: REAL Live
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5049.ts
+#EXTINF:-1,UK: GOLD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5051.ts
+#EXTINF:-1,UK: Comedy Central
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/1445.ts
+#EXTINF:-1,UK: Comedy Extra
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5048.ts
+#EXTINF:-1,UK: Nat Geo
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3862.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3863.ts
+#EXTINF:-1,UK: Discovery
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5652.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3864.ts
+#EXTINF:-1,UK: Discovery Science
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3861.ts
+#EXTINF:-1,UK: Discovery Home & Health
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5545.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2100.ts
+#EXTINF:-1,UK: Discovery History
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2099.ts
+#EXTINF:-1,UK: Discovery Shed
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2893.ts
+#EXTINF:-1,UK: Animal planet
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3473.ts
+#EXTINF:-1,UK: History
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3865.ts
+#EXTINF:-1,UK: History  1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5649.ts
+#EXTINF:-1,UK: H2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6629.ts
+#EXTINF:-1,UK: The Vault
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3848.ts
+#EXTINF:-1,UK: Watch
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6573.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3836.ts
+#EXTINF:-1,UK: E4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5599.ts
+#EXTINF:-1,UK: Travel Channel
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5764.ts
+#EXTINF:-1,UK: Really
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6902.ts
+#EXTINF:-1,UK: TLC
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5752.ts
+#EXTINF:-1,UK: CNN Int
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6928.ts
+#EXTINF:-1,UK: Sky News
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5770.ts
+#EXTINF:-1,UK: FOX NEWS
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5047.ts
+#EXTINF:-1,UK: Magic
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5765.ts
+#EXTINF:-1,UK: DMAX
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5762.ts
+#EXTINF:-1,UK: Alibi
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5746.ts
+#EXTINF:-1,UK: 5Star
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5763.ts
+#EXTINF:-1,UK: RTE ONE
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/2435.ts
+#EXTINF:-1,UK: RTE TWO
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3528.ts
+#EXTINF:-1,UK: RTE JUNIOR
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6468.ts
+#EXTINF:-1,UK: Home
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3809.ts
+#EXTINF:-1,UK: Living UK
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6918.ts
+#EXTINF:-1,UK: Food Network
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6926.ts
+#EXTINF:-1,UK: Cartoon Network
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6920.ts
+#EXTINF:-1,UK: Boomerang
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6921.ts
+#EXTINF:-1,UK: Disney Chaneel HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3440.ts
+#EXTINF:-1,UK: Disney Channel 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6922.ts
+#EXTINF:-1,UK: Disney XD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5650.ts
+#EXTINF:-1,UK: Disney Junior
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5651.ts
+#EXTINF:-1,UK: Disney Junior 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6923.ts
+#EXTINF:-1,UK: Nickelodeon
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3866.ts
+#EXTINF:-1,UK: NickToons
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3867.ts
+#EXTINF:-1,UK: NickJr Too
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5647.ts
+#EXTINF:-1,UK: Nick Jr  1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/5648.ts
+#EXTINF:-1,UK: Pop
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6412.ts
+#EXTINF:-1,UK: Kix
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6413.ts
+#EXTINF:-1,UK: More4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3838.ts
+#EXTINF:-1,UK: Five
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3821.ts
+#EXTINF:-1,UK: 3e
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3830.ts
+#EXTINF:-1,UK: TG4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6927.ts
+#EXTINF:-1,UK: MTV Music
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3849.ts
+#EXTINF:-1,UK: MTV Rocks
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6087.ts
+#EXTINF:-1,UK: MTV Hits
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6086.ts
+#EXTINF:-1,UK: MTV Dance
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6085.ts
+#EXTINF:-1,UK: MTV Classic
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3850.ts
+#EXTINF:-1,UK: MTV Base
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6905.ts
+#EXTINF:-1,UK: VH1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/3847.ts
+#EXTINF:-1,UK: VIVA
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6473.ts
+#EXTINF:-1,UK: YESTERDAY
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6900.ts
+#EXTINF:-1,UK: Quest
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6903.ts
+#EXTINF:-1,UK: Pick
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6904.ts
+#EXTINF:-1,UK: Dave
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6914.ts
+#EXTINF:-1,UK: Aliens
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/6919.ts
+#EXTINF:-1,UK: Vintage TV
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7236.ts
+#EXTINF:-1,UK: Ulster TV Ireland
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7237.ts
+#EXTINF:-1,--- ADULT ---
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7857.ts
+#EXTINF:-1,18  XXX: Penthouse HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7849.ts
+#EXTINF:-1,18  XXX: Dorcel
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7843.ts
+#EXTINF:-1,18  XXX: SCT HD
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7847.ts
+#EXTINF:-1,18  XXX: Brazzers tv
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7839.ts
+#EXTINF:-1,18  XXX: Hustler
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7846.ts
+#EXTINF:-1,18  XXX: Blue Hustler
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7836.ts
+#EXTINF:-1,18  XXX: Playboy
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7856.ts
+#EXTINF:-1,18  XXX: Pink Erotic 1
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7850.ts
+#EXTINF:-1,18  XXX: Pink Erotic 2
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7851.ts
+#EXTINF:-1,18  XXX: Pink Erotic 3
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7852.ts
+#EXTINF:-1,18  XXX: Pink Erotic 4
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7853.ts
+#EXTINF:-1,18  XXX: T Girl
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7838.ts
+#EXTINF:-1,18  XXX: Pink TV
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7854.ts
+#EXTINF:-1,18  XXX: RedLight
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7848.ts
+#EXTINF:-1,18  XXX: Hot
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7845.ts
+#EXTINF:-1,18  XXX: Exotica
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7844.ts
+#EXTINF:-1,18  XXX: Desire
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7842.ts
+#EXTINF:-1,18  XXX: Cento Cento
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7841.ts
+#EXTINF:-1,18  XXX: Boy & Boy
+http://iptv-dm.dynu.com:8080/live/diallo/diallo/7837.ts
